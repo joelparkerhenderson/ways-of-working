@@ -23,5 +23,5 @@ Ground rules to get you started:
 * [Ground rules for discussions](ground-rules-for-discussions.md)
 * [Ground rules for meetings](ground-rules-for-meetings.md)
 * [Ground rules for discussions](ground-rules-for-teams.md)
-* [Ground rules for technology teams](ground-rules-for-technology-projects.md)
+* [Ground rules for technology projects](ground-rules-for-technology-projects.md)
 
