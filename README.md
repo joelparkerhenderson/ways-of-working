@@ -19,9 +19,9 @@ Top two ground rules:
 
 Examples:
 
-* [Ground rules for everyone](ground-rules-for-everyone.md)
-* [Ground rules for discussions](ground-rules-for-discussions.md)
-* [Ground rules for meetings](ground-rules-for-meetings.md)
-* [Ground rules for discussions](ground-rules-for-teams.md)
-* [Ground rules for technology projects](ground-rules-for-technology-projects.md)
+* [Ground rules for everyone](ground_rules_for_everyone.md)
+* [Ground rules for discussions](ground_rules_for_discussions.md)
+* [Ground rules for meetings](ground_rules_for_meetings.md)
+* [Ground rules for discussions](ground_rules_for_teams.md)
+* [Ground rules for technology projects](ground_rules_for_technology_projects.md)
 
