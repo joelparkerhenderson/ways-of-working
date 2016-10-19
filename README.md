@@ -17,7 +17,7 @@ Top two ground rules:
 * Mutual respect
 * Mutual purpose
 
-Ground rules to get you started:
+Examples:
 
 * [Ground rules for everyone](ground-rules-for-everyone.md)
 * [Ground rules for discussions](ground-rules-for-discussions.md)
