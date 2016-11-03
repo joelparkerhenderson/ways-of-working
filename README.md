@@ -321,7 +321,6 @@ Visual indicators:
 
 * A checkmark means yes; a circle-slash means no; an "X" is not used because it is ambiguous.
 * A "RAG status" means "Red, Amber, Green"; Red means Stop/Failure/Danger, Amber means Slow/Warning/Caution, Green means Go/Success/Safety.
-* We have a 
 
 Standardized formats:
 
