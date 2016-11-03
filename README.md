@@ -37,6 +37,8 @@ http://getthepicture.ca/a-list-of-ground-rules-for-effective-meetings/
 
 <h2><a name="everyone">For everybody</a></h2>
 
+For everybody, here are some examples.
+
 * Be kind.
 * Be candid.
 * Be courteous.
@@ -54,6 +56,8 @@ http://getthepicture.ca/a-list-of-ground-rules-for-effective-meetings/
 
 
 <h2><a name="discussions">For discussions</a></h2>
+
+For discussions, here are some examples.
 
 * Listen actively and attentively.
 * Seek debate.
@@ -85,6 +89,8 @@ http://getthepicture.ca/a-list-of-ground-rules-for-effective-meetings/
 
 <h2><a name="teams">For teams</a></h2>
 
+For teams, here are some examples.
+
 * All ideas are valid.
 * All voices are heard.
 * Ask questions if you are confused.
@@ -101,6 +107,8 @@ http://getthepicture.ca/a-list-of-ground-rules-for-effective-meetings/
 
 
 <h2><a name="team-communications">For team communications</a></h2>
+
+For team communications, here are some examples.
 
 * Team communications prefer chat over email.
 * Team communications have ways for remote people to participate.
@@ -120,6 +128,8 @@ http://getthepicture.ca/a-list-of-ground-rules-for-effective-meetings/
 
 <h2><a name="team-sign-language">For team sign language</a></h2>
 
+For team sign language, here are some examples.
+
 * To agree, use thumb up.
 * To disagree, use thumb down.
 * To abstain, use thumb sideways.
@@ -130,6 +140,8 @@ http://getthepicture.ca/a-list-of-ground-rules-for-effective-meetings/
 
 
 <h2><a name="team-calendars">For team calendars</a></h2>
+
+For team calendars, here are some examples.
 
 Aims:
 
@@ -143,11 +155,19 @@ Workweek:
 * Every workweek has at least one slot for a team retrospective; the default is a slot on Wednesday after standup to 9:50.
 
 Workday:
+
 * Each workday has a team standup meeting; the default time is 9 a.m.
 * The workday has core hours when we expect people to be together; the default core hours are from 9 a.m. to 5 p.m., because some people need to coordinate with others, such as taking kids to school, or taking commuter transportation, etc.
 
+Notation:
 
-<h2><a name="meetings">Examples for meetings</a></h2>
+* The abbreviation "OOO" means "Out Of Office".
+* Use a team calendar to share events, such as important meetings, deadlines, holidays, birthdays, etc.
+
+
+<h2><a name="meetings">For meetings</a></h2>
+
+For meetings, here are some examples.
 
 * Start on time, stop on time.
 * Start by stating the agenda and the objective.
@@ -182,6 +202,8 @@ Workday:
 
 
 <h2><a name="planning">Examples for planning meetings</a></h2>
+
+For planning meetings, here are some examples.
 
 Before a meeting:
 
@@ -232,7 +254,10 @@ Follow up after a meeting:
 * Take action on the next steps.
 * Follow up on any deferred items, commitments, questions, etc.
 
+
 <h2><a name="standup-meetings">For standups</a></h2>
+
+For standups and similar briefing meetings, here are some examples.
 
 See [MartinFowler.com Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html)
 
@@ -253,6 +278,8 @@ Structure the contributions using the following format:
 
 
 <h2><a name="documentation">For technology projects</a></h2>
+
+For technology projects, here are some examples.
 
 * Time and place of meetings, such as daily scrum, standup, showcase, etc.
 * Testing strategy (unit, functional, integration, performance, stress, etc…)
@@ -278,7 +305,9 @@ Structure the contributions using the following format:
 
 <h2><a name="documentation">For documentation</a></h2>
 
-Team formation:
+For documentation, here are some examples.
+
+Team formation documentation:
 
 * The "Onboarding" document explains how to join our team, what we do, and how we work together.
 * The "People" document lists our teammates' names and contact info.
