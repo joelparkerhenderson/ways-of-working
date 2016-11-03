@@ -104,17 +104,18 @@ http://getthepicture.ca/a-list-of-ground-rules-for-effective-meetings/
 
 * Team communications prefer chat over email.
 * Team communications have ways for remote people to participate.
-* Team communications are summarized and emitted immediately after they happen, so other teammates can be in the loop.
-* If you must email your teammates, then use the "To" field if you need action, and the "Cc" field if you don't need action.
-* Teammates commit to read communications that are sent directly to them, or tagged to them, within 1 business day.
+* Team communications are radiated when events happen, so other teammates can be in the loop.
+* If you email, then use the "To" field if you need action, and the "Cc" field if you don't need action.
+* Teammates commit to read communications sent directly to them within 1 business day.
 * Team whiteboards are eraseable any time; do not write "Do not erase".
 * If someone is wearning headphones, do not disturb unless there is an emergency.
 * The team uses Gibbs' rules from the CSI TV show.
-* Team bonding is  good; team bonding that is focused on alcohol is not good.
-* Each teammate gets their own credentials, such as a username, password, and security badge; do not share these.
+* Team bonding is  good.
+* Team bonding that is focused on alcohol is not good, because some people can't participate.
+* Team bonding can use a not-about-work "swear jar"; if someone talks about work, they put a dollar in the jar.
+* Each teammate gets their own credentials, such as a username, password, and security badge.
 * Each teammate has a crossover person that is able to handle the teammate's work in their absence.
 * If you have a social network page that's relevant to the team, such as LinkedIn page, then make sure it's current.
-* If you have a team event that's not about work, use a "swear jar"; if someone talks about work, they must put a dollar in the swear jar.
 
 
 <h2><a name="team-sign-language">For team sign language</a></h2>
