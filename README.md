@@ -310,12 +310,12 @@ For documentation, here are some examples.
 
 Team formation documentation:
 
-* The "Onboarding" document explains how to join our team, what we do, and how we work together.
-* The "People" document lists our teammates' names and contact info.
-* The "RACIO" document is matrix of roles and people who are Responsible, Accountable, Consultable, Informable, Omittable.
-* The "Wordbook" document of terminology, a.k.a. dictionary, glossary, abbreviation guide.
-* The "Story" document is a slide deck to present to stakeholders about the project, progress, goals, etc.
-* The "Canvas" document is a Business Model Canvas.
+* The Onboarding document explains how to join our team, what we do, and how we work together.
+* The People spreadheet states our teammates' names and contact info.
+* The RACIO matrix states who is Responsible, Accountable, Consultable, Informable, Omittable.
+* The Wordbook document of terminology, a.k.a. dictionary, glossary, abbreviation guide.
+* The Story is a slide deck to present to stakeholders about the project, progress, goals, etc.
+* The Canvas is a Business Model Canvas.
 
 Visual indicators:
 
