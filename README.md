@@ -145,14 +145,15 @@ For team calendars, here are some examples.
 
 Aims:
 
-* Team discussion timeslots aim toward morning times, not afternoon times, because people are generally more open-minded in the morning, and also we have a goal of keeping afternoons open for focused work.
-* Team discussion timeslots use the Harvard idea of 25 minutes or 50 minutes, not a half-hour or hour.
+* Aim toward morning times instead of afternoon times.
+* Aim toward morning times for open-mind meetings, and afternoon times for heads-down focus.
+* Aim toward 25 minutes instead of 30, 50 minutes instead 60; this is the Harvard idea.
 
 Workweek:
 
-* At least one day that is meeting free; the default is Monday and Friday, because this works well with traveling and holidays.
-* At least one slot for a group huddle; the default is slots on Tuesday and Thursday after standup to 9:50.
-* Every workweek has at least one slot for a team retrospective; the default is a slot on Wednesday after standup to 9:50.
+* Do one day that is meeting free; the default is Friday, because it works well with travel and holidays.
+* Do a group huddle; the default is Tuesday 10 a.m. for 50 minutes.
+* Do a team retrospective; the default is a slot on Wednesday after standup to 9:50.
 
 Workday:
 
