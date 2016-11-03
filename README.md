@@ -124,6 +124,7 @@ For team communications, here are some examples.
 * Each teammate gets their own credentials, such as a username, password, and security badge.
 * Each teammate has a crossover person that is able to handle the teammate's work in their absence.
 * If you have a social network page that's relevant to the team, such as LinkedIn page, then make sure it's current.
+* Designate an office area for louder/bigger communications, and an area for silence.
 
 
 <h2><a name="team-sign-language">For team sign language</a></h2>
