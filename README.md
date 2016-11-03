@@ -130,13 +130,20 @@ http://getthepicture.ca/a-list-of-ground-rules-for-effective-meetings/
 
 <h2><a name="team-calendars">For team calendars</a></h2>
 
+Aims:
+
 * Team discussion timeslots aim toward morning times, not afternoon times, because people are generally more open-minded in the morning, and also we have a goal of keeping afternoons open for focused work.
 * Team discussion timeslots use the Harvard idea of 25 minutes or 50 minutes, not a half-hour or hour.
-* Every workweek has at least one day that is meeting free; the default is Monday and Friday, because this works well with traveling and holidays.
-* Every workweek has at least one slot for a group huddle; the default is slots on Tuesday and Thursday after standup to 9:50.
+
+Workweek:
+
+* At least one day that is meeting free; the default is Monday and Friday, because this works well with traveling and holidays.
+* At least one slot for a group huddle; the default is slots on Tuesday and Thursday after standup to 9:50.
 * Every workweek has at least one slot for a team retrospective; the default is a slot on Wednesday after standup to 9:50.
-* Every workday has a team standup; the default time is 9 a.m.
-* The workday starts at 9 a.m., not earlier; this is because some people need to coordinate with others, such as taking kids to school.
+
+Workday:
+* Each workday has a team standup meeting; the default time is 9 a.m.
+* The workday has core hours when we expect people to be together; the default core hours are from 9 a.m. to 5 p.m., because some people need to coordinate with others, such as taking kids to school, or taking commuter transportation, etc.
 
 
 <h2><a name="meetings">Examples for meetings</a></h2>
