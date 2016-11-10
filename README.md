@@ -257,6 +257,12 @@ Follow up after a meeting:
 * Follow up on any deferred items, commitments, questions, etc.
 
 
+<h2><a name="teams">For remote meetings</a></h2>
+
+* Prefer headphones over speakers. This is because headphones minimize office sound, and also some headphones have noise-cancellation features.
+* Prefer push-to-talk over always-on-talk. This is because push-to-talk minimizes group noise.
+
+
 <h2><a name="standup-meetings">For standups</a></h2>
 
 For standups and similar briefing meetings, here are some examples.
