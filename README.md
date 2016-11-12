@@ -1,6 +1,6 @@
 # Ground rules
 
-Ground rules are simple guidelines that improve teamwork and communication. 
+Ground rules are simple guidelines that improve teamwork and communication.
 
 * [Introduction](#introduction)
 * [The two most important ground rules](#important)
@@ -194,12 +194,12 @@ For meetings, here are some examples.
 * There will be no review for those who are late.
 * Ask for more information.
 * Be brief.
-* Be specific. 
-* Beware assumptions, generalizations, or exaggerations. 
+* Be specific.
+* Beware assumptions, generalizations, or exaggerations.
 * Use examples when needed to explain what you mean.
 * Take responsibility for bringing the discussion to where it most needs to be.
 * Is there an “undiscussable” issue that’s really at the heart of things?
-* Take responsibility for your own feelings and experiences. 
+* Take responsibility for your own feelings and experiences.
 * What is most important in this discussion?
 * Use I-statements, such as "I felt so angry when I saw that", rather than You-statements, such as "You made me so angry when you did that."
 * Emotional expression is welcome.
@@ -210,8 +210,14 @@ For meetings, here are some examples.
 * Step up, step back.
 * Speak for yourself.
 * Common ownership of ideas; don’t use names unless necessary for clarity. (We are here to debate ideas, not personalities.)
-* Minimize repetition. 
+* Minimize repetition.
 
+For meetings, choose one focus:
+
+* Informing: status updates, content sharing, keynotes, lectures, etc.
+* Solutioning: solving a problems, making decisions, strategizing, prioritizing, etc.
+* Innovating: brainstorming, generating ideas, evaluating options, etc.
+* Team Building: all-hands, kick-offs, outings, offsites, gaining commitment for a change effort, etc.
 
 <h2><a name="planning">Examples for planning meetings</a></h2>
 
@@ -228,7 +234,7 @@ Plan a meeting:
 * Is everyone clear on what their roles will be in the meeting?
 * Who’s coming? What are their roles? Do they know that’s their role?
 * What supplies will you need in the meeting? Do you have them?
-* What activities will you do to get to the desired outcome? Not theoretically. Tactically. 
+* What activities will you do to get to the desired outcome? Not theoretically. Tactically.
 * Do we want to allot time for a retrospective? If so, with whom, when, and where?
 
 Prepare a meeting room:
@@ -251,6 +257,7 @@ Keep a meeting on track:
 * Remind others who don’t follow them, including ourselves.
 * Defer anything that takes the meeting off track.
 * Work your magic.
+* Consider using "cups" idea, where there are a bunch of cups on the table, each with one ground rule.
 
 Conclude a meeting:
 
@@ -312,7 +319,7 @@ For technology projects, here are some examples.
 * Set up early for demo and prepare
 * Never ignore anything! (Such as bugs “solving themselves”).
 * We never say “no”. We say “sure, just chuck it on the product backlog. It’ll get prioritised later.”
-* Make sure everyone gets heard 
+* Make sure everyone gets heard
 * Each sprint must have a goal
 * Stay focused on the goal / top stories
 * Make sure daily goals are clear (we know the steps we need to take to achieve them)
