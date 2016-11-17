@@ -11,7 +11,8 @@ Ground rules are simple guidelines that improve teamwork and communication.
 * [For team calendars](#team-sign-language)
 * [For meetings](#meetings)
 * [For meeting planning](#meeting-planning)
-* [For standups](#technology)
+* [For standups](#standups)
+* [For standdowns](#standdowns)
 * [For technology projects](#technology)
 * [For documentation](#documentation)
 
@@ -280,9 +281,9 @@ Follow up after a meeting:
 * Prefer push-to-talk over always-on-talk. This is because push-to-talk minimizes group noise.
 
 
-<h2><a name="standup-meetings">For standups</a></h2>
+<h2><a name="standups">For standups</a></h2>
 
-For standups and similar briefing meetings, here are some examples.
+For standups and similar check-in briefing meetings, here are some examples.
 
 See [MartinFowler.com Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html)
 
@@ -300,6 +301,25 @@ Structure the contributions using the following format:
 * What did I accomplish yesterday?
 * What will I do today?
 * What obstacles are impeding my progress?
+
+Have a strong signal to end:
+
+* For example, one person says 3, 2, 1, then everyone claps
+
+
+<h2><a name="standdowns">For standdowns</a></h2>
+
+For standdowns and similar check-out briefing meetings, here are some examples.
+
+* Insights
+* Challenges
+* Puzzles
+* Appreciations
+* Action Items
+
+Have a strong signal to end:
+
+* For example, one person says 3, 2, 1, then everyone claps
 
 
 <h2><a name="documentation">For technology projects</a></h2>
