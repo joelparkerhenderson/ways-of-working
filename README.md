@@ -158,6 +158,26 @@ For team communications, here are some examples.
 * Transparent feedback is better than opaque feedback.
 * Ask for feedback often.
 * Leaders need to explicitly lead great feedback culture.
+* Ask. 
+* Don't Punish. 
+* Show the impact.
+* Make it easy.
+* Create safe places for feedback.
+* Create a regular system for feedback.
+* Make feedback secure and safe.
+* Start small.
+* Implement feedback culture as normal.
+* Have a variety of feedback channels that work well for a variety of personalities.
+* Foster both positive feedback and negative feedback.
+* Explain measures behind decisions regarding feedback.
+* Explain the benefits of feedback.
+* Focus on transparency, so everyone understands how the feedback system works and its purpose.
+* Talk explicitly with the team about the feedback culture you want to create.
+* Create feedback norms for the team. 
+* Systematize mechanisms for giving feedback.
+* Ensure you’re giving lots of positive feedback.
+* Value relationship-building. 
+* Emphasize "What is going well" and "What could go better".
 
 
 <h2><a name="team-sign-language">For team sign language</a></h2>
