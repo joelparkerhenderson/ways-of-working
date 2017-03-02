@@ -7,6 +7,8 @@ Ground rules are simple guidelines that improve teamwork and communication.
 * [For everybody](#everyone)
 * [For discussions](#discussions)
 * [For teams](#teams)
+* [For team communications](#team-communications)
+* [For team feedback](#team-feedback)
 * [For team sign language](#team-sign-language)
 * [For team calendars](#team-sign-language)
 * [For meetings](#meetings)
@@ -136,6 +138,26 @@ For team communications, here are some examples.
 * Each teammate has a crossover person that is able to handle the teammate's work in their absence.
 * If you have a social network page that's relevant to the team, such as LinkedIn page, then make sure it's current.
 * Designate an office area for louder/bigger communications, and an area for silence.
+
+
+<h2><a name="team-feedback">For team feedback</a></h2>
+
+* Giving and receiving feedback is an ongoing goal of ours.
+* We value feedback being consistent, continous, and constructive.
+* We value feedback that is timely, and comes early and often.
+* We value positive complimentary feedback and we also value constructive negative feedback.
+* To give and receive truly candid feedback, people must feel a sense of safety and trust.
+* To create safety and trust, we get to know each other and we talk about emotions.
+* It's OK to say no to giving feedback or receiving feedback.
+* We aim to give lots of positive feedback; a good ratio is 5 positive interactions to 1 negative interaction, even in the midst of a conflict.
+* We praise effort and we also praise ability.
+* It's great to offer some positive feedback, then stop there. 
+* Start small with feedback.
+* Timely feedback is better than late feedback.
+* Actionable feedback is better than unactionable feedback.
+* Transparent feedback is better than opaque feedback.
+* Ask for feedback often.
+* Leaders need to explicitly lead great feedback culture.
 
 
 <h2><a name="team-sign-language">For team sign language</a></h2>
