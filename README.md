@@ -7,14 +7,15 @@ Ground rules are simple guidelines that improve teamwork and communication.
 * [For everybody](#everyone)
 * [For discussions](#discussions)
 * [For teams](#teams)
+* [For team decisions](#team-decisions)
 * [For team communications](#team-communications)
-* [For team feedback](#team-feedback)
 * [For team sign language](#team-sign-language)
 * [For team calendars](#team-sign-language)
 * [For meetings](#meetings)
 * [For meeting planning](#meeting-planning)
 * [For standups](#standups)
 * [For standdowns](#standdowns)
+* [For feedback](#feedback)
 * [For technology projects](#technology)
 * [For documentation](#documentation)
 
@@ -117,6 +118,23 @@ For teams, here are some examples.
 * Silence does not mean agreement nor disagreement.
 * If you are offended by anything said during discussion, acknowledge it immediately.
 * Aggression or personal attacks are not ok and will be halted immediately.
+* Aim to understand each others' strengths and also weaknesses.
+
+
+<h2><a name="team-decisions">For team descisions</a></h2>
+
+For team decisions, here are some examples thanks to Amazon's "high-velocity decision making" itps.
+
+* Decision speed matters.
+* A high-velocity decision environment keeps up energy and dynamism.
+* A high-velocity decision environment is more fun than a low-velocity decision environgment.
+* Never use a one-size-fits-all decision-making process.
+* Many decisions are reversible. Those decisions can use a light-weight process. So what if you’re wrong?*
+* Make most decisions with 2/3 of the information you want; if you wait for more, you’re probably being slow. 
+* Get good at quickly recognizing and correcting bad decisions. 
+* When we’re good at correcting decisions, then being wrong may be less costly, whereas being slow may be more costly. 
+* Use the phrase “disagree and commit” to go fast: if you have conviction on a particular direction even though there’s no consensus, say, “Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?” 
+* Recognize true misalignment issues early and escalate them immediately. Do not let decisions stagnate into “You’ve worn me down”, which is an awful decision-making process, slow and de-energizing. 
 
 
 <h2><a name="team-communications">For team communications</a></h2>
@@ -138,46 +156,6 @@ For team communications, here are some examples.
 * Each teammate has a crossover person that is able to handle the teammate's work in their absence.
 * If you have a social network page that's relevant to the team, such as LinkedIn page, then make sure it's current.
 * Designate an office area for louder/bigger communications, and an area for silence.
-
-
-<h2><a name="team-feedback">For team feedback</a></h2>
-
-* Giving and receiving feedback is an ongoing goal of ours.
-* We value feedback being consistent, continous, and constructive.
-* We value feedback that is timely, and comes early and often.
-* We value positive complimentary feedback and we also value constructive negative feedback.
-* To give and receive truly candid feedback, people must feel a sense of safety and trust.
-* To create safety and trust, we get to know each other and we talk about emotions.
-* It's OK to say no to giving feedback or receiving feedback.
-* We aim to give lots of positive feedback; a good ratio is 5 positive interactions to 1 negative interaction, even in the midst of a conflict.
-* We praise effort and we also praise ability.
-* It's great to offer some positive feedback, then stop there. 
-* Start small with feedback.
-* Timely feedback is better than late feedback.
-* Actionable feedback is better than unactionable feedback.
-* Transparent feedback is better than opaque feedback.
-* Ask for feedback often.
-* Leaders need to explicitly lead great feedback culture.
-* Ask. 
-* Don't Punish. 
-* Show the impact.
-* Make it easy.
-* Create safe places for feedback.
-* Create a regular system for feedback.
-* Make feedback secure and safe.
-* Start small.
-* Implement feedback culture as normal.
-* Have a variety of feedback channels that work well for a variety of personalities.
-* Foster both positive feedback and negative feedback.
-* Explain measures behind decisions regarding feedback.
-* Explain the benefits of feedback.
-* Focus on transparency, so everyone understands how the feedback system works and its purpose.
-* Talk explicitly with the team about the feedback culture you want to create.
-* Create feedback norms for the team. 
-* Systematize mechanisms for giving feedback.
-* Ensure you’re giving lots of positive feedback.
-* Value relationship-building. 
-* Emphasize "What is going well" and "What could go better".
 
 
 <h2><a name="team-sign-language">For team sign language</a></h2>
@@ -355,6 +333,47 @@ For standdowns and similar check-out briefing meetings, here are some examples:
 For standups and standowns, have a strong signal to end:
 
 * For example, one person says 3, 2, 1, then everyone claps
+
+
+<h2><a name="feedback">For feedback</a></h2>
+
+* Giving and receiving feedback is an ongoing goal of ours.
+* We value feedback being consistent, continous, and constructive.
+* We value feedback that is timely, and comes early and often.
+* We value positive complimentary feedback and we also value constructive negative feedback.
+* To give and receive truly candid feedback, people must feel a sense of safety and trust.
+* To create safety and trust, we get to know each other and we talk about emotions.
+* It's OK to say no to giving feedback or receiving feedback.
+* We aim to give lots of positive feedback; a good ratio is 5 positive interactions to 1 negative interaction, even in the midst of a conflict.
+* We praise effort and we also praise ability.
+* It's great to offer some positive feedback, then stop there. 
+* Start small with feedback.
+* Timely feedback is better than late feedback.
+* Actionable feedback is better than unactionable feedback.
+* Transparent feedback is better than opaque feedback.
+* Ask for feedback often.
+* Leaders need to explicitly lead great feedback culture.
+* Ask. 
+* Don't Punish. 
+* Show the impact.
+* Make it easy.
+* Create safe places for feedback.
+* Create a regular system for feedback.
+* Make feedback secure and safe.
+* Start small.
+* Implement feedback culture as normal.
+* Have a variety of feedback channels that work well for a variety of personalities.
+* Foster both positive feedback and negative feedback.
+* Explain measures behind decisions regarding feedback.
+* Explain the benefits of feedback.
+* Focus on transparency, so everyone understands how the feedback system works and its purpose.
+* Talk explicitly with the team about the feedback culture you want to create.
+* Create feedback norms for the team. 
+* Systematize mechanisms for giving feedback.
+* Ensure you’re giving lots of positive feedback.
+* Value relationship-building. 
+* Emphasize "What is going well" and "What could go better".
+* We value increasing people's strengths over trying to fix people's weaknesses.
 
 
 <h2><a name="documentation">For technology projects</a></h2>
