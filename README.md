@@ -121,7 +121,7 @@ For teams, here are some examples.
 * Aim to understand each others' strengths and also weaknesses.
 
 
-<h2><a name="team-decisions">For team descisions</a></h2>
+<h2><a name="team-decisions">For team decisions</a></h2>
 
 For team decisions, here are some examples thanks to Amazon's "high-velocity decision making" itps.
 
