@@ -7,6 +7,7 @@ Ground rules are simple guidelines that improve teamwork and communication.
 * [For everybody](#everyone)
 * [For discussions](#discussions)
 * [For teams](#teams)
+* [For team success at Google](#team-success)
 * [For team decisions](#team-decisions)
 * [For team communications](#team-communications)
 * [For team sign language](#team-sign-language)
@@ -119,6 +120,15 @@ For teams, here are some examples.
 * If you are offended by anything said during discussion, acknowledge it immediately.
 * Aggression or personal attacks are not ok and will be halted immediately.
 * Aim to understand each others' strengths and also weaknesses.
+
+
+<h2><a name="team-success">For team success at Google</a></h2>
+
+* Dependability: we get things done on time and meet expectations.
+* Clarity: we have clear goals and well-defined roles.
+* Meaning: our work has personal significance to each member.
+* Impact: our work is purposeful and positively impacts the greater good.
+* Psychological safety: everyone is safe to take risks, voice opinions, and ask questions.
 
 
 <h2><a name="team-decisions">For team decisions</a></h2>
