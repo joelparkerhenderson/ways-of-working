@@ -2,27 +2,29 @@
 
 Ground rules are simple guidelines that improve teamwork and communication.
 
+Contents:
 * [Introduction](#introduction)
-* [The two most important ground rules](#important)
-* [For everybody](#everyone)
-* [For discussions](#discussions)
-* [For teams](#teams)
-* [For team success at Google](#team-success)
-* [For team decisions](#team-decisions)
-* [For team communications](#team-communications)
-* [For team sign language](#team-sign-language)
-* [For team calendars](#team-sign-language)
-* [For meetings](#meetings)
-* [For meeting planning](#meeting-planning)
-* [For standups](#standups)
-* [For standdowns](#standdowns)
-* [For feedback](#feedback)
-* [For technology projects](#technology)
-* [For documentation](#documentation)
+* [The most important ground rules](#the-most-important-ground-rules)
+* [For everybody](#for-everybody)
+* [For discussions](#for-discussions)
+* [For teams](#for-teams)
+* [For team success at Google](#for-team-success-at-google)
+* [For team decisions](#for-team-decisions)
+* [For team communications](#for-team-communications)
+* [For team sign language](#for-team-sign-language)
+* [For team calendars](#for-team-calendars)
+* [For meetings](#for-meetings)
+* [Examples for planning meetings](#examples-for-planning-meetings)
+* [For remote meetings](#for-remote-meetings)
+* [For standups and standdowns](#for-standups-and-standdowns)
+* [For feedback](#for-feedback)
+* [For technology projects](#for-technology-projects)
+* [For documentation](#for-documentation)
 * [Rules of the Road by Perenchio](#rules-of-the-road-by-perenchio)
+* [Adult Principles by John Perry Barlow](#adult-principles-by-john-perry-barlow)
 
 
-<h2><a name="introduction">Introduction</a></h2>
+## Introduction
 
 Ground rules define a team's common set of expectations and ways of working together.
 
@@ -34,13 +36,13 @@ Good introductions and sources:
 * ["A List of Ground Rules for Effective Meetings" by Get The Picture](http://getthepicture.ca/a-list-of-ground-rules-for-effective-meetings/)
 
 
-<h2><a name="two-most-important">The most important ground rules</a></h2>
+## The most important ground rules
 
 * Mutual respect
 * Mutual purpose
 
 
-<h2><a name="everyone">For everybody</a></h2>
+## For everybody
 
 For everybody, here are some examples.
 
@@ -60,7 +62,7 @@ For everybody, here are some examples.
 * Be thankful.
 
 
-<h2><a name="discussions">For discussions</a></h2>
+## For discussions
 
 For discussions, here are some examples.
 
@@ -102,7 +104,7 @@ Logistical:
 * Let group know your attendance plans.
 
 
-<h2><a name="teams">For teams</a></h2>
+## For teams
 
 For teams, here are some examples.
 
@@ -122,7 +124,7 @@ For teams, here are some examples.
 * Aim to understand each others' strengths and also weaknesses.
 
 
-<h2><a name="team-success">For team success at Google</a></h2>
+## For team success at Google
 
 * Dependability: we get things done on time and meet expectations.
 * Clarity: we have clear goals and well-defined roles.
@@ -131,7 +133,7 @@ For teams, here are some examples.
 * Psychological safety: everyone is safe to take risks, voice opinions, and ask questions.
 
 
-<h2><a name="team-decisions">For team decisions</a></h2>
+## For team decisions
 
 For team decisions, here are some examples thanks to Amazon's "high-velocity decision making" itps.
 
@@ -147,7 +149,7 @@ For team decisions, here are some examples thanks to Amazon's "high-velocity dec
 * Recognize true misalignment issues early and escalate them immediately. Do not let decisions stagnate into “You’ve worn me down”, which is an awful decision-making process, slow and de-energizing. 
 
 
-<h2><a name="team-communications">For team communications</a></h2>
+## For team communications
 
 For team communications, here are some examples.
 
@@ -168,7 +170,7 @@ For team communications, here are some examples.
 * Designate an office area for louder/bigger communications, and an area for silence.
 
 
-<h2><a name="team-sign-language">For team sign language</a></h2>
+## For team sign language
 
 For team sign language, here are some examples.
 
@@ -181,7 +183,7 @@ For team sign language, here are some examples.
 * To say "time out", make the time out sign; conversation stops and the facilitator takes over.
 
 
-<h2><a name="team-calendars">For team calendars</a></h2>
+## For team calendars
 
 For team calendars, here are some examples.
 
@@ -208,7 +210,7 @@ Notation:
 * Use a team calendar to share events, such as important meetings, deadlines, holidays, birthdays, etc.
 
 
-<h2><a name="meetings">For meetings</a></h2>
+## For meetings
 
 For meetings, here are some examples.
 
@@ -250,7 +252,7 @@ For meetings, choose one focus:
 * Innovating: brainstorming, generating ideas, evaluating options, etc.
 * Team Building: all-hands, kick-offs, outings, offsites, gaining commitment for a change effort, etc.
 
-<h2><a name="planning">Examples for planning meetings</a></h2>
+## Examples for planning meetings
 
 For planning meetings, here are some examples.
 
@@ -305,13 +307,13 @@ Follow up after a meeting:
 * Follow up on any deferred items, commitments, questions, etc.
 
 
-<h2><a name="teams">For remote meetings</a></h2>
+## For remote meetings
 
 * Prefer headphones over speakers. This is because headphones minimize office sound, and also some headphones have noise-cancellation features.
 * Prefer push-to-talk over always-on-talk. This is because push-to-talk minimizes group noise.
 
 
-<h2><a name="standups-and-standdowns">For standups and standdowns</a></h2>
+## For standups and standdowns
 
 For standups, standdowns, and similar check-in briefing meetings, here are some examples.
 
@@ -345,7 +347,7 @@ For standups and standowns, have a strong signal to end:
 * For example, one person says 3, 2, 1, then everyone claps
 
 
-<h2><a name="feedback">For feedback</a></h2>
+## For feedback
 
 * Giving and receiving feedback is an ongoing goal of ours.
 * We value feedback being consistent, continous, and constructive.
@@ -386,7 +388,7 @@ For standups and standowns, have a strong signal to end:
 * We value increasing people's strengths over trying to fix people's weaknesses.
 
 
-<h2><a name="documentation">For technology projects</a></h2>
+## For technology projects
 
 For technology projects, here are some examples.
 
@@ -412,7 +414,7 @@ For technology projects, here are some examples.
 * We need to show what we have done to the business people impacted, not just our product owner (when appropriate)
 
 
-<h2><a name="documentation">For documentation</a></h2>
+## For documentation
 
 For documentation, here are some examples.
 
@@ -436,7 +438,7 @@ Standardized formats:
 * For times, state a timezone; for example "Let's talk at 14:00 Eastern" is the same time as 2 p.m. in New York; the timezone "Z" means Zulu time, a.k.a. UTC, GMT.
 
 
-<h2><a name="rules-of-the-road-by-perenchio">Rules of the Road by Perenchio</a></h2>
+## Rules of the Road by Perenchio
 
 The “Rules of the Road” as told by Jerry Perenchio and as published in The Wall Street Journal:
 
@@ -460,3 +462,32 @@ The “Rules of the Road” as told by Jerry Perenchio and as published in The W
 * If you make a mistake, admit it. Just don’t make too many.
 * Don’t be a “customer’s person” (man or woman).
 * Always, always take the high road. Be tough but fair and never lose your sense of humor.
+
+
+## Adult Principles by John Perry Barlow
+
+* Be patient. No matter what.
+* Don’t badmouth: Assign responsibility, not blame. Say nothing of another you wouldn't say to him.
+* Never assume the motives of others are, to them, less noble than yours are to you.
+* Expand your sense of the possible.
+* Don’t trouble yourself with matters you truly cannot change.
+* Don't ask more of others than you can deliver yourself.
+* Tolerate ambiguity.
+* Laugh at yourself frequently.
+* Concern yourself with what is right rather than who is right.
+* Try not to forget that, no matter how certain, you might be wrong.
+* Give up blood sports.
+* Remember that your life belongs to others as well. Don't risk it frivolously.
+* Never lie to anyone for any reason. (Lies of omission are sometimes exempt.)
+* Learn the needs of those around you and respect them.
+* Avoid the pursuit of happiness. Seek to define your mission and pursue that.
+* Reduce your use of the first personal pronoun.
+* Praise at least as often as you disparage.
+* Admit your errors freely and quickly.
+* Become less suspicious of joy.
+* Understand humility.
+* Remember that love forgives everything.
+* Foster dignity.
+* Live memorably.
+* Love yourself.
+* Endure. 
