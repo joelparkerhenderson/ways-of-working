@@ -3,7 +3,7 @@
 Ground rules are simple guidelines that improve teamwork and communication.
 
 Contents:
-* [Introduction](#introduction)
+* [What are ground rules?](#what-are-ground-rules)
 * [The most important ground rules](#the-most-important-ground-rules)
 * [For everybody](#for-everybody)
 * [For discussions](#for-discussions)
@@ -24,7 +24,7 @@ Contents:
 * [Adult Principles by John Perry Barlow](#adult-principles-by-john-perry-barlow)
 
 
-## Introduction
+## What are ground rules?
 
 Ground rules define a team's common set of expectations and ways of working together.
 
@@ -251,6 +251,7 @@ For meetings, choose one focus:
 * Solutioning: solving a problems, making decisions, strategizing, prioritizing, etc.
 * Innovating: brainstorming, generating ideas, evaluating options, etc.
 * Team Building: all-hands, kick-offs, outings, offsites, gaining commitment for a change effort, etc.
+
 
 ## Examples for planning meetings
 
