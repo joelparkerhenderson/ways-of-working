@@ -14,7 +14,7 @@ Contents:
 * [For team sign language](#for-team-sign-language)
 * [For team calendars](#for-team-calendars)
 * [For meetings](#for-meetings)
-* [Examples for planning meetings](#examples-for-planning-meetings)
+* [For planning meetings](#examples-for-planning-meetings)
 * [For remote meetings](#for-remote-meetings)
 * [For standups and standdowns](#for-standups-and-standdowns)
 * [For feedback](#for-feedback)
@@ -26,6 +26,7 @@ Contents:
 
 ## What are ground rules?
 
+Ground rules are simple guidelines that improve teamwork and communication.
 Ground rules define a team's common set of expectations and ways of working together.
 
 Good introductions and sources:
@@ -253,7 +254,7 @@ For meetings, choose one focus:
 * Team Building: all-hands, kick-offs, outings, offsites, gaining commitment for a change effort, etc.
 
 
-## Examples for planning meetings
+## For planning meetings
 
 For planning meetings, here are some examples.
 
