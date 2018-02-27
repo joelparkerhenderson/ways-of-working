@@ -1,7 +1,7 @@
 <!--
   * browser: ground-rules
   * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 1.0.0
+  * version: 14.0.0
   * updated: 2018-02-24T03:07:25Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
@@ -13,8 +13,8 @@ Ground rules are simple guidelines that improve teamwork and communication.
 
 Contents:
 * [What are ground rules?](#what-are-ground-rules)
-* [The most important ground rules](#the-most-important-ground-rules)
 * [For everybody](#for-everybody)
+* [For mutual interactions](#for-mutual-interactions)
 * [For discussions](#for-discussions)
 * [For teams](#for-teams)
 * [For team success at Google](#for-team-success-at-google)
@@ -46,12 +46,6 @@ Good introductions and sources:
 * ["A List of Ground Rules for Effective Meetings" by Get The Picture](http://getthepicture.ca/a-list-of-ground-rules-for-effective-meetings/)
 
 
-## The most important ground rules
-
-* Mutual respect
-* Mutual purpose
-
-
 ## For everybody
 
 For everybody, here are some examples.
@@ -70,6 +64,17 @@ For everybody, here are some examples.
 * Be punctual.
 * Be respectful.
 * Be thankful.
+
+
+## For mutual interactions
+
+For interactions, here are some examples:
+
+* Mutual respect.
+* Mutual purpose.
+* Mutual consideration.
+* Mutual communication.
+* Mutual commitment.
 
 
 ## For discussions
