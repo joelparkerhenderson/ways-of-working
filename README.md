@@ -1,3 +1,12 @@
+<!--
+  * browser: ground-rules
+  * tracker: f44c30d1b876f8987cf78c727e573542
+  * version: 1.0.0
+  * updated: 2018-02-24T03:07:25Z
+  * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+  * options: commentable
+-->
+
 # Ground rules
 
 Ground rules are simple guidelines that improve teamwork and communication.
