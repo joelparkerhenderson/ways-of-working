@@ -31,9 +31,9 @@ Contents:
 * [For documentation](#for-documentation)
 
 Docs:
+* [Adult Principles by John Perry Barlow](docs/adult-principles-by-john-perry-barlow.md)
 * [Ground rules at Telsa by Elon Musk](docs/ground_rules_at_telsa_by_elon_musk.md)
-* [Rules of the Road by Perenchio](#rules-of-the-road-by-perenchio)
-* [Adult Principles by John Perry Barlow](#adult-principles-by-john-perry-barlow)
+* [Rules of the Road by Jerry Perenchio](docs/rules-of-the-road-by-jerry-perenchio.md)
 
 
 ## What are ground rules?
@@ -455,58 +455,3 @@ Standardized formats:
 
 * Dates and times are written using ISO standard sortability, such as the formats YYYY-MM-DD and HH:MM:SS.
 * For times, state a timezone; for example "Let's talk at 14:00 Eastern" is the same time as 2 p.m. in New York; the timezone "Z" means Zulu time, a.k.a. UTC, GMT.
-
-
-## Rules of the Road by Perenchio
-
-The “Rules of the Road” as told by Jerry Perenchio and as published in The Wall Street Journal:
-
-* Stay clear of the press. No interviews, no panels, no speeches, no comments. Stay out of the spotlight — it fades your suit.
-* No nepotism, no hiring of friends.
-* Never rehire anyone.
-* Hire people smarter and better than you. Delegate responsibilities to them. Doing so will make your job easier.
-* You’ve go to know your territory. Cold!
-* Do your homework. Be prepared.
-* Teamwork.
-* Take options, never give them.
-* Rely on your instincts and common sense. If you go against them you generally regret it.
-* No surprises. We don’t give them. We don’t want to get them.
-* Never lose sight of what business you’re in. Stick to your “last.”
-* When you suit up each day it’s to play in Yankee stadium or Dodger stadium. Think big.
-* If you have a problem, don’t delay. Face up to it immediately and solve it.
-* Loose lips sink ships!
-* Supreme self-confidence, never arrogance.
-* A true leader is accessible — no job too big, no job too small.
-* Communication is our business. You can reach any of your associates anytime, anywhere, anyplace.
-* If you make a mistake, admit it. Just don’t make too many.
-* Don’t be a “customer’s person” (man or woman).
-* Always, always take the high road. Be tough but fair and never lose your sense of humor.
-
-
-## Adult Principles by John Perry Barlow
-
-* Be patient. No matter what.
-* Don’t badmouth: Assign responsibility, not blame. Say nothing of another you wouldn't say to him.
-* Never assume the motives of others are, to them, less noble than yours are to you.
-* Expand your sense of the possible.
-* Don’t trouble yourself with matters you truly cannot change.
-* Don't ask more of others than you can deliver yourself.
-* Tolerate ambiguity.
-* Laugh at yourself frequently.
-* Concern yourself with what is right rather than who is right.
-* Try not to forget that, no matter how certain, you might be wrong.
-* Give up blood sports.
-* Remember that your life belongs to others as well. Don't risk it frivolously.
-* Never lie to anyone for any reason. (Lies of omission are sometimes exempt.)
-* Learn the needs of those around you and respect them.
-* Avoid the pursuit of happiness. Seek to define your mission and pursue that.
-* Reduce your use of the first personal pronoun.
-* Praise at least as often as you disparage.
-* Admit your errors freely and quickly.
-* Become less suspicious of joy.
-* Understand humility.
-* Remember that love forgives everything.
-* Foster dignity.
-* Live memorably.
-* Love yourself.
-* Endure. 
