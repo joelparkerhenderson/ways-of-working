@@ -29,6 +29,9 @@ Contents:
 * [For feedback](#for-feedback)
 * [For technology projects](#for-technology-projects)
 * [For documentation](#for-documentation)
+
+Docs:
+* [Ground rules at Telsa by Elon Musk](docs/ground_rules_at_telsa_by_elon_musk.md)
 * [Rules of the Road by Perenchio](#rules-of-the-road-by-perenchio)
 * [Adult Principles by John Perry Barlow](#adult-principles-by-john-perry-barlow)
 
