@@ -31,9 +31,9 @@ Contents:
 * [For documentation](#for-documentation)
 
 Docs:
-* [Adult Principles by John Perry Barlow](docs/adult-principles-by-john-perry-barlow.md)
-* [Ground rules at Telsa by Elon Musk](docs/ground_rules_at_telsa_by_elon_musk.md)
-* [Rules of the Road by Jerry Perenchio](docs/rules-of-the-road-by-jerry-perenchio.md)
+* [Adult Principles by John Perry Barlow](docs/adult_principles_by_john_perry_barlow.md)
+* [Ground rules at Telsa by Elon Musk](docs/ground_rules_at_tesla_by_elon_musk.md)
+* [Rules of the Road by Jerry Perenchio](docs/rules_of_the_road_by_jerry_perenchio.md)
 
 
 ## What are ground rules?
