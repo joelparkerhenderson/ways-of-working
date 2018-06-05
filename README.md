@@ -22,6 +22,8 @@ Contents:
 * [For team communications](#for-team-communications)
 * [For team sign language](#for-team-sign-language)
 * [For team calendars](#for-team-calendars)
+* [For workweeks](#for-workweeks)
+* [For workdays](#for-workdays)
 * [For meetings](#for-meetings)
 * [For planning meetings](#examples-for-planning-meetings)
 * [For remote meetings](#for-remote-meetings)
@@ -216,25 +218,31 @@ Aims:
 * Aim toward morning times for open-mind meetings, and afternoon times for heads-down focus.
 * Aim toward 25 minutes instead of 30, 50 minutes instead 60; this is the Harvard idea.
 
-Workweek:
-
-* Do a day or more that is meeting free. For example a team may like to choose Friday, because it works well with travel and holidays.
-* Do a weekly group huddle. For example a team may like to chooose Tuesday 10 a.m. for 50 minutes, because it works well with the week's rhythm.
-* Do a weekly team retrospective. For example a team may like to choose Thursday 10 a.m. for 50 minutes, because it enables the team to reflect back on the week, and still have some time in the week to make adjustments.
-
-Workday:
-
-* Does your team want a workday standup or similar meeting? For example a team may like to do a 9 a.m. standup each workday, because it sets the tone for the day.
-* Does your team want any kind of daily status update? For example a team may like to agree that each member posts a daily update at the start of the day in a shared team chat channel.
-* Does the workday have core hours when the team expects people to be generally available for working together? For example a team may like to use typical office business hours of 9 a.m. to 5 p.m., or may like to use more flexible workday core hours that are shorter, or that are only on specific workdays, or that are only for specific projects, etc.
-* Outside of workday core hours, what availability does the team want? For example a team may like people to do their own schedule, because some people need to coordinate with others, such as for commuting, volunteering, schooling, parenting, etc. 
-* Does the workday have any kind of end-of-business check out, such as a standdown meeting, or summary update, or process to turn in hours or timecards or receipts etc.?
-
 Notation:
 
 * The abbreviation "OOO" means "Out Of Office".
 * Use a team calendar to share events, such as important meetings, deadlines, holidays, birthdays, etc.
 
+
+## For the workweek
+
+For the workday, here are some examples.
+
+* Do a day or more that is meeting free. For example a team may like to choose Friday, because it works well with travel and holidays.
+* Do a weekly group huddle. For example a team may like to chooose Tuesday 10 a.m. for 50 minutes, because it works well with the week's rhythm.
+* Do a weekly team retrospective. For example a team may like to choose Thursday 10 a.m. for 50 minutes, because it enables the team to reflect back on the week, and still have some time in the week to make adjustments.
+
+
+## For the workday
+
+For the workday, here are some questions and examples.
+
+* Does your team want a workday standup or similar meeting? For example a team may like to do a 9 a.m. standup each workday for 15 minutes, because it sets the tone for the day.
+* Does your team want any kind of daily status update? For example a team may like to agree that each member posts a daily update at the start of the day in a shared team chat channel.
+* Does the workday have core hours when the team expects people to be generally available for working together? For example a team may like to use typical office business hours of 9 a.m. to 5 p.m., or may like to use more flexible workday core hours that are shorter, or that are only on specific workdays, or that are only for specific projects, etc.
+* Does the workday have any kind of end-of-business check out, such as a standdown meeting, or summary update, or process to turn in hours or timecards or receipts etc.?
+* Beyond workday core hours, what general availability does the team want? For example a team may like people to do their own schedule, because some people need to coordinate with others, such as for commuting, volunteering, schooling, parenting, etc. 
+* Beyond workday core hours, what special availability does the team want? For example a team may want to assign someone on pager duty, or know how to reach teammates by mobile phone in case of emergency, or set expecations on whether after-hours emails are encouraged or not, etc.
 
 ## For meetings
 
