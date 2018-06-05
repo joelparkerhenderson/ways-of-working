@@ -213,16 +213,16 @@ Aims:
 
 Workweek:
 
-* Do a day or more that is meeting free. We choose Friday, because it works well with travel and holidays.
-* Do a weekly group huddle. We chooose Tuesday 10 a.m. for 50 minutes, because it works well with the week's rhythm.
-* Do a weekly team retrospective. We choose Thursday 10 a.m. for 50 minutes, because we can reflect back on the week.
+* Do a day or more that is meeting free. For example a team may like to choose Friday, because it works well with travel and holidays.
+* Do a weekly group huddle. For example a team may like to chooose Tuesday 10 a.m. for 50 minutes, because it works well with the week's rhythm.
+* Do a weekly team retrospective. For example a team may like to choose Thursday 10 a.m. for 50 minutes, because it enables the team to reflect back on the week, and still have some time in the week to make adjustments.
 
 Workday:
 
-* Does your team want a workday standup or similar meeting? For example, a team may like to do a 9 a.m. standup each workday, because it sets the tone for the day.
-* Does your team want any kind of daily status update? For example, a team may like to agree that each member posts a daily update at the start of the day in a shared team chat channel.
-* Does the workday have core hours when the team expects people to be generally available for working together? For example, a team may like to use typical office business hours of 9 a.m. to 5 p.m., or may like to use more flexible workday core hours that are shorter, or that are only on specific workdays, or that are only for specific projects, etc.
-* Outside of workday core hours, what availability does the team want? For example, a team may like people to do their own schedule, because some people need to coordinate with others, such as for commuting, volunteering, schooling, parenting, etc. 
+* Does your team want a workday standup or similar meeting? For example a team may like to do a 9 a.m. standup each workday, because it sets the tone for the day.
+* Does your team want any kind of daily status update? For example a team may like to agree that each member posts a daily update at the start of the day in a shared team chat channel.
+* Does the workday have core hours when the team expects people to be generally available for working together? For example a team may like to use typical office business hours of 9 a.m. to 5 p.m., or may like to use more flexible workday core hours that are shorter, or that are only on specific workdays, or that are only for specific projects, etc.
+* Outside of workday core hours, what availability does the team want? For example a team may like people to do their own schedule, because some people need to coordinate with others, such as for commuting, volunteering, schooling, parenting, etc. 
 * Does the workday have any kind of end-of-business check out, such as a standdown meeting, or summary update, or process to turn in hours or timecards or receipts etc.?
 
 Notation:
