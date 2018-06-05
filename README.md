@@ -195,11 +195,11 @@ For team sign language, here are some examples.
 * To agree, use thumb up.
 * To disagree, use thumb down.
 * To abstain, use thumb sideways.
-* To clarify, use the letter "C" sign.
-* To say "I can't hear", cup your hand by your ear.
-* To say "speak up", cup your hand by your mouth.
-* To say "time out", make the time out sign; conversation stops and the facilitator takes over.
-
+* To say that you have a clarification, or want a clarification, use the letter "C" sign.
+* To say "I can't hear you", point to your ear, and move your hand a bit, so the speaker notices.
+* To say "Please speak louder", point to your mouth and move your hand a bit, so the speaker notices.
+* To say "Time out", make the time out sign; conversation stops and the facilitator takes over.
+* The team sign language can be especially helpful on video conference calls, and in large meetings.
 
 ## For team calendars
 
