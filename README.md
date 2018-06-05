@@ -37,11 +37,6 @@ Docs:
 * [Ground rules at Telsa by Elon Musk](docs/ground_rules_at_tesla_by_elon_musk.md)
 * [Rules of the Road by Jerry Perenchio](docs/rules_of_the_road_by_jerry_perenchio.md)
 
-Related teamwork ideas:
-* [Objectives and key results](https://github.com/joelparkerhenderson/objectives_and_key_results)
-* [Key performance indicator](https://github.com/joelparkerhenderson/key_performance_indicator)
-* [SMART criteria for goals and planning](https://github.com/joelparkerhenderson/smart_criteria)
-
 
 ## What are ground rules?
 
@@ -471,3 +466,17 @@ Standardized formats:
 
 * Dates and times are written using ISO standard sortability, such as the formats YYYY-MM-DD and HH:MM:SS.
 * For times, state a timezone; for example "Let's talk at 14:00 Eastern" is the same time as 2 p.m. in New York; the timezone "Z" means Zulu time, a.k.a. UTC, GMT.
+
+
+## See also
+
+More team leadership pages that we like to share with our clients and partners:
+* [Objectives and key results](https://github.com/joelparkerhenderson/objectives_and_key_results)
+* [Key performance indicator](https://github.com/joelparkerhenderson/key_performance_indicator)
+* [SMART criteria for goals](https://github.com/joelparkerhenderson/smart_criteria)
+* [TEAM FOCUS by McKinsey](https://github.com/joelparkerhenderson/team_focus)
+* [Crucial Conversations](https://github.com/joelparkerhenderson/crucial_conversations)
+* [Responsibility assignment matrix](https://github.com/joelparkerhenderson/responsibility_assignment_matrix)
+* [Feedback request template](https://github.com/joelparkerhenderson/feedback_request_template)
+* [Strategic Balanced Scorecard (SBS)](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
+* [Social Value Orientation (SVO)](https://github.com/joelparkerhenderson/social_value_orientation)
