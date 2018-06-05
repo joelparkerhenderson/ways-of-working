@@ -35,6 +35,11 @@ Docs:
 * [Ground rules at Telsa by Elon Musk](docs/ground_rules_at_tesla_by_elon_musk.md)
 * [Rules of the Road by Jerry Perenchio](docs/rules_of_the_road_by_jerry_perenchio.md)
 
+Related teamwork ideas:
+* [Objectives and key results](https://github.com/joelparkerhenderson/objectives_and_key_results)
+* [Key performance indicator](https://github.com/joelparkerhenderson/key_performance_indicator)
+* [SMART criteria for goals and planning](https://github.com/joelparkerhenderson/smart_criteria)
+
 
 ## What are ground rules?
 
