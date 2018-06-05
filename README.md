@@ -224,18 +224,18 @@ Notation:
 * Use a team calendar to share events, such as important meetings, deadlines, holidays, birthdays, etc.
 
 
-## For the workweek
+## For workweeks
 
-For the workday, here are some examples.
+For workweeks and scheduling, here are some examples.
 
 * Do a day or more that is meeting free. For example a team may like to choose Friday, because it works well with travel and holidays.
 * Do a weekly group huddle. For example a team may like to chooose Tuesday 10 a.m. for 50 minutes, because it works well with the week's rhythm.
 * Do a weekly team retrospective. For example a team may like to choose Thursday 10 a.m. for 50 minutes, because it enables the team to reflect back on the week, and still have some time in the week to make adjustments.
 
 
-## For the workday
+## For workdays
 
-For the workday, here are some questions and examples.
+For the workday and scheduling, here are some questions and examples.
 
 * Does your team want a workday standup or similar meeting? For example a team may like to do a 9 a.m. standup each workday for 15 minutes, because it sets the tone for the day.
 * Does your team want any kind of daily status update? For example a team may like to agree that each member posts a daily update at the start of the day in a shared team chat channel.
