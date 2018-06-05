@@ -24,6 +24,7 @@ Contents:
 * [For team calendars](#for-team-calendars)
 * [For workweeks](#for-workweeks)
 * [For workdays](#for-workdays)
+* [For workhours](#for-workhours)
 * [For meetings](#for-meetings)
 * [For planning meetings](#examples-for-planning-meetings)
 * [For remote meetings](#for-remote-meetings)
@@ -230,14 +231,25 @@ For workweeks and scheduling, here are some examples.
 
 ## For workdays
 
-For the workday and scheduling, here are some questions and examples.
+For workdays and scheduling, here are some questions and examples.
 
 * Does your team want a workday standup or similar meeting? For example a team may like to do a 9 a.m. standup each workday for 15 minutes, because it sets the tone for the day.
 * Does your team want any kind of daily status update? For example a team may like to agree that each member posts a daily update at the start of the day in a shared team chat channel.
 * Does the workday have core hours when the team expects people to be generally available for working together? For example a team may like to use typical office business hours of 9 a.m. to 5 p.m., or may like to use more flexible workday core hours that are shorter, or that are only on specific workdays, or that are only for specific projects, etc.
+* Does the workday have any expectations about flex time? For example a team may be fine with people starting/ending on different hours to accommodate commuting, parenting, schooling, volunteering, etc.
 * Does the workday have any kind of end-of-business check out, such as a standdown meeting, or summary update, or process to turn in hours or timecards or receipts etc.?
-* Beyond workday core hours, what general availability does the team want? For example a team may like people to do their own schedule, because some people need to coordinate with others, such as for commuting, volunteering, schooling, parenting, etc. 
+* Beyond workday core hours, what general availability does the team want? For example a team may like people to do their own schedule, because some people need to coordinate with others, such as for commuting, parenting, schooling, volunteering, etc. 
 * Beyond workday core hours, what special availability does the team want? For example a team may want to assign someone on pager duty, or know how to reach teammates by mobile phone in case of emergency, or set expecations on whether after-hours emails are encouraged or not, etc.
+
+
+## For workhours
+
+For workhours, here are some examples.
+
+* Does you have any kinds of ground rules about workhours? For example some countries and some industries have regulations regarding how many hours a person can work at a time, or per week, or per pay period.
+* Do you have any kinds of categorization about workhours? For example some companies and some unions have regulations about a set number of hours being paid at a regular rate, and overtime hours being paid extra.
+* Do you have any minimum/maximum workhours? For example some people have roles where workhours are as-needed, or on-call, or on-retainer; other people have roles where a set amount of workhours are expected every day, or every week.
+
 
 ## For meetings
 
