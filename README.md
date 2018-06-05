@@ -71,7 +71,7 @@ For everybody, here are some examples.
 
 ## For mutual interactions
 
-For interactions, here are some examples:
+For interactions, here are some examples.
 
 * Mutual respect.
 * Mutual purpose.
@@ -223,7 +223,7 @@ Workday:
 * Does your team want any kind of daily status update? For example, a team may like to agree that each member posts a daily update at the start of the day in a shared team chat channel.
 * Does the workday have core hours when the team expects people to be generally available for working together? For example, a team may like to use typical office business hours of 9 a.m. to 5 p.m., or may like to use more flexible workday core hours that are shorter, or that are only on specific workdays, or that are only for specific projects, etc.
 * Outside of workday core hours, what availability does the team want? For example, a team may like people to do their own schedule, because some people need to coordinate with others, such as for commuting, volunteering, schooling, parenting, etc. 
-* Does the workday have any kind of end-of-business check in, such as a standdown meeting, or summary update?
+* Does the workday have any kind of end-of-business check out, such as a standdown meeting, or summary update, or process to turn in hours or timecards or receipts etc.?
 
 Notation:
 
