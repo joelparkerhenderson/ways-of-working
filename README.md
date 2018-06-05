@@ -213,9 +213,9 @@ Aims:
 
 Workweek:
 
-* Do one day that is meeting free; the default is Friday, because it works well with travel and holidays.
-* Do a group huddle; the default is Tuesday 10 a.m. for 50 minutes.
-* Do a team retrospective; the default is a slot on Wednesday after standup to 9:50.
+* Do a day or more that is meeting free. We choose Friday, because it works well with travel and holidays.
+* Do a weekly group huddle. We chooose Tuesday 10 a.m. for 50 minutes, because it works well with the week's rhythm.
+* Do a weekly team retrospective. We choose Thursday 10 a.m. for 50 minutes, because we can reflect back on the week.
 
 Workday:
 
