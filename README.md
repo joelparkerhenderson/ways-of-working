@@ -9,7 +9,7 @@
 
 # Ground rules
 
-Ground rules are simple guidelines that improve teamwork and communication.
+Ground rules are simple guidelines that improve teamwork and communication. Ground rules may be also known as working agreements, team arrangements, shared expectations, and group understandings.
 
 Contents:
 * [What are ground rules?](#what-are-ground-rules)
