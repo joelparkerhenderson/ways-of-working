@@ -219,9 +219,11 @@ Workweek:
 
 Workday:
 
-* Each workday has a team standup meeting. We choose 9 a.m., because it sets the tone for the day.
-* The workday has core hours when we expect people to be together. We choose core hours 9 a.m. to 5 p.m. in our team's main time zone, because these are typical business hours for typical offices.
-* Beyond the workday core hours, we expect people to do their own schedule, because some people need to coordinate with others, such as for commuting, volunteering, schooling, parenting, etc.
+* Does your team want a workday standup or similar meeting? For example, a team may like to do a 9 a.m. standup each workday, because it sets the tone for the day.
+* Does your team want any kind of daily status update? For example, a team may like to agree that each member posts a daily update at the start of the day in a shared team chat channel.
+* Does the workday have core hours when the team expects people to be generally available for working together? For example, a team may like to use typical office business hours of 9 a.m. to 5 p.m., or may like to use more flexible workday core hours that are shorter, or that are only on specific workdays, or that are only for specific projects, etc.
+* Outside of workday core hours, what availability does the team want? For example, a team may like people to do their own schedule, because some people need to coordinate with others, such as for commuting, volunteering, schooling, parenting, etc. 
+* Does the workday have any kind of end-of-business check in, such as a standdown meeting, or summary update?
 
 Notation:
 
