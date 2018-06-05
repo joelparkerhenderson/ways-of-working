@@ -219,8 +219,9 @@ Workweek:
 
 Workday:
 
-* Each workday has a team standup meeting; the default time is 9 a.m.
-* The workday has core hours when we expect people to be together; the default core hours are from 9 a.m. to 5 p.m., because some people need to coordinate with others, such as taking kids to school, or taking commuter transportation, etc.
+* Each workday has a team standup meeting. We choose 9 a.m., because it sets the tone for the day.
+* The workday has core hours when we expect people to be together. We choose core hours 9 a.m. to 5 p.m. in our team's main time zone, because these are typical business hours for typical offices.
+* Beyond the workday core hours, we expect people to do their own schedule, because some people need to coordinate with others, such as for commuting, volunteering, schooling, parenting, etc.
 
 Notation:
 
