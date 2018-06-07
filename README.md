@@ -1,8 +1,8 @@
 <!--
   * browser: ground-rules
   * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 14.0.0
-  * updated: 2018-02-24T03:07:25Z
+  * version: 14.2.0
+  * updated: 2018-06-07T20:45:52Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
@@ -33,10 +33,11 @@ Contents:
 * [For technology projects](#for-technology-projects)
 * [For documentation](#for-documentation)
 
-Docs:
+Documentation examples:
 * [Adult Principles by John Perry Barlow](docs/adult_principles_by_john_perry_barlow.md)
 * [Ground rules at Telsa by Elon Musk](docs/ground_rules_at_tesla_by_elon_musk.md)
 * [Rules of the Road by Jerry Perenchio](docs/rules_of_the_road_by_jerry_perenchio.md)
+* [Team working agreement example by giffconstable](docs/team_working_agreement_example_by_giffconstable.md)
 
 
 ## What are ground rules?
