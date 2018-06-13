@@ -16,6 +16,7 @@ Contents:
 * [For everybody](#for-everybody)
 * [For mutual interactions](#for-mutual-interactions)
 * [For discussions](#for-discussions)
+* [For partners](#for-partners)
 * [For teams](#for-teams)
 * [For team success at Google](#for-team-success-at-google)
 * [For team decisions](#for-team-decisions)
@@ -124,6 +125,22 @@ Logistical:
 * One person talks at a time.
 * Take responsibility for what you need in the meeting.
 * Let group know your attendance plans.
+
+
+## For partners
+
+For partners, here are some examples.
+
+* View the issue as “we” not “me”.
+* Accept where you are. It’s OK if things aren’t perfect. 
+* Look for your part in the problem. In a partnership, partners play a role in happiness or unhappiness.
+* Make it safe to share. This includes giving a heads up about a big conversation, choosing a neutral time and place, and so on.
+* Focus on one topic, rather than multiple topics.
+* Focus on one goal, rather than just airing your needs.
+* Acknowledge that growth together is a process, and allow time for changes to happen.
+* Agree to check in from time to time to discuss the issue if it can’t be solved right away.
+* If talking feels difficult, then consider using writing. For example, you can write an email or journal entry to ask questions, suggest improvements, or describe emotions.
+* If communication feels blocked, then consider using a third party. For example, you can invovled a counselor, coach, meditator, therapist, or trusted friend.
 
 
 ## For teams
