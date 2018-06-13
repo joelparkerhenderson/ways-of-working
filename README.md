@@ -137,6 +137,9 @@ For partners, here are some examples.
 * Make it safe to share. This includes giving a heads up about a big conversation, choosing a neutral time and place, and so on.
 * Focus on one topic, rather than multiple topics.
 * Focus on one goal, rather than just airing your needs.
+* Identify the issue from each partner's perspective.
+* Brainstorm solutions.
+* Ask for a time out, if you want one.
 * Acknowledge that growth together is a process, and allow time for changes to happen.
 * Agree to check in from time to time to discuss the issue if it can’t be solved right away.
 * If talking feels difficult, then consider using writing. For example, you can write an email or journal entry to ask questions, suggest improvements, or describe emotions.
