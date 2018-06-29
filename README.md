@@ -1,8 +1,8 @@
 <!--
   * browser: ground-rules
   * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 14.2.0
-  * updated: 2018-06-07T20:45:52Z
+  * version: 14.3.0
+  * updated: 2018-06-29T03:04:15Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
@@ -39,7 +39,7 @@ Documentation examples:
 * [Ground rules at Telsa by Elon Musk](doc/ground_rules_at_tesla_by_elon_musk.md)
 * [Rules of the Road by Jerry Perenchio](doc/rules_of_the_road_by_jerry_perenchio.md)
 * [Team working agreement example by giffconstable](doc/team_working_agreement_example_by_giffconstable.md)
-
+* [Leadership Principles by United States Marine Corps](doc/leadership_principles_by_united_states_marine_corps.md)
 
 ## What are ground rules?
 
