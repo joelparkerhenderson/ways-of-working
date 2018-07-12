@@ -35,10 +35,10 @@ Contents:
 * [For documentation](#for-documentation)
 
 Documentation examples:
-* [Adult Principles by John Perry Barlow](docs/adult_principles_by_john_perry_barlow.md)
-* [Ground rules at Telsa by Elon Musk](docs/ground_rules_at_tesla_by_elon_musk.md)
-* [Rules of the Road by Jerry Perenchio](docs/rules_of_the_road_by_jerry_perenchio.md)
-* [Team working agreement example by giffconstable](docs/team_working_agreement_example_by_giffconstable.md)
+* [Adult Principles by John Perry Barlow](doc/adult_principles_by_john_perry_barlow.md)
+* [Ground rules at Telsa by Elon Musk](doc/ground_rules_at_tesla_by_elon_musk.md)
+* [Rules of the Road by Jerry Perenchio](doc/rules_of_the_road_by_jerry_perenchio.md)
+* [Team working agreement example by giffconstable](doc/team_working_agreement_example_by_giffconstable.md)
 
 
 ## What are ground rules?
