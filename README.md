@@ -40,6 +40,8 @@ Documentation examples:
 * [Rules of the Road by Jerry Perenchio](doc/rules_of_the_road_by_jerry_perenchio.md)
 * [Team working agreement example by giffconstable](doc/team_working_agreement_example_by_giffconstable.md)
 * [Leadership Principles by United States Marine Corps](doc/leadership_principles_by_united_states_marine_corps.md)
+* [The Core Protocols by McCarthy](doc/the_core_protocols_by_mccarthy.md)
+
 
 ## What are ground rules?
 
