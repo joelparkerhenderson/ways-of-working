@@ -2,7 +2,7 @@
 
 http://www.mccarthyshow.com/online/
 
-The Core Protocols V.3.02: The Core is distributed under the terms of the GNU-PL. For exact terms see <a href="http://www.gnu.org/licenses/gpl.txt">http://www.gnu.org/licenses/gpl.txt</a>. The Core is considered as source code under that agreement. You are free to use and distribute this work or any derivations you care to make, provided you also distribute this source document in its entirety, including this paragraph.)
+The Core Protocols V.3.02: The Core is distributed under the terms of the GNU-PL. For exact terms see <a href="http://www.gnu.org/licenses/gpl.txt">http://www.gnu.org/licenses/gpl.txt</a>. The Core is considered as source code under that agreement. You are free to use and distribute this work or any derivations you care to make, provided you also distribute this source document in its entirety, including this paragraph.
 
 The following Core Protocols are made up of both commitments and protocols.
 
