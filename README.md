@@ -204,7 +204,7 @@ If talking feels difficult, then consider using writing. For example, you can wr
 If communication feels blocked, then consider using a third party. For example, you can invovled a counselor, coach, meditator, therapist, or trusted friend.
 
 
-## Sign language
+## For sign language
 
 To agree, use thumb up.
 
@@ -218,9 +218,11 @@ To say "I can't hear you", point to your ear, and move your hand a bit, so the s
 
 To say "Please speak louder", point to your mouth and move your hand a bit, so the speaker notices.
 
-To say "Time out", make the time out sign; conversation stops and the facilitator takes over.
+To say "Time out", make the time out sign; conversation stops, and the facilitator takes over.
 
-The team sign language can be especially helpful on video conference calls, and in large meetings.
+Sign language can be helpful for people who are hard of hearing.
+
+Sign language can be helpful for video conference calls, and in large meetings, and in noisy areas.
 
 
 ## For teams
@@ -254,7 +256,7 @@ Aggression or personal attacks are not ok and will be halted immediately.
 Aim to understand each others' strengths and also weaknesses.
 
 
-### Team decisions
+### Team decisions with high-velocity
 
 For team decisions, here are some examples thanks to Amazon's "high-velocity decision making" tips.
 
@@ -433,16 +435,18 @@ Step up, step back.
 
 Speak for yourself.
 
-Common ownership of ideas; don’t use names unless necessary for clarity. (We are here to debate ideas, not personalities.)
+Common ownership of ideas; don’t use names unless necessary for clarity. 
+
+We are here to debate ideas, not personalities.
 
 Minimize repetition.
 
 
 ### To faciliate a meeting
 
-The facilitator can use short stacks (up to 3-4 people), reserving the right to add people in an order other than that in which hands were raised in order to answer direct questions, add people in who are less vocal, or follow a thread of discussion.
-
 The facilitator has the power to make judgment calls on process, including directing the topic to where they think it most usefully needs to go (after checking in with the group), so that the group does not spend inordinate time talking about what to talk about.
+
+The facilitator can use short stacks (up to 3-4 people), reserving the right to add people in an order other than that in which hands were raised in order to answer direct questions, add people in who are less vocal, or follow a thread of discussion.
 
 
 ### To keep a meeting on track
@@ -486,14 +490,14 @@ Follow up on any deferred items, commitments, questions, etc.
 
 Prefer headphones over speakers. This is because headphones minimize office sound, and also some headphones have noise-cancellation features.
 
+Prefer to have people join on mute. This is because it helps minimize extraneous sound.
+
 Prefer push-to-talk over always-on-talk. This is because push-to-talk minimizes group noise.
 
 
 ## For briefings
 
 For briefings, such as check-ins, situation reports, standups, standdowns, and similar short meetings, here are some examples.
-
-See [MartinFowler.com Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html)
 
 Who attends?
 
@@ -576,7 +580,7 @@ Aim toward morning times instead of afternoon times.
 
 Aim toward morning times for open-mind meetings, and afternoon times for heads-down focus.
 
-Aim toward 25 minutes instead of 30, 50 minutes instead 60; this is the Harvard idea.
+Aim toward 25 minutes instead of 30, and aim toward 50 minutes instead 60; this is the Harvard idea.
 
 
 ### For calendar notations
@@ -605,9 +609,13 @@ Ask.
 
 Don't punish. 
 
+Start small.
+
 Show the impact.
 
 Make it easy.
+
+Make it open and transparent.
 
 Create a regular system for feedback.
 
@@ -646,14 +654,12 @@ We value feedback being consistent, continous, and constructive.
 
 We value feedback that is timely, and comes early and often.
 
-We value positive complimentary feedback and we also value constructive negative feedback.
+We value positive complimentary feedback, and we also value constructive negative feedback.
 
 
-### Feedback preferences
+### Feedback using SMART
 
-Small feedback is better than large feedback.
-
-Specific feedback is better than vague feedback.
+Specific feedback is better than general feedback.
 
 Measurable feedback is better than qualitative feedback.
 
@@ -662,8 +668,6 @@ Actionable feedback is better than unactionable feedback.
 Relevant feedback is better than irrelevant feedback.
 
 Timely feedback is better than late feedback.
-
-Transparent feedback is better than opaque feedback.
 
 
 ### Feedback safety
