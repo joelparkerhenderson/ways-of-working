@@ -18,48 +18,42 @@ Contents:
 * [For mutual interactions](#for-mutual-interactions)
 * [For discussions](#for-discussions)
 * [For partners](#for-partners)
+* [Sign language](#sign-language)
 * [For teams](#for-teams)
-* [For team success at Google](#for-team-success-at-google)
-* [For team decisions](#for-team-decisions)
-* [For team communications](#for-team-communications)
-* [For team sign language](#for-team-sign-language)
-* [For team calendar times](#for-team-calendar-times)
-* [For team calendar notations](#for-team-calendar-notations)
+  * [Team decisions](#team-decisions)
+  * [Team communications](#team-communications)
+  * [Team bonding](#team-bonding)
+  * [Team success ideas at Google](#team-success-ideas-at-google)
 * [For meetings](#for-meetings)
-* [For meetings, choose one focus](#for-meetings-choose-one-focus)
-* [For planning a meeting](#for-planning-a-meeting)
-* [For preparing a meeting room](#for-preparing-a-meeting-room)
-* [To start a meeting](#to-start-a-meeting)
-* [To keep a meeting on track](#to-keep-a-meeting-on-track)
-* [To conclude a meeting](#to-conclude-a-meeting)
-* [To follow up after a meeting](#to-follow-up-after-a-meeting)
-* [For remote meetings](#for-remote-meetings)
-* [For standups and standdowns](#for-standups-and-standdowns)
-* [For standups and similar briefings](#for-standups-and-similar-briefings)
-* [For standowns and similar briefings](#for-standowns-and-similar-briefings)
-* [For workweek scheduling](#for-workweek-scheduling)
-* [For workday scheduling](#for-workday-scheduling)
-* [For workhours scheduling](#for-workhours-scheduling)
+  * [To focus a meeting](#to-focus-a-meeting)
+  * [To plan a meeting](#to-plan-a-meeting)
+  * [To prepare a meeting room](#to-prepare-a-meeting-room)
+  * [To start a meeting](#to-start-a-meeting)
+  * [To participate in a meeting](#to-participate-in-a-meeting)
+  * [To faciliate a meeting](#to-faciliate-a-meeting)
+  * [To keep a meeting on track](#to-keep-a-meeting-on-track)
+  * [To conclude a meeting](#to-conclude-a-meeting)
+  * [To follow up after a meeting](#to-follow-up-after-a-meeting)
+  * [To improve remote meetings](#to-improve-remote-meetings)
+* [For briefings](#for-briefings)
+  * [For standups and similar briefings](#for-standups-and-similar-briefings)
+  * [For standowns and similar briefings](#for-standowns-and-similar-briefings)
+* [For scheduling](#for-scheduling)
+  * [For workweeks](#for-workweeks)
+  * [For workdays](#for-workdays)
+  * [For workhours](#for-workhours)
+  * [For calendar times](#for-calendar-times)
+  * [For calendar notations](#for-calendar-notations)
 * [For feedback](#for-feedback)
+  * [Feedback values](#feedback-values)
+  * [Feedback preferences](#feedback-preferences)
+  * [Feedback safety](#feedback-safety)
 * [For technology projects](#for-technology-projects)
-* [For team formation documentation](#for-team-formation-documentation)
+* [For team documentation](#for-team-documentation)
 * [For visual indicators](#for-visual-indicators)
 * [For standardized formats](#for-standardized-formats)
 * [See also](#see-also)
   
-Documentation examples:
-
-  * [Adult Principles by John Perry Barlow](doc/adult_principles_by_john_perry_barlow.md)
-
-  * [Ground rules at Telsa by Elon Musk](doc/ground_rules_at_tesla_by_elon_musk.md)
-
-  * [Rules of the Road by Jerry Perenchio](doc/rules_of_the_road_by_jerry_perenchio.md)
-
-  * [Team working agreement example by giffconstable](doc/team_working_agreement_example_by_giffconstable.md)
-
-  * [Leadership Principles by United States Marine Corps](doc/leadership_principles_by_united_states_marine_corps.md)
-
-  * [The Core Protocols by McCarthy](doc/the_core_protocols_by_mccarthy.md)
 
 
 ## What are ground rules?
@@ -210,6 +204,25 @@ If talking feels difficult, then consider using writing. For example, you can wr
 If communication feels blocked, then consider using a third party. For example, you can invovled a counselor, coach, meditator, therapist, or trusted friend.
 
 
+## Sign language
+
+To agree, use thumb up.
+
+To disagree, use thumb down.
+
+To abstain, use thumb sideways.
+
+To say that you have a clarification, or want a clarification, use the letter "C" sign.
+
+To say "I can't hear you", point to your ear, and move your hand a bit, so the speaker notices.
+
+To say "Please speak louder", point to your mouth and move your hand a bit, so the speaker notices.
+
+To say "Time out", make the time out sign; conversation stops and the facilitator takes over.
+
+The team sign language can be especially helpful on video conference calls, and in large meetings.
+
+
 ## For teams
 
 All ideas are valid.
@@ -241,20 +254,7 @@ Aggression or personal attacks are not ok and will be halted immediately.
 Aim to understand each others' strengths and also weaknesses.
 
 
-## For team success at Google
-
-Dependability: we get things done on time and meet expectations.
-
-Clarity: we have clear goals and well-defined roles.
-
-Meaning: our work has personal significance to each member.
-
-Impact: our work is purposeful and positively impacts the greater good.
-
-Psychological safety: everyone is safe to take risks, voice opinions, and ask questions.
-
-
-## For team decisions
+### Team decisions
 
 For team decisions, here are some examples thanks to Amazon's "high-velocity decision making" tips.
 
@@ -279,7 +279,7 @@ Use the phrase “disagree and commit” to go fast: if you have conviction on a
 Recognize true misalignment issues early and escalate them immediately. Do not let decisions stagnate into “You’ve worn me down”, which is an awful decision-making process, slow and de-energizing. 
 
 
-## For team communications
+### Team communications
 
 Team communications have ways for remote people to participate.
 
@@ -306,7 +306,7 @@ If you have a social network page that's relevant to the team, such as LinkedIn 
 Designate an office area for louder/bigger communications, and an area for silence.
 
 
-## Team bonding
+### Team bonding
 
 Team bonding is good and valuable.
 
@@ -315,58 +315,36 @@ Team bonding that is focused on alcohol is not good, because some people can't p
 Team bonding can use a not-about-work "swear jar"; if someone talks about work, they put a dollar in the jar.
 
 
-## Team sign language
+### Team success ideas at Google
 
-To agree, use thumb up.
+Dependability: we get things done on time and meet expectations.
 
-To disagree, use thumb down.
+Clarity: we have clear goals and well-defined roles.
 
-To abstain, use thumb sideways.
+Meaning: our work has personal significance to each member.
 
-To say that you have a clarification, or want a clarification, use the letter "C" sign.
+Impact: our work is purposeful and positively impacts the greater good.
 
-To say "I can't hear you", point to your ear, and move your hand a bit, so the speaker notices.
-
-To say "Please speak louder", point to your mouth and move your hand a bit, so the speaker notices.
-
-To say "Time out", make the time out sign; conversation stops and the facilitator takes over.
-
-The team sign language can be especially helpful on video conference calls, and in large meetings.
+Psychological safety: everyone is safe to take risks, voice opinions, and ask questions.
 
 
-## Team calendar times
-
-Aim toward morning times instead of afternoon times.
-
-Aim toward morning times for open-mind meetings, and afternoon times for heads-down focus.
-
-Aim toward 25 minutes instead of 30, 50 minutes instead 60; this is the Harvard idea.
+## For meetings
 
 
-## Team calendar notations
+### To focus a meeting
 
-Use a team calendar to share events, such as important meetings, organization deadlines, holidays, birthdays, etc.
+To focus a meeting and its goals, choose one purpose: informing, solutioning, innovating, or team building.
 
-The abbreviation "OOO" means "Out Of Office".
+Examples of informing: status updates, content sharing, keynotes, lectures, etc.
 
-The abbreviation "PTO" means "Paid Time Off".
+Examples of solutioning: solving a problems, making decisions, strategizing, prioritizing, etc.
 
+Examples of innovating: brainstorming, generating ideas, evaluating options, etc.
 
-## Meetings
-
-
-### To choose a meeting focus
-
-Informing: status updates, content sharing, keynotes, lectures, etc.
-
-Solutioning: solving a problems, making decisions, strategizing, prioritizing, etc.
-
-Innovating: brainstorming, generating ideas, evaluating options, etc.
-
-Team Building: all-hands, kick-offs, outings, offsites, gaining commitment for a change effort, etc.
+Examples o team building: all-hands, kick-offs, outings, offsites, gaining commitment for a change effort, etc.
 
 
-## To plan a meeting
+### To plan a meeting
 
 Invite people with enough notice.
 
@@ -408,7 +386,7 @@ If necessary remind everyone to focus. For example "If there is anything that do
 
 Share responsibility for the meeting’s effectiveness.
 
-Turn off mobile phones.
+Silence any devices that may cause interruptions, for example ask everyone to turn off the ringtones on their mobile phones.
 
 
 ### To participate in a meeting
@@ -458,8 +436,6 @@ Speak for yourself.
 Common ownership of ideas; don’t use names unless necessary for clarity. (We are here to debate ideas, not personalities.)
 
 Minimize repetition.
-
-Stop on time.
 
 
 ### To faciliate a meeting
@@ -592,6 +568,25 @@ Do you have any kinds of ground rules about workhours? For example some countrie
 Do you have any kinds of categorization about workhours? For example some companies and some unions have regulations about a set number of hours being paid at a regular rate, and overtime hours being paid extra.
 
 Do you have any minimum/maximum workhours? For example some people have roles where workhours are as-needed, or on-call, or on-retainer; other people have roles where a set amount of workhours are expected every day, or every week.
+
+
+### For calendar times
+
+Aim toward morning times instead of afternoon times.
+
+Aim toward morning times for open-mind meetings, and afternoon times for heads-down focus.
+
+Aim toward 25 minutes instead of 30, 50 minutes instead 60; this is the Harvard idea.
+
+
+### For calendar notations
+
+Use a team calendar to share events, such as important meetings, organization deadlines, holidays, birthdays, etc.
+
+The abbreviation "OOO" means "Out Of Office".
+
+The abbreviation "PTO" means "Paid Time Off".
+
 
 
 ## For feedback
@@ -756,6 +751,20 @@ For times, state a timezone; for example "Let's talk at 14:00 Eastern" is the sa
 
 
 ## See also
+
+Ground rule examples:
+
+  * [Adult Principles by John Perry Barlow](doc/adult_principles_by_john_perry_barlow.md)
+
+  * [Ground rules at Telsa by Elon Musk](doc/ground_rules_at_tesla_by_elon_musk.md)
+
+  * [Rules of the Road by Jerry Perenchio](doc/rules_of_the_road_by_jerry_perenchio.md)
+
+  * [Team working agreement example by giffconstable](doc/team_working_agreement_example_by_giffconstable.md)
+
+  * [Leadership Principles by United States Marine Corps](doc/leadership_principles_by_united_states_marine_corps.md)
+
+  * [The Core Protocols by McCarthy](doc/the_core_protocols_by_mccarthy.md)
 
 More team leadership pages that we like to share with our clients and partners:
 
