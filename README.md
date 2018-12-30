@@ -12,6 +12,7 @@
 Ground rules are simple guidelines that improve teamwork and communication. Ground rules may be also known as working agreements, team arrangements, shared expectations, and group understandings.
 
 Contents:
+
 * [What are ground rules?](#what-are-ground-rules)
 * [For everybody](#for-everybody)
 * [For mutual interactions](#for-mutual-interactions)
@@ -22,25 +23,43 @@ Contents:
 * [For team decisions](#for-team-decisions)
 * [For team communications](#for-team-communications)
 * [For team sign language](#for-team-sign-language)
-* [For team calendars](#for-team-calendars)
+* [For team calendar times](#for-team-calendar-times)
+* [For team calendar notations](#for-team-calendar-notations)
 * [For meetings](#for-meetings)
-* [For planning meetings](#examples-for-planning-meetings)
+* [For meetings, choose one focus](#for-meetings-choose-one-focus)
+* [For planning a meeting](#for-planning-a-meeting)
+* [For preparing a meeting room](#for-preparing-a-meeting-room)
+* [To start a meeting](#to-start-a-meeting)
+* [To keep a meeting on track](#to-keep-a-meeting-on-track)
+* [To conclude a meeting](#to-conclude-a-meeting)
+* [To follow up after a meeting](#to-follow-up-after-a-meeting)
 * [For remote meetings](#for-remote-meetings)
 * [For standups and standdowns](#for-standups-and-standdowns)
-* [For workweeks](#for-workweeks)
-* [For workdays](#for-workdays)
-* [For workhours](#for-workhours)
+* [For standups and similar briefings](#for-standups-and-similar-briefings)
+* [For standowns and similar briefings](#for-standowns-and-similar-briefings)
+* [For workweek scheduling](#for-workweek-scheduling)
+* [For workday scheduling](#for-workday-scheduling)
+* [For workhours scheduling](#for-workhours-scheduling)
 * [For feedback](#for-feedback)
 * [For technology projects](#for-technology-projects)
-* [For documentation](#for-documentation)
-
+* [For team formation documentation](#for-team-formation-documentation)
+* [For visual indicators](#for-visual-indicators)
+* [For standardized formats](#for-standardized-formats)
+* [See also](#see-also)
+  
 Documentation examples:
-* [Adult Principles by John Perry Barlow](doc/adult_principles_by_john_perry_barlow.md)
-* [Ground rules at Telsa by Elon Musk](doc/ground_rules_at_tesla_by_elon_musk.md)
-* [Rules of the Road by Jerry Perenchio](doc/rules_of_the_road_by_jerry_perenchio.md)
-* [Team working agreement example by giffconstable](doc/team_working_agreement_example_by_giffconstable.md)
-* [Leadership Principles by United States Marine Corps](doc/leadership_principles_by_united_states_marine_corps.md)
-* [The Core Protocols by McCarthy](doc/the_core_protocols_by_mccarthy.md)
+
+  * [Adult Principles by John Perry Barlow](doc/adult_principles_by_john_perry_barlow.md)
+
+  * [Ground rules at Telsa by Elon Musk](doc/ground_rules_at_tesla_by_elon_musk.md)
+
+  * [Rules of the Road by Jerry Perenchio](doc/rules_of_the_road_by_jerry_perenchio.md)
+
+  * [Team working agreement example by giffconstable](doc/team_working_agreement_example_by_giffconstable.md)
+
+  * [Leadership Principles by United States Marine Corps](doc/leadership_principles_by_united_states_marine_corps.md)
+
+  * [The Core Protocols by McCarthy](doc/the_core_protocols_by_mccarthy.md)
 
 
 ## What are ground rules?
@@ -50,301 +69,443 @@ Ground rules define a team's common set of expectations and ways of working toge
 
 Good introductions and sources:
 
-* ["Ground Rules" by Tree Bressen](http://www.treegroup.info/topics/handout-groundrules.pdf)
-* ["Working Agreements" paper by Jane Haskell](https://www.uvm.edu/sites/default/files/working-agreements-defined.pdf)
-* ["Norms, Values, Working Agreements, Simple Rules" by Esther Derby](http://www.estherderby.com/2011/04/norms-values-working-agreements-simple-rules.html)
-* ["A List of Ground Rules for Effective Meetings" by Get The Picture](http://getthepicture.ca/a-list-of-ground-rules-for-effective-meetings/)
+  * ["Ground Rules" by Tree Bressen](http://www.treegroup.info/topics/handout-groundrules.pdf)
+
+  * ["Working Agreements" paper by Jane Haskell](https://www.uvm.edu/sites/default/files/working-agreements-defined.pdf)
+
+  * ["Norms, Values, Working Agreements, Simple Rules" by Esther Derby](http://www.estherderby.com/2011/04/norms-values-working-agreements-simple-rules.html)
+
+  * ["A List of Ground Rules for Effective Meetings" by Get The Picture](http://getthepicture.ca/a-list-of-ground-rules-for-effective-meetings/)
 
 
 ## For everybody
 
-For everybody, here are some examples.
+Be kind.
 
-* Be kind.
-* Be candid.
-* Be courteous.
-* Be constructive.
-* Be creative.
-* Be encouraging.
-* Be honest.
-* Be open-minded.
-* Be prepared.
-* Be present.
-* Be productive.
-* Be punctual.
-* Be respectful.
-* Be thankful.
+Be candid.
+
+Be courteous.
+
+Be constructive.
+
+Be creative.
+
+Be encouraging.
+
+Be honest.
+
+Be open-minded.
+
+Be prepared.
+
+Be present.
+
+Be productive.
+
+Be punctual.
+
+Be respectful.
+
+Be thankful.
 
 
 ## For mutual interactions
 
-For interactions, here are some examples.
+Mutual respect.
 
-* Mutual respect.
-* Mutual purpose.
-* Mutual consideration.
-* Mutual communication.
-* Mutual commitment.
+Mutual purpose.
+
+Mutual consideration.
+
+Mutual communication.
+
+Mutual commitment.
 
 
 ## For discussions
 
-For discussions, here are some examples.
+Cell phones are off or on silent notification
 
-Starting:
+Encourage everyone to participate.
 
-* Cell phones are off or on silent notification
+Listen actively and attentively.
 
-Philosophical:
+Participate fully.
 
-* Encourage everyone to participate.
-* Listen actively and attentively.
-* Participate fully.
-* Respect confidentiality.
-* Seek debate.
-* Minimize distractions.
-* Speak your mind.
-* Have fun!
-* Differences of opinion are natural and useful.
-* Disagree in private, and show a united front in public.
+Respect confidentiality.
 
-Logistical:
+Seek debate.
 
-* Ask for clarification if you are confused.
-* Do not interrupt, unless you are the facilitator.
-* Take responsibility for the quality of the discussion.
-* Build on one another’s comments; work toward shared understanding.
-* Stay on topic, don't go on tangents
-* Be cognizant of the level of detail required for discussion.
-* Know when to take discussions offline.
-* Do not offer opinions without supporting evidence.
-* Avoid put-downs, even humorous ones.
-* No side conversations.
-* Share air time; do not monopolize discussion.
-* Speak for yourself, not on behalf of others.
-* Speak from your own experience, without generalizing.
-* Listen with an open mind before you speak.
-* One person talks at a time.
-* Take responsibility for what you need in the meeting.
-* Let group know your attendance plans.
+Minimize distractions.
+
+Speak your mind.
+
+Have fun!
+
+Differences of opinion are natural and useful.
+
+Disagree in private, and show a united front in public.
+
+Ask for clarification if you are confused.
+
+Do not interrupt, unless you are the facilitator.
+
+Take responsibility for the quality of the discussion.
+
+Build on one another’s comments; work toward shared understanding.
+
+Stay on topic, don't go on tangents
+
+Be cognizant of the level of detail required for discussion.
+
+Know when to take discussions offline.
+
+Do not offer opinions without supporting evidence.
+
+Avoid put-downs, even humorous ones.
+
+No side conversations.
+
+Share air time; do not monopolize discussion.
+
+Speak for yourself, not on behalf of others.
+
+Speak from your own experience, without generalizing.
+
+Listen with an open mind before you speak.
+
+One person talks at a time.
+
+Take responsibility for what you need in the meeting.
+
+Let group know your attendance plans.
 
 
 ## For partners
 
-For partners, here are some examples.
+View the issue as “we” not “me”.
 
-* View the issue as “we” not “me”.
-* Accept where you are. It’s OK if things aren’t perfect. 
-* Look for your part in the problem. In a partnership, partners play a role in happiness or unhappiness.
-* Make it safe to share. This includes giving a heads up about a big conversation, choosing a neutral time and place, and so on.
-* Focus on one topic, rather than multiple topics.
-* Focus on one goal, rather than just airing your needs.
-* Identify the issue from each partner's perspective.
-* Brainstorm solutions.
-* Ask for a time out, if you want one.
-* Acknowledge that growth together is a process, and allow time for changes to happen.
-* Agree to check in from time to time to discuss the issue if it can’t be solved right away.
-* If talking feels difficult, then consider using writing. For example, you can write an email or journal entry to ask questions, suggest improvements, or describe emotions.
-* If communication feels blocked, then consider using a third party. For example, you can invovled a counselor, coach, meditator, therapist, or trusted friend.
+Accept where you are. It’s OK if things aren’t perfect. 
+
+Look for your part in the problem. In a partnership, partners play a role in happiness or unhappiness.
+
+Make it safe to share. This includes giving a heads up about a big conversation, choosing a neutral time and place, and so on.
+
+Focus on one topic, rather than multiple topics.
+
+Focus on one goal, rather than just airing your needs.
+
+Identify the issue from each partner's perspective.
+
+Brainstorm solutions.
+
+Ask for a time out, if you want one.
+
+Acknowledge that growth together is a process, and allow time for changes to happen.
+
+Agree to check in from time to time to discuss the issue if it can’t be solved right away.
+
+If talking feels difficult, then consider using writing. For example, you can write an email or journal entry to ask questions, suggest improvements, or describe emotions.
+
+If communication feels blocked, then consider using a third party. For example, you can invovled a counselor, coach, meditator, therapist, or trusted friend.
 
 
 ## For teams
 
-For teams, here are some examples.
+All ideas are valid.
 
-* All ideas are valid.
-* All voices are heard.
-* Ask questions if you are confused.
-* Presume good-faith intentions.
-* Test assumptions and inferences.
-* Try not to distract your teammates.
-* Use every failure as an opportunity to learn.
-* Debate the issue, not the person.
-* Critique the ideas, not the people.
-* Challenge one another, and do so respectfully.
-* Silence does not mean agreement nor disagreement.
-* If you are offended by anything said during discussion, acknowledge it immediately.
-* Aggression or personal attacks are not ok and will be halted immediately.
-* Aim to understand each others' strengths and also weaknesses.
+All voices are heard.
+
+Ask questions if you are confused.
+
+Presume good-faith intentions.
+
+Test assumptions and inferences.
+
+Try not to distract your teammates.
+
+Use every failure as an opportunity to learn.
+
+Debate the issue, not the person.
+
+Critique the ideas, not the people.
+
+Challenge one another, and do so respectfully.
+
+Silence does not mean agreement nor disagreement.
+
+If you are offended by anything said during discussion, acknowledge it immediately.
+
+Aggression or personal attacks are not ok and will be halted immediately.
+
+Aim to understand each others' strengths and also weaknesses.
 
 
 ## For team success at Google
 
-* Dependability: we get things done on time and meet expectations.
-* Clarity: we have clear goals and well-defined roles.
-* Meaning: our work has personal significance to each member.
-* Impact: our work is purposeful and positively impacts the greater good.
-* Psychological safety: everyone is safe to take risks, voice opinions, and ask questions.
+Dependability: we get things done on time and meet expectations.
+
+Clarity: we have clear goals and well-defined roles.
+
+Meaning: our work has personal significance to each member.
+
+Impact: our work is purposeful and positively impacts the greater good.
+
+Psychological safety: everyone is safe to take risks, voice opinions, and ask questions.
 
 
 ## For team decisions
 
-For team decisions, here are some examples thanks to Amazon's "high-velocity decision making" itps.
+For team decisions, here are some examples thanks to Amazon's "high-velocity decision making" tips.
 
-* Decision speed matters.
-* A high-velocity decision environment keeps up energy and dynamism.
-* A high-velocity decision environment is more fun than a low-velocity decision environgment.
-* Never use a one-size-fits-all decision-making process.
-* Many decisions are reversible. Those decisions can use a light-weight process. So what if you’re wrong?*
-* Make most decisions with 2/3 of the information you want; if you wait for more, you’re probably being slow. 
-* Get good at quickly recognizing and correcting bad decisions. 
-* When we’re good at correcting decisions, then being wrong may be less costly, whereas being slow may be more costly. 
-* Use the phrase “disagree and commit” to go fast: if you have conviction on a particular direction even though there’s no consensus, say, “Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?” 
-* Recognize true misalignment issues early and escalate them immediately. Do not let decisions stagnate into “You’ve worn me down”, which is an awful decision-making process, slow and de-energizing. 
+Decision speed matters.
+
+A high-velocity decision environment keeps up energy and dynamism.
+
+A high-velocity decision environment is more fun than a low-velocity decision environgment.
+
+Never use a one-size-fits-all decision-making process.
+
+Many decisions are reversible. Those decisions can use a light-weight process. So what if you’re wrong?*
+
+Make most decisions with 2/3 of the information you want; if you wait for more, you’re probably being slow. 
+
+Get good at quickly recognizing and correcting bad decisions. 
+
+When we’re good at correcting decisions, then being wrong may be less costly, whereas being slow may be more costly. 
+
+Use the phrase “disagree and commit” to go fast: if you have conviction on a particular direction even though there’s no consensus, say, “Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?” 
+
+Recognize true misalignment issues early and escalate them immediately. Do not let decisions stagnate into “You’ve worn me down”, which is an awful decision-making process, slow and de-energizing. 
 
 
 ## For team communications
 
-For team communications, here are some examples.
+Team communications have ways for remote people to participate.
 
-* Team communications prefer chat over email.
-* Team communications have ways for remote people to participate.
-* Team communications are radiated when events happen, so other teammates can be in the loop.
-* If you email, then use the "To" field if you need action, and the "Cc" field if you don't need action.
-* Teammates commit to read communications sent directly to them within 1 business day.
-* Team whiteboards are eraseable any time; do not write "Do not erase".
-* If someone is wearning headphones, do not disturb unless there is an emergency.
-* The team uses Gibbs' rules from the CSI TV show.
-* Team bonding is  good.
-* Team bonding that is focused on alcohol is not good, because some people can't participate.
-* Team bonding can use a not-about-work "swear jar"; if someone talks about work, they put a dollar in the jar.
-* Each teammate gets their own credentials, such as a username, password, and security badge.
-* Each teammate has a crossover person that is able to handle the teammate's work in their absence.
-* If you have a social network page that's relevant to the team, such as LinkedIn page, then make sure it's current.
-* Designate an office area for louder/bigger communications, and an area for silence.
+Team communications have preferred channels, such as preferring chat, or email, or video.
+
+Team communications are radiated when events happen, so other teammates can be in the loop.
+
+If you email, then use the "To" field if you need action, and the "Cc" field if you don't need action.
+
+Teammates commit to read communications sent directly to them within 1 business day.
+
+Team whiteboards are eraseable any time; do not write "Do not erase".
+
+If someone is wearning headphones, do not disturb unless there is an emergency.
+
+The team uses Gibbs' rules from the CSI TV show.
+
+Team bonding is  good.
+
+Team bonding that is focused on alcohol is not good, because some people can't participate.
+
+Team bonding can use a not-about-work "swear jar"; if someone talks about work, they put a dollar in the jar.
+
+Each teammate gets their own credentials, such as a username, password, and security badge.
+
+Each teammate has a crossover person that is able to handle the teammate's work in their absence.
+
+If you have a social network page that's relevant to the team, such as LinkedIn page, then make sure it's current.
+
+Designate an office area for louder/bigger communications, and an area for silence.
 
 
 ## For team sign language
 
-For team sign language, here are some examples.
+To agree, use thumb up.
 
-* To agree, use thumb up.
-* To disagree, use thumb down.
-* To abstain, use thumb sideways.
-* To say that you have a clarification, or want a clarification, use the letter "C" sign.
-* To say "I can't hear you", point to your ear, and move your hand a bit, so the speaker notices.
-* To say "Please speak louder", point to your mouth and move your hand a bit, so the speaker notices.
-* To say "Time out", make the time out sign; conversation stops and the facilitator takes over.
-* The team sign language can be especially helpful on video conference calls, and in large meetings.
+To disagree, use thumb down.
 
-## For team calendars
+To abstain, use thumb sideways.
 
-For team calendars, here are some examples.
+To say that you have a clarification, or want a clarification, use the letter "C" sign.
 
-Aims:
+To say "I can't hear you", point to your ear, and move your hand a bit, so the speaker notices.
 
-* Aim toward morning times instead of afternoon times.
-* Aim toward morning times for open-mind meetings, and afternoon times for heads-down focus.
-* Aim toward 25 minutes instead of 30, 50 minutes instead 60; this is the Harvard idea.
+To say "Please speak louder", point to your mouth and move your hand a bit, so the speaker notices.
 
-Notation:
+To say "Time out", make the time out sign; conversation stops and the facilitator takes over.
 
-* The abbreviation "OOO" means "Out Of Office".
-* Use a team calendar to share events, such as important meetings, deadlines, holidays, birthdays, etc.
+The team sign language can be especially helpful on video conference calls, and in large meetings.
+
+
+## For team calendar times
+
+Aim toward morning times instead of afternoon times.
+
+Aim toward morning times for open-mind meetings, and afternoon times for heads-down focus.
+
+Aim toward 25 minutes instead of 30, 50 minutes instead 60; this is the Harvard idea.
+
+
+## For team calendar notations
+
+The abbreviation "OOO" means "Out Of Office".
+
+Use a team calendar to share events, such as important meetings, deadlines, holidays, birthdays, etc.
 
 
 ## For meetings
 
-For meetings, here are some examples.
+Start on time, stop on time.
 
-* Start on time, stop on time.
-* Start by stating the agenda and the objective.
-* Share responsibility for the meeting’s effectiveness.
-* Remind the group of its own ground rules if necessary.
-* Turn off your mobile phone.
-* Use your phone, tablet, laptop etc. only for legitimate meeting activities such as note-taking, presenting, facilitating, etc.
-* If more than one person is wanting to speak at a time, then raise hands and wait to be called on.
-* Do not interrupt when another participant is speaking. (The facilitator can interrupt as needed to support the process.)
-* All focus on one conversation; if you need to have a side conversation, take it out of the room.
-* We will not call on anyone twice until all those who want to have spoken once.
-* There will be no review for those who are late.
-* Ask for more information.
-* Be brief.
-* Be specific.
-* Beware assumptions, generalizations, or exaggerations.
-* Use examples when needed to explain what you mean.
-* Take responsibility for bringing the discussion to where it most needs to be.
-* Is there an “undiscussable” issue that’s really at the heart of things?
-* Take responsibility for your own feelings and experiences.
-* What is most important in this discussion?
-* Use I-statements, such as "I felt so angry when I saw that", rather than You-statements, such as "You made me so angry when you did that."
-* Emotional expression is welcome.
-* Avoid name-calling, stereotypes, cheap shots, or jokes at someone’s expense.
-* Work toward understanding—you don’t have to agree in order to paraphrase.
-* The facilitator can use short stacks (up to 3-4 people), reserving the right to add people in an order other than that in which hands were raised in order to answer direct questions, add people in who are less vocal, or follow a thread of discussion.
-* The facilitator has the power to make judgment calls on process, including directing the topic to where they think it most usefully needs to go (after checking in with the group), so that the group does not spend inordinate time talking about what to talk about.
-* Step up, step back.
-* Speak for yourself.
-* Common ownership of ideas; don’t use names unless necessary for clarity. (We are here to debate ideas, not personalities.)
-* Minimize repetition.
+Start by stating the agenda and the objective.
 
-For meetings, choose one focus:
+Share responsibility for the meeting’s effectiveness.
 
-* Informing: status updates, content sharing, keynotes, lectures, etc.
-* Solutioning: solving a problems, making decisions, strategizing, prioritizing, etc.
-* Innovating: brainstorming, generating ideas, evaluating options, etc.
-* Team Building: all-hands, kick-offs, outings, offsites, gaining commitment for a change effort, etc.
+Remind the group of its own ground rules if necessary.
+
+Turn off your mobile phone.
+
+Use your phone, tablet, laptop etc. only for legitimate meeting activities such as note-taking, presenting, facilitating, etc.
+
+If more than one person is wanting to speak at a time, then raise hands and wait to be called on.
+
+Do not interrupt when another participant is speaking. (The facilitator can interrupt as needed to support the process.)
+
+All focus on one conversation; if you need to have a side conversation, take it out of the room.
+
+We will not call on anyone twice until all those who want to have spoken once.
+
+There will be no review for those who are late.
+
+Ask for more information.
+
+Be brief.
+
+Be specific.
+
+Beware assumptions, generalizations, or exaggerations.
+
+Use examples when needed to explain what you mean.
+
+Take responsibility for bringing the discussion to where it most needs to be.
+
+Is there an “undiscussable” issue that’s really at the heart of things?
+
+Take responsibility for your own feelings and experiences.
+
+What is most important in this discussion?
+
+Use I-statements, such as "I felt so angry when I saw that", rather than You-statements, such as "You made me so angry when you did that."
+
+Emotional expression is welcome.
+
+Avoid name-calling, stereotypes, cheap shots, or jokes at someone’s expense.
+
+Work toward understanding—you don’t have to agree in order to paraphrase.
+
+The facilitator can use short stacks (up to 3-4 people), reserving the right to add people in an order other than that in which hands were raised in order to answer direct questions, add people in who are less vocal, or follow a thread of discussion.
+
+The facilitator has the power to make judgment calls on process, including directing the topic to where they think it most usefully needs to go (after checking in with the group), so that the group does not spend inordinate time talking about what to talk about.
+
+Step up, step back.
+
+Speak for yourself.
+
+Common ownership of ideas; don’t use names unless necessary for clarity. (We are here to debate ideas, not personalities.)
+
+Minimize repetition.
 
 
-## For planning meetings
+## For meetings, choose one focus
 
-For planning meetings, here are some examples.
+Informing: status updates, content sharing, keynotes, lectures, etc.
 
-Before a meeting:
+Solutioning: solving a problems, making decisions, strategizing, prioritizing, etc.
 
-* Invite people with enough notice.
-* In the invitation, include the participants, meeting objective, desired outcome, and any preparation that you want partipants to do.
+Innovating: brainstorming, generating ideas, evaluating options, etc.
 
-Plan a meeting:
+Team Building: all-hands, kick-offs, outings, offsites, gaining commitment for a change effort, etc.
 
-* Is everyone clear on the objectives and outcomes?
-* Is everyone clear on what their roles will be in the meeting?
-* Who’s coming? What are their roles? Do they know that’s their role?
-* What supplies will you need in the meeting? Do you have them?
-* What activities will you do to get to the desired outcome? Not theoretically. Tactically.
-* Do we want to allot time for a retrospective? If so, with whom, when, and where?
 
-Prepare a meeting room:
+## For planning a meeting
 
-* Is the room available?
-* Is the room reserved?
-* Is anyone doing setup and/or teardown? If so, who and when?
-* Is everything working, such as projectors, monitors, phone systems?
+Invite people with enough notice.
 
-Start a meeting:
+In the invitation, include the participants, meeting objective, desired outcome, and any preparation that you want partipants to do.
 
-* State the objective: "Here's why we are here..."
-* State the outcome:  "At the end of this meeting, we expect to have X. To get there we will (explain process of what we are about to do).”
-* Remind everyone of the ground rules: "Here are our ground rules. Are we still agreed on them? Is there anything we would like to add, remove, or change for this meeting?"
-* Remind everyone to focus: "If there is anything that does not fit with this meeting, we will defer it by writing it down then following up about it after this meeting."
 
-Keep a meeting on track:
+Is everyone clear on the objectives and outcomes?
 
-* Honor the meeting agreements.
-* Remind others who don’t follow them, including ourselves.
-* Defer anything that takes the meeting off track.
-* Work your magic.
-* Consider using "cups" idea, where there are a bunch of cups on the table, each with one ground rule.
+Is everyone clear on what their roles will be in the meeting?
 
-Conclude a meeting:
+Who’s coming? What are their roles? Do they know that’s their role?
 
-* Summarize what we accomplished, agreed, etc.
-* Remind how the meeting fits into the broader context.
-* Explain what will happen next and recap any next steps.
+What supplies will you need in the meeting? Do you have them?
 
-Follow up after a meeting:
+What activities will you do to get to the desired outcome? Not theoretically. Tactically.
 
-* Take time to breathe and process.
-* Communicate with the partipants to share the outcomes, action items, etc.
-* Do a retrospective with the team.
-* Take action on the next steps.
-* Follow up on any deferred items, commitments, questions, etc.
+Do we want to allot time for a retrospective? If so, with whom, when, and where?
+
+
+## For preparing a meeting room
+
+Is the room available?
+
+Is the room reserved?
+
+Is anyone doing setup and/or teardown? If so, who and when?
+
+Is everything working, such as projectors, monitors, phone systems?
+
+
+## To start a meeting
+
+State the objective: "Here's why we are here..."
+
+State the outcome:  "At the end of this meeting, we expect to have X. To get there we will (explain process of what we are about to do).”
+
+Remind everyone of the ground rules: "Here are our ground rules. Are we still agreed on them? Is there anything we would like to add, remove, or change for this meeting?"
+
+Remind everyone to focus: "If there is anything that does not fit with this meeting, we will defer it by writing it down then following up about it after this meeting."
+
+
+## To keep a meeting on track
+
+Honor the meeting agreements.
+
+Remind others who don’t follow them, including ourselves.
+
+Defer anything that takes the meeting off track.
+
+Work your magic.
+
+Consider using "cups" idea, where there are a bunch of cups on the table, each with one ground rule.
+
+
+## To conclude a meeting
+
+
+Summarize what we accomplished, agreed, etc.
+
+Remind how the meeting fits into the broader context.
+
+Explain what will happen next and recap any next steps.
+
+
+## To follow up after a meeting
+
+
+Take time to breathe and process.
+
+Communicate with the partipants to share the outcomes, action items, etc.
+
+Do a retrospective with the team.
+
+Take action on the next steps.
+
+Follow up on any deferred items, commitments, questions, etc.
 
 
 ## For remote meetings
 
-* Prefer headphones over speakers. This is because headphones minimize office sound, and also some headphones have noise-cancellation features.
-* Prefer push-to-talk over always-on-talk. This is because push-to-talk minimizes group noise.
+
+Prefer headphones over speakers. This is because headphones minimize office sound, and also some headphones have noise-cancellation features.
+
+Prefer push-to-talk over always-on-talk. This is because push-to-talk minimizes group noise.
 
 
 ## For standups and standdowns
@@ -353,165 +514,246 @@ For standups, standdowns, and similar check-in briefing meetings, here are some 
 
 See [MartinFowler.com Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html)
 
-Examples to talk about with the standup participants:
+Who attends?
 
-* Who attends?
-* What do we talk about?
-* What order do we talk in?
-* Where and when?
-* How do we keep the energy level up?
-* How do we encourage autonomy?
+What do we talk about?
 
-Structure the contributions using the following format:
+What order do we talk in?
 
-* What did I accomplish yesterday?
-* What will I do today?
-* What obstacles are impeding my progress?
+Where and when?
 
-For standdowns and similar check-out briefing meetings, here are some examples:
+How do we keep the energy level up?
 
-* Insights
-* Challenges
-* Puzzles
-* Appreciations
-* Action Items
+How do we encourage autonomy?
 
-For standups and standowns, have a strong signal to end:
-
-* For example, one person says 3, 2, 1, then everyone claps
+Have a strong signal to end; for example, one person says 3, 2, 1, then everyone claps.
 
 
-## For workweeks
+## For standups and similar briefings
 
-For workweeks and scheduling, here are some examples.
+What did I accomplish yesterday?
 
-* Do a day or more that is meeting free. For example a team may like to choose Friday, because it works well with travel and holidays.
-* Do a weekly group huddle. For example a team may like to chooose Tuesday 10 a.m. for 50 minutes, because it works well with the week's rhythm.
-* Do a weekly team retrospective. For example a team may like to choose Thursday 10 a.m. for 50 minutes, because it enables the team to reflect back on the week, and still have some time in the week to make adjustments.
+What will I do today?
 
-
-## For workdays
-
-For workdays and scheduling, here are some questions and examples.
-
-* Does your team want a workday standup or similar meeting? For example a team may like to do a 9 a.m. standup each workday for 15 minutes, because it sets the tone for the day.
-* Does your team want any kind of daily status update? For example a team may like to agree that each member posts a daily update at the start of the day in a shared team chat channel.
-* Does the workday have core hours when the team expects people to be generally available for working together? For example a team may like to use typical office business hours of 9 a.m. to 5 p.m., or may like to use more flexible workday core hours that are shorter, or that are only on specific workdays, or that are only for specific projects, etc.
-* Does the workday have any expectations about flex time? For example a team may be fine with people starting/ending on different hours to accommodate commuting, parenting, schooling, volunteering, etc.
-* Does the workday have any kind of end-of-business check out, such as a standdown meeting, or summary update, or process to turn in hours or timecards or receipts etc.?
-* Beyond workday core hours, what general availability does the team want? For example a team may like people to do their own schedule, because some people need to coordinate with others, such as for commuting, parenting, schooling, volunteering, etc. 
-* Beyond workday core hours, what special availability does the team want? For example a team may want to assign someone on pager duty, or know how to reach teammates by mobile phone in case of emergency, or set expecations on whether after-hours emails are encouraged or not, etc.
+What obstacles are impeding my progress?
 
 
-## For workhours
+## For standowns and similar briefings
 
-For workhours, here are some examples.
+Discuss insights
 
-* Does you have any kinds of ground rules about workhours? For example some countries and some industries have regulations regarding how many hours a person can work at a time, or per week, or per pay period.
-* Do you have any kinds of categorization about workhours? For example some companies and some unions have regulations about a set number of hours being paid at a regular rate, and overtime hours being paid extra.
-* Do you have any minimum/maximum workhours? For example some people have roles where workhours are as-needed, or on-call, or on-retainer; other people have roles where a set amount of workhours are expected every day, or every week.
+Discuss challenges
+
+Discuss puzzles
+
+Share appreciations
+
+Share action items
+
+
+## For workweek scheduling
+
+Do a day or more that is meeting free. For example a team may like to choose Friday, because it works well with travel and holidays.
+
+Do a weekly group huddle. For example a team may like to chooose Tuesday 10 a.m. for 50 minutes, because it works well with the week's rhythm.
+
+Do a weekly team retrospective. For example a team may like to choose Thursday 10 a.m. for 50 minutes, because it enables the team to reflect back on the week, and still have some time in the week to make adjustments.
+
+
+## For workday scheduling
+
+Does your team want a workday standup or similar meeting? For example a team may like to do a 9 a.m. standup each workday for 15 minutes, because it sets the tone for the day.
+
+Does your team want any kind of daily status update? For example a team may like to agree that each member posts a daily update at the start of the day in a shared team chat channel.
+
+Does the workday have core hours when the team expects people to be generally available for working together? For example a team may like to use typical office business hours of 9 a.m. to 5 p.m., or may like to use more flexible workday core hours that are shorter, or that are only on specific workdays, or that are only for specific projects, etc.
+
+Does the workday have any expectations about flex time? For example a team may be fine with people starting/ending on different hours to accommodate commuting, parenting, schooling, volunteering, etc.
+
+Does the workday have any kind of end-of-business check out, such as a standdown meeting, or summary update, or process to turn in hours or timecards or receipts etc.?
+
+Beyond workday core hours, what general availability does the team want? For example a team may like people to do their own schedule, because some people need to coordinate with others, such as for commuting, parenting, schooling, volunteering, etc. 
+
+Beyond workday core hours, what special availability does the team want? For example a team may want to assign someone on pager duty, or know how to reach teammates by mobile phone in case of emergency, or set expecations on whether after-hours emails are encouraged or not, etc.
+
+
+## For workhours scheduling
+
+Do you have any kinds of ground rules about workhours? For example some countries and some industries have regulations regarding how many hours a person can work at a time, or per week, or per pay period.
+
+Do you have any kinds of categorization about workhours? For example some companies and some unions have regulations about a set number of hours being paid at a regular rate, and overtime hours being paid extra.
+
+Do you have any minimum/maximum workhours? For example some people have roles where workhours are as-needed, or on-call, or on-retainer; other people have roles where a set amount of workhours are expected every day, or every week.
 
 
 ## For feedback
 
-* Giving and receiving feedback is an ongoing goal of ours.
-* We value feedback being consistent, continous, and constructive.
-* We value feedback that is timely, and comes early and often.
-* We value positive complimentary feedback and we also value constructive negative feedback.
-* To give and receive truly candid feedback, people must feel a sense of safety and trust.
-* To create safety and trust, we get to know each other and we talk about emotions.
-* It's OK to say no to giving feedback or receiving feedback.
-* We aim to give lots of positive feedback; a good ratio is 5 positive interactions to 1 negative interaction, even in the midst of a conflict.
-* We praise effort and we also praise ability.
-* It's great to offer some positive feedback, then stop there. 
-* Start small with feedback.
-* Timely feedback is better than late feedback.
-* Actionable feedback is better than unactionable feedback.
-* Transparent feedback is better than opaque feedback.
-* Ask for feedback often.
-* Leaders need to explicitly lead great feedback culture.
-* Ask. 
-* Don't Punish. 
-* Show the impact.
-* Make it easy.
-* Create safe places for feedback.
-* Create a regular system for feedback.
-* Make feedback secure and safe.
-* Start small.
-* Implement feedback culture as normal.
-* Have a variety of feedback channels that work well for a variety of personalities.
-* Foster both positive feedback and negative feedback.
-* Explain measures behind decisions regarding feedback.
-* Explain the benefits of feedback.
-* Focus on transparency, so everyone understands how the feedback system works and its purpose.
-* Talk explicitly with the team about the feedback culture you want to create.
-* Create feedback norms for the team. 
-* Systematize mechanisms for giving feedback.
-* Ensure you’re giving lots of positive feedback.
-* Value relationship-building. 
-* Emphasize "What is going well" and "What could go better".
-* We value increasing people's strengths over trying to fix people's weaknesses.
+Giving and receiving feedback is an ongoing goal of ours.
+
+We value feedback being consistent, continous, and constructive.
+
+We value feedback that is timely, and comes early and often.
+
+We value positive complimentary feedback and we also value constructive negative feedback.
+
+To give and receive truly candid feedback, people must feel a sense of safety and trust.
+
+To create safety and trust, we get to know each other and we talk about emotions.
+
+It's OK to say no to giving feedback or receiving feedback.
+
+We aim to give lots of positive feedback; a good ratio is 5 positive interactions to 1 negative interaction, even in the midst of a conflict.
+
+We praise effort and we also praise ability.
+
+It's great to offer some positive feedback, then stop there. 
+
+Start small with feedback.
+
+Timely feedback is better than late feedback.
+
+Actionable feedback is better than unactionable feedback.
+
+Transparent feedback is better than opaque feedback.
+
+Ask for feedback often.
+
+Leaders need to explicitly lead great feedback culture.
+
+Ask. 
+
+Don't Punish. 
+
+Show the impact.
+
+Make it easy.
+
+Create safe places for feedback.
+
+Create a regular system for feedback.
+
+Make feedback secure and safe.
+
+Start small.
+
+Implement feedback culture as normal.
+
+Have a variety of feedback channels that work well for a variety of personalities.
+
+Foster both positive feedback and negative feedback.
+
+Explain measures behind decisions regarding feedback.
+
+Explain the benefits of feedback.
+
+Focus on transparency, so everyone understands how the feedback system works and its purpose.
+
+Talk explicitly with the team about the feedback culture you want to create.
+
+Create feedback norms for the team. 
+
+Systematize mechanisms for giving feedback.
+
+Ensure you’re giving lots of positive feedback.
+
+Value relationship-building. 
+
+Emphasize "What is going well" and "What could go better".
+
+We value increasing people's strengths over trying to fix people's weaknesses.
 
 
 ## For technology projects
 
-For technology projects, here are some examples.
 
-* Time and place of meetings, such as daily scrum, standup, showcase, etc.
-* Testing strategy (unit, functional, integration, performance, stress, etc…)
-* Build and infrastructure plans (shared responsbilities)
-* Respect estimates
-* Help when needed
-* How to address bugs/fires
-* Team availability (phone, office hours, attendance)
-* Capacity plan for sprints, iterations, deployments, etc.
-* No story creep
-* Code is *done* when all code tests pass, and the code is deployed to production, and the customer accepts the story.
-* Set up early for demo and prepare
-* Never ignore anything! (Such as bugs “solving themselves”).
-* We never say “no”. We say “sure, just chuck it on the product backlog. It’ll get prioritised later.”
-* Make sure everyone gets heard
-* Each sprint must have a goal
-* Stay focused on the goal / top stories
-* Make sure daily goals are clear (we know the steps we need to take to achieve them)
-* We make decisions together
-* We email documentation to everyone in the squad
-* We need to show what we have done to the business people impacted, not just our product owner (when appropriate)
+Time and place of meetings, such as daily scrum, standup, showcase, etc.
+
+Testing strategy (unit, functional, integration, performance, stress, etc…)
+
+Build and infrastructure plans (shared responsbilities)
+
+Respect estimates
+
+Help when needed
+
+How to address bugs/fires
+
+Team availability (phone, office hours, attendance)
+
+Capacity plan for sprints, iterations, deployments, etc.
+
+No story creep
+
+Code is *done* when all code tests pass, and the code is deployed to production, and the customer accepts the story.
+
+Set up early for demo and prepare
+
+Never ignore anything! (Such as bugs “solving themselves”).
+
+We never say “no”. We say “sure, just chuck it on the product backlog. It’ll get prioritised later.”
+
+Make sure everyone gets heard
+
+Each sprint must have a goal
+
+Stay focused on the goal / top stories
+
+Make sure daily goals are clear (we know the steps we need to take to achieve them)
+
+We make decisions together
+
+We email documentation to everyone in the squad
+
+We need to show what we have done to the business people impacted, not just our product owner (when appropriate)
 
 
-## For documentation
+## For team formation documentation
 
-For documentation, here are some examples.
+The Onboarding document explains how to join our team, what we do, and how we work together.
 
-Team formation documentation:
+The People spreadheet states our teammates' names and contact info.
 
-* The Onboarding document explains how to join our team, what we do, and how we work together.
-* The People spreadheet states our teammates' names and contact info.
-* The RACIO matrix states who is Responsible, Accountable, Consultable, Informable, Omittable.
-* The Wordbook document of terminology, a.k.a. dictionary, glossary, abbreviation guide.
-* The Story is a slide deck to present to stakeholders about the project, progress, goals, etc.
-* The Canvas is a Business Model Canvas.
+The RACIO matrix states who is Responsible, Accountable, Consultable, Informable, Omittable.
 
-Visual indicators:
+The Wordbook document of terminology, a.k.a. dictionary, glossary, abbreviation guide.
 
-* A checkmark means yes; a circle-slash means no; an "X" is not used because it is ambiguous.
-* A "RAG status" means "Red, Amber, Green"; Red means Stop/Failure/Danger, Amber means Slow/Warning/Caution, Green means Go/Success/Safety.
+The Story is a slide deck to present to stakeholders about the project, progress, goals, etc.
 
-Standardized formats:
+The Canvas is a Business Model Canvas.
 
-* Dates and times are written using ISO standard sortability, such as the formats YYYY-MM-DD and HH:MM:SS.
-* For times, state a timezone; for example "Let's talk at 14:00 Eastern" is the same time as 2 p.m. in New York; the timezone "Z" means Zulu time, a.k.a. UTC, GMT.
+
+## For visual indicators
+
+A checkmark means yes; a circle-slash means no; an "X" is not used because it is ambiguous.
+
+A "RAG status" means "Red, Amber, Green"; Red means Stop/Failure/Danger, Amber means Slow/Warning/Caution, Green means Go/Success/Safety.
+
+
+## For standardized formats
+
+Dates and times are written using ISO standard sortability, such as the formats YYYY-MM-DD and HH:MM:SS.
+
+For times, state a timezone; for example "Let's talk at 14:00 Eastern" is the same time as 2 p.m. in New York; the timezone "Z" means Zulu time, a.k.a. UTC, GMT.
 
 
 ## See also
 
 More team leadership pages that we like to share with our clients and partners:
-* [Objectives and key results](https://github.com/joelparkerhenderson/objectives_and_key_results)
-* [Key performance indicator](https://github.com/joelparkerhenderson/key_performance_indicator)
-* [SMART criteria for goals](https://github.com/joelparkerhenderson/smart_criteria)
-* [TEAM FOCUS by McKinsey](https://github.com/joelparkerhenderson/team_focus)
-* [Crucial Conversations](https://github.com/joelparkerhenderson/crucial_conversations)
-* [Responsibility assignment matrix](https://github.com/joelparkerhenderson/responsibility_assignment_matrix)
-* [Feedback request template](https://github.com/joelparkerhenderson/feedback_request_template)
-* [Strategic Balanced Scorecard (SBS)](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
-* [Social Value Orientation (SVO)](https://github.com/joelparkerhenderson/social_value_orientation)
+
+  * [Objectives and key results (OKR)](https://github.com/joelparkerhenderson/objectives_and_key_results)
+
+  * [Key performance indicator (KPI)](https://github.com/joelparkerhenderson/key_performance_indicator)
+
+  * [SMART criteria for goals](https://github.com/joelparkerhenderson/smart_criteria)
+
+  * [TEAM FOCUS by McKinsey](https://github.com/joelparkerhenderson/team_focus)
+
+  * [Crucial conversations](https://github.com/joelparkerhenderson/crucial_conversations)
+
+  * [Responsibility assignment matrix (RAM)](https://github.com/joelparkerhenderson/responsibility_assignment_matrix)
+
+  * [Feedback request template](https://github.com/joelparkerhenderson/feedback_request_template)
+
+  * [Strategic balanced scorecard (SBS)](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
+
+  * [Social value orientation (SVO)](https://github.com/joelparkerhenderson/social_value_orientation)
