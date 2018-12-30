@@ -206,23 +206,27 @@ If communication feels blocked, then consider using a third party. For example, 
 
 ## For sign language
 
-To agree, use thumb up.
+To vote yes, use thumb up.
 
-To disagree, use thumb down.
+To vote no, use thumb down.
 
-To abstain, use thumb sideways.
+To vote maybe, use thumb sideways.
 
-To say that you have a clarification, or want a clarification, use the letter "C" sign.
+To confirm, make the "OK" sign.
+
+To ask for clarification, or to say that you have a clarification, make the letter "C" sign.
 
 To say "I can't hear you", point to your ear, and move your hand a bit, so the speaker notices.
 
-To say "Please speak louder", point to your mouth and move your hand a bit, so the speaker notices.
+To say "Please speak louder", point to your mouth, and move your hand a bit, so the speaker notices.
 
-To say "Time out", make the time out sign; conversation stops, and the facilitator takes over.
+To say "Please wait", make a closed fist.
 
-Sign language can be helpful for people who are hard of hearing.
+To say "Time check", point at your wrist.
 
-Sign language can be helpful for video conference calls, and in large meetings, and in noisy areas.
+To say "Time out", make the time out sign, then conversation stops and the facilitator takes over.
+
+Sign language can be helpful for people who are hard of hearing, and also helpful for video calls, for large meetings, and for loud environments.
 
 
 ## For teams
