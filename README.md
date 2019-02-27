@@ -201,7 +201,7 @@ If the issue can’t be solved right away, then agree to check in from time to t
 
 If talking feels difficult, then consider using writing. For example, you can write an email or journal entry to ask questions, suggest improvements, or describe emotions.
 
-If communication feels blocked, then consider using a third party. For example, you can involve a coach, counselor, meditator, therapist, or trusted friend.
+If communication feels blocked, then consider using a third party. For example, consider asking for help from a coach, counselor, meditator, therapist, or trusted friend.
 
 
 ## For sign language
