@@ -53,7 +53,7 @@ Contents:
 * [For visual indicators](#for-visual-indicators)
 * [For standardized formats](#for-standardized-formats)
 * [See also](#see-also)
-  
+
 
 
 ## What are ground rules?
@@ -179,7 +179,7 @@ Let group know your attendance plans.
 
 View the issue as “we” not “me”.
 
-Accept where you are. It’s OK if things aren’t perfect. 
+Accept where you are. It’s OK if things aren’t perfect.
 
 Look for your part in the problem. In a partnership, partners play a role in happiness or unhappiness.
 
@@ -201,7 +201,7 @@ If the issue can’t be solved right away, then agree to check in from time to t
 
 If talking feels difficult, then consider using writing. For example, you can write an email or journal entry to ask questions, suggest improvements, or describe emotions.
 
-If communication feels blocked, then consider using a third party. For example, you can invovled a counselor, coach, meditator, therapist, or trusted friend.
+If communication feels blocked, then consider using a third party. For example, you can involve a coach, counselor, meditator, therapist, or trusted friend.
 
 
 ## For sign language
@@ -274,15 +274,15 @@ Never use a one-size-fits-all decision-making process.
 
 Many decisions are reversible. Those decisions can use a light-weight process. So what if you’re wrong?*
 
-Make most decisions with 2/3 of the information you want; if you wait for more, you’re probably being slow. 
+Make most decisions with 2/3 of the information you want; if you wait for more, you’re probably being slow.
 
-Get good at quickly recognizing and correcting bad decisions. 
+Get good at quickly recognizing and correcting bad decisions.
 
-When we’re good at correcting decisions, then being wrong may be less costly, whereas being slow may be more costly. 
+When we’re good at correcting decisions, then being wrong may be less costly, whereas being slow may be more costly.
 
-Use the phrase “disagree and commit” to go fast: if you have conviction on a particular direction even though there’s no consensus, say, “Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?” 
+Use the phrase “disagree and commit” to go fast: if you have conviction on a particular direction even though there’s no consensus, say, “Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?”
 
-Recognize true misalignment issues early and escalate them immediately. Do not let decisions stagnate into “You’ve worn me down”, which is an awful decision-making process, slow and de-energizing. 
+Recognize true misalignment issues early and escalate them immediately. Do not let decisions stagnate into “You’ve worn me down”, which is an awful decision-making process, slow and de-energizing.
 
 
 ### Team communications
@@ -439,7 +439,7 @@ Step up, step back.
 
 Speak for yourself.
 
-Common ownership of ideas; don’t use names unless necessary for clarity. 
+Common ownership of ideas; don’t use names unless necessary for clarity.
 
 We are here to debate ideas, not personalities.
 
@@ -564,7 +564,7 @@ Does the workday have any expectations about flex time? For example a team may b
 
 Does the workday have any kind of end-of-business check out, such as a standdown meeting, or summary update, or process to turn in hours or timecards or receipts etc.?
 
-What are general availability expectations? For example a team may like people to do their own schedule, because some people need to coordinate with others, such as for commuting, parenting, schooling, volunteering, etc. 
+What are general availability expectations? For example a team may like people to do their own schedule, because some people need to coordinate with others, such as for commuting, parenting, schooling, volunteering, etc.
 
 What are special availability expectations? For example a team may want to assign someone on pager duty, or know how to reach teammates by mobile phone in case of emergency, or set expecations on whether after-hours emails are encouraged or not, etc.
 
@@ -603,15 +603,15 @@ We aim to give lots of positive feedback; a good ratio is 5 positive interaction
 
 We praise effort and we also praise ability.
 
-It's great to offer some positive feedback, then stop there. 
+It's great to offer some positive feedback, then stop there.
 
 Ask for feedback often.
 
 Leaders need to explicitly lead great feedback culture.
 
-Ask. 
+Ask.
 
-Don't punish. 
+Don't punish.
 
 Start small.
 
@@ -637,13 +637,13 @@ Focus on transparency, so everyone understands how the feedback system works and
 
 Talk explicitly with the team about the feedback culture you want to create.
 
-Create feedback norms for the team. 
+Create feedback norms for the team.
 
 Systematize mechanisms for giving feedback.
 
 Ensure you’re giving lots of positive feedback.
 
-Value relationship-building. 
+Value relationship-building.
 
 Emphasize "What is going well" and "What could go better".
 
