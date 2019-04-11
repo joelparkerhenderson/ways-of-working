@@ -268,7 +268,7 @@ Decision speed matters.
 
 A high-velocity decision environment keeps up energy and dynamism.
 
-A high-velocity decision environment is more fun than a low-velocity decision environgment.
+A high-velocity decision environment is more fun than a low-velocity decision environment.
 
 Never use a one-size-fits-all decision-making process.
 
