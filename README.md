@@ -18,9 +18,9 @@ Contents:
 * [For mutual interactions](#for-mutual-interactions)
 * [For discussions](#for-discussions)
 * [For partners](#for-partners)
-* [Sign language](#sign-language)
+* [For sign language and video conferencing](#for-sign-language-and-video-conferencing)
 * [For teams](#for-teams)
-  * [Team decisions](#team-decisions)
+  * [Team decisions with high-velocity](#team-decisions-with-high-velocity)
   * [Team communications](#team-communications)
   * [Team bonding](#team-bonding)
   * [Team success ideas at Google](#team-success-ideas-at-google)
@@ -46,7 +46,7 @@ Contents:
   * [For calendar notations](#for-calendar-notations)
 * [For feedback](#for-feedback)
   * [Feedback values](#feedback-values)
-  * [Feedback preferences](#feedback-preferences)
+  * [Feedback using SMART](#feedback-using-smart)
   * [Feedback safety](#feedback-safety)
 * [For technology projects](#for-technology-projects)
 * [For team documentation](#for-team-documentation)
@@ -204,7 +204,7 @@ If talking feels difficult, then consider using writing. For example, you can wr
 If communication feels blocked, then consider using a third party. For example, consider asking for help from a coach, counselor, meditator, therapist, or trusted friend.
 
 
-## For sign language
+## For sign language and video conferencing
 
 To vote yes, use thumb up.
 
