@@ -222,11 +222,9 @@ Clarification ASAP: make the letter "C" sign. This means everyone pause as soon 
 
 Ask to speak in turn: raise your open hand. This means everyone will let the person speak when it's their turn.
 
-I can't hear you: raise your open hand to your ear, palm facing front, so the moderator and/or speaker notices.
+Please be louder: raise your open hand to your ear, palm facing front, so the moderator and/or speaker notices. This can indicate "please turn on your microphone".
 
-Please be louder: point to your mouth, and move your hand a bit, so the speaker notices.
-
-Please be quieter: make the "shhh" sign with your pointer finger at your lips. This can be especially good to show video conference attendees to set their microphones on mute.
+Please be quieter: make the "shhh" sign with your pointer finger at your lips. This can indicate "please turn off your microphone".
 
 Please stop/freeze/wait: hold up your closed fist, fingers facing front.
 
