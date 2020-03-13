@@ -18,7 +18,7 @@ Contents:
 * [For mutual interactions](#for-mutual-interactions)
 * [For discussions](#for-discussions)
 * [For partners](#for-partners)
-* [For sign language and video conferencing](#for-sign-language-and-video-conferencing)
+* [For hand signs, sign language, and video conferencing](#for-hand-signs-sign-language-and-video-conferencing)
 * [For teams](#for-teams)
   * [Team decisions with high-velocity](#team-decisions-with-high-velocity)
   * [Team communications](#team-communications)
@@ -204,7 +204,7 @@ If talking feels difficult, then consider using writing. For example, you can wr
 If communication feels blocked, then consider using a third party. For example, consider asking for help from a coach, counselor, meditator, therapist, or trusted friend.
 
 
-## For sign language and video conferencing
+## For hand signs, sign language, and video conferencing
 
 Sign language can be helpful for people who are hard of hearing, and also helpful for video conferencing, for large meetings, and for loud environments.
 
