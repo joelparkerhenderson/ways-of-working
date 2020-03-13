@@ -206,27 +206,33 @@ If communication feels blocked, then consider using a third party. For example, 
 
 ## For sign language and video conferencing
 
-To vote yes, use thumb up.
+Sign language can be helpful for people who are hard of hearing, and also helpful for video conferencing, for large meetings, and for loud environments.
 
-To vote no, use thumb down.
+Vote yes: thumb up.
 
-To vote maybe, use thumb sideways.
+Vote no: thumb down.
 
-To confirm, make the "OK" sign.
+Vote maybe: thumb sideways.
 
-To ask for clarification, or to say that you have a clarification, make the letter "C" sign.
+I understand: make the "OK" sign.
 
-To say "I can't hear you", point to your ear, and move your hand a bit, so the speaker notices.
+I don't understand: raise your open hand to your chest, palm facing front, and move it side to side.
 
-To say "Please speak louder", point to your mouth, and move your hand a bit, so the speaker notices.
+Clarification ASAP: make the letter "C" sign. This means everyone pause as soon as possible, so the facilitator can do clarification.
 
-To say "Please wait", make a closed fist.
+Ask to speak in turn: raise your open hand. This means everyone will let the person speak when it's their turn.
 
-To say "Time check", point at your wrist.
+I can't hear you: raise your open hand to your ear, palm facing front, so the moderator and/or speaker notices.
 
-To say "Time out", make the time out sign, then conversation stops and the facilitator takes over.
+Please be louder: point to your mouth, and move your hand a bit, so the speaker notices.
 
-Sign language can be helpful for people who are hard of hearing, and also helpful for video calls, for large meetings, and for loud environments.
+Please be quieter: make the "shhh" sign with your pointer finger at your lips. This can be especially good to show video conference attendees to set their microphones on mute.
+
+Please stop/freeze/wait: hold up your closed fist, fingers facing front.
+
+Time check: point at your wrist. This means please be aware that there's a time limit coming up.
+
+Time out: make the time out sign. This means conversation stops, and the facilitator takes over.
 
 
 ## For teams
