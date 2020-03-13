@@ -230,6 +230,8 @@ Please be quieter: make the "shhh" sign with your pointer finger at your lips. T
 
 Please stop/freeze/wait: hold up your closed fist, fingers facing front.
 
+I'm typing in chat: show your hand and move your fingers as if you're typing on a keyboard.
+
 Time check: point at your wrist. This means please be aware that there's a time limit coming up.
 
 Time out: make the time out sign. This means conversation stops, and the facilitator takes over.
