@@ -18,12 +18,17 @@ Contents:
 * [For mutual interactions](#for-mutual-interactions)
 * [For discussions](#for-discussions)
 * [For partners](#for-partners)
-* [For hand signs, sign language, and video conferencing](#for-hand-signs-sign-language-and-video-conferencing)
 * [For teams](#for-teams)
   * [Team decisions with high-velocity](#team-decisions-with-high-velocity)
   * [Team communications](#team-communications)
   * [Team bonding](#team-bonding)
   * [Team success ideas at Google](#team-success-ideas-at-google)
+* [For feedback](#for-feedback)
+  * [Feedback aim statements](#feedback-aim-statements)
+  * [Feedback value statements](#feedback-value-statements)
+  * [Feedback safety](#feedback-safety)
+  * [Feedback SMART criteria](#feedback-smart-criteria)
+  * [Feedback culture](#feedback-culture)
 * [For meetings](#for-meetings)
   * [To focus a meeting](#to-focus-a-meeting)
   * [To plan a meeting](#to-plan-a-meeting)
@@ -44,12 +49,9 @@ Contents:
   * [For workhours](#for-workhours)
   * [For calendar times](#for-calendar-times)
   * [For calendar notations](#for-calendar-notations)
-* [For feedback](#for-feedback)
-  * [Feedback values](#feedback-values)
-  * [Feedback using SMART](#feedback-using-smart)
-  * [Feedback safety](#feedback-safety)
 * [For technology projects](#for-technology-projects)
 * [For team documentation](#for-team-documentation)
+* [For hand signs, sign language, and video conferencing](#for-hand-signs-sign-language-and-video-conferencing)
 * [For visual indicators](#for-visual-indicators)
 * [For standardized formats](#for-standardized-formats)
 * [See also](#see-also)
@@ -306,6 +308,92 @@ Meaning: our work has personal significance to each member.
 Impact: our work is purposeful and positively impacts the greater good.
 
 Psychological safety: everyone is safe to take risks, voice opinions, and ask questions.
+
+
+## For feedback
+
+Ask for feedback often.
+
+Ensure you’re giving lots of positive feedback.
+
+It's great to offer some positive feedback, then stop there.
+
+Don't punish.
+
+Start small.
+
+Show the impact.
+
+
+### Feedback aim statements
+
+We aim to give lots of positive feedback; a good ratio is 5 positive interactions to 1 negative interaction, even in the midst of a conflict.
+
+We aim to increase people's strengths over trying to fix people's weaknesses.
+
+We aim for "What is going well" and also "What could go better".
+
+We aim to praise effort and also ability.
+
+
+### Feedback value statements
+
+We value giving and receiving feedback, and we make these ongoing goals.
+
+We value positive complimentary feedback, and we also value constructive negative feedback.
+
+We value feedback being consistent, continous, and constructive.
+
+We value feedback that comes early and often.
+
+We value relationship-building.
+
+
+### Feedback safety
+
+To give and receive truly candid feedback, people must truly feel a sense of safety and trust.
+
+To create safety and trust, people must get to know each other, and talk about emotions.
+
+It's OK to say no to giving feedback or receiving feedback.
+
+
+### Feedback SMART criteria
+
+Specific feedback is better than unspecific or generic feedback.
+
+Measurable feedback is better than unmeasurable or qualitative feedback.
+
+Actionable feedback is better than unactionable or impracticable feedback.
+
+Relevant feedback is better than irrelevant or extraneous feedback.
+
+Timely feedback is better than untimely or inopportune feedback.
+
+
+### Feedback culture
+
+Leaders need to explicitly lead great feedback culture.
+
+Explain the benefits of feedback.
+
+Explain measures behind decisions regarding feedback.
+
+Talk explicitly with the team about the feedback culture you want to create.
+
+Make it open and transparent what's happening, so everyone understands how the feedback system works and its purpose.
+
+Make it easy and safe to give and receive feedback, so everyone feels willing and able to participate.
+
+Create feedback norms for the team.
+
+Implement feedback culture as normal.
+
+Systematize mechanisms for giving feedback.
+
+Have a variety of feedback channels that work well for a variety of personalities.
+
+Foster both positive feedback and negative feedback.
 
 
 ## For meetings
@@ -568,93 +656,6 @@ Use a team calendar to share events, such as important meetings, organization de
 The abbreviation "OOO" means "Out Of Office".
 
 The abbreviation "PTO" means "Paid Time Off".
-
-
-
-## For feedback
-
-Ask for feedback often.
-
-Ensure you’re giving lots of positive feedback.
-
-It's great to offer some positive feedback, then stop there.
-
-Don't punish.
-
-Start small.
-
-Show the impact.
-
-
-### Feedback aim statements
-
-We aim to give lots of positive feedback; a good ratio is 5 positive interactions to 1 negative interaction, even in the midst of a conflict.
-
-We aim to increase people's strengths over trying to fix people's weaknesses.
-
-We aim for "What is going well" and also "What could go better".
-
-We aim to praise effort and also ability.
-
-
-### Feedback value statements
-
-We value giving and receiving feedback, and we make these ongoing goals.
-
-We value positive complimentary feedback, and we also value constructive negative feedback.
-
-We value feedback being consistent, continous, and constructive.
-
-We value feedback that comes early and often.
-
-We value relationship-building.
-
-
-### Feedback safety
-
-To give and receive truly candid feedback, people must truly feel a sense of safety and trust.
-
-To create safety and trust, people must get to know each other, and talk about emotions.
-
-It's OK to say no to giving feedback or receiving feedback.
-
-
-### Feedback SMART criteria
-
-Specific feedback is better than unspecific or generic feedback.
-
-Measurable feedback is better than unmeasurable or qualitative feedback.
-
-Actionable feedback is better than unactionable or impracticable feedback.
-
-Relevant feedback is better than irrelevant or extraneous feedback.
-
-Timely feedback is better than untimely or inopportune feedback.
-
-
-### Feedback culture
-
-Leaders need to explicitly lead great feedback culture.
-
-Explain the benefits of feedback.
-
-Explain measures behind decisions regarding feedback.
-
-Talk explicitly with the team about the feedback culture you want to create.
-
-Make it open and transparent what's happening, so everyone understands how the feedback system works and its purpose.
-
-Make it easy and safe to give and receive feedback, so everyone feels willing and able to participate.
-
-Create feedback norms for the team.
-
-Implement feedback culture as normal.
-
-Systematize mechanisms for giving feedback.
-
-Have a variety of feedback channels that work well for a variety of personalities.
-
-Foster both positive feedback and negative feedback.
 
 
 ## For technology projects
