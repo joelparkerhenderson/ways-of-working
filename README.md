@@ -621,15 +621,15 @@ It's OK to say no to giving feedback or receiving feedback.
 
 ### Feedback using SMART
 
-Specific feedback is better than general feedback.
+Specific feedback is better than unspecific or generic feedback.
 
-Measurable feedback is better than qualitative feedback.
+Measurable feedback is better than unmeasurable or qualitative feedback.
 
-Actionable feedback is better than unactionable feedback.
+Actionable feedback is better than unactionable or impracticable feedback.
 
-Relevant feedback is better than irrelevant feedback.
+Relevant feedback is better than irrelevant or extraneous feedback.
 
-Timely feedback is better than late feedback.
+Timely feedback is better than untimely or inopportune feedback.
 
 
 ### Feedback culture
