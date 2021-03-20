@@ -586,7 +586,7 @@ Start small.
 Show the impact.
 
 
-### Feedback norms
+### Feedback aim statements
 
 We aim to give lots of positive feedback; a good ratio is 5 positive interactions to 1 negative interaction, even in the midst of a conflict.
 
@@ -597,7 +597,7 @@ We aim for "What is going well" and also "What could go better".
 We aim to praise effort and also ability.
 
 
-### Feedback values
+### Feedback value statements
 
 We value giving and receiving feedback, and we make these ongoing goals.
 
@@ -619,7 +619,7 @@ To create safety and trust, people must get to know each other, and talk about e
 It's OK to say no to giving feedback or receiving feedback.
 
 
-### Feedback using SMART
+### Feedback SMART criteria
 
 Specific feedback is better than unspecific or generic feedback.
 
