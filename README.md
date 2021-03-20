@@ -118,13 +118,9 @@ Mutual commitment.
 
 ## For discussions
 
-Cell phones are off or on silent notification
-
-Encourage everyone to participate.
+Encourage everyone to participate fully.
 
 Listen actively and attentively.
-
-Participate fully.
 
 Respect confidentiality.
 
@@ -133,8 +129,6 @@ Seek debate.
 Minimize distractions.
 
 Speak your mind.
-
-Have fun!
 
 Differences of opinion are natural and useful.
 
@@ -174,16 +168,14 @@ Take responsibility for what you need in the meeting.
 
 Let group know your attendance plans.
 
+Cell phones are off or on silent notification.
+
+Have fun!
+
 
 ## For partners
 
 View the issue as “we” not “me”.
-
-Accept where you are. It’s OK if things aren’t perfect.
-
-Look for your part in the problem. In a partnership, partners play a role in happiness or unhappiness.
-
-Make it safe to share. This includes giving a heads up about a big conversation, choosing a neutral time and place, and so on.
 
 Focus on one topic, rather than multiple topics.
 
@@ -193,9 +185,15 @@ Identify the issue from each partner's perspective.
 
 Brainstorm solutions.
 
+Acknowledge that growth together is a process, and allow time for changes to happen.
+
 Ask for a time out, if you want one.
 
-Acknowledge that growth together is a process, and allow time for changes to happen.
+Accept where you are. It’s OK if things aren’t perfect.
+
+Look for your part in the issue. In a partnership, partners play a role in happiness or unhappiness.
+
+Make it safe to share. This includes giving a heads up about a big conversation, choosing a neutral time and place, and so on.
 
 If the issue can’t be solved right away, then agree to check in from time to time to discuss the issue.
 
@@ -203,36 +201,6 @@ If talking feels difficult, then consider using writing. For example, you can wr
 
 If communication feels blocked, then consider using a third party. For example, consider asking for help from a coach, counselor, meditator, therapist, or trusted friend.
 
-
-## For hand signs, sign language, and video conferencing
-
-Sign language can be helpful for people who are hard of hearing, and also helpful for video conferencing, for large meetings, and for loud environments.
-
-Vote yes: thumb up.
-
-Vote no: thumb down.
-
-Vote maybe: thumb sideways.
-
-I understand: make the "OK" sign.
-
-I don't understand: raise your open hand to your chest, palm facing front, and move it side to side.
-
-Clarification ASAP: make the letter "C" sign. This means everyone pause as soon as possible, so the facilitator can do clarification.
-
-Ask to speak in turn: raise your open hand. This means everyone will let the person speak when it's their turn.
-
-Please be louder: raise your open hand to your ear, palm facing front, so the moderator and/or speaker notices. This can indicate "please turn on your microphone".
-
-Please be quieter: make the "shhh" sign with your pointer finger at your lips. This can indicate "please turn off your microphone".
-
-Please stop/freeze/wait: hold up your closed fist, fingers facing front.
-
-I'm typing in chat: show your hand and move your fingers as if you're typing on a keyboard.
-
-Time check: point at your wrist. This means please be aware that there's a time limit coming up.
-
-Time out: make the time out sign. This means conversation stops, and the facilitator takes over.
 
 
 ## For teams
@@ -605,17 +573,11 @@ The abbreviation "PTO" means "Paid Time Off".
 
 ## For feedback
 
-We aim to give lots of positive feedback; a good ratio is 5 positive interactions to 1 negative interaction, even in the midst of a conflict.
-
-We praise effort and we also praise ability.
-
-It's great to offer some positive feedback, then stop there.
-
 Ask for feedback often.
 
-Leaders need to explicitly lead great feedback culture.
+Ensure you’re giving lots of positive feedback.
 
-Ask.
+It's great to offer some positive feedback, then stop there.
 
 Don't punish.
 
@@ -623,48 +585,38 @@ Start small.
 
 Show the impact.
 
-Make it easy.
 
-Make it open and transparent.
+### Feedback norms
 
-Create a regular system for feedback.
+We aim to give lots of positive feedback; a good ratio is 5 positive interactions to 1 negative interaction, even in the midst of a conflict.
 
-Implement feedback culture as normal.
+We aim to increase people's strengths over trying to fix people's weaknesses.
 
-Have a variety of feedback channels that work well for a variety of personalities.
+We aim for "What is going well" and also "What could go better".
 
-Foster both positive feedback and negative feedback.
-
-Explain measures behind decisions regarding feedback.
-
-Explain the benefits of feedback.
-
-Focus on transparency, so everyone understands how the feedback system works and its purpose.
-
-Talk explicitly with the team about the feedback culture you want to create.
-
-Create feedback norms for the team.
-
-Systematize mechanisms for giving feedback.
-
-Ensure you’re giving lots of positive feedback.
-
-Value relationship-building.
-
-Emphasize "What is going well" and "What could go better".
-
-We value increasing people's strengths over trying to fix people's weaknesses.
+We aim to praise effort and also ability.
 
 
 ### Feedback values
 
 We value giving and receiving feedback, and we make these ongoing goals.
 
+We value positive complimentary feedback, and we also value constructive negative feedback.
+
 We value feedback being consistent, continous, and constructive.
 
-We value feedback that is timely, and comes early and often.
+We value feedback that comes early and often.
 
-We value positive complimentary feedback, and we also value constructive negative feedback.
+We value relationship-building.
+
+
+### Feedback safety
+
+To give and receive truly candid feedback, people must truly feel a sense of safety and trust.
+
+To create safety and trust, people must get to know each other, and talk about emotions.
+
+It's OK to say no to giving feedback or receiving feedback.
 
 
 ### Feedback using SMART
@@ -680,19 +632,32 @@ Relevant feedback is better than irrelevant feedback.
 Timely feedback is better than late feedback.
 
 
-### Feedback safety
+### Feedback culture
 
-To give and receive truly candid feedback, people must truly feel a sense of safety and trust.
+Leaders need to explicitly lead great feedback culture.
 
-To create safety and trust, we get to know each other, and we talk about emotions.
+Explain the benefits of feedback.
 
-Create safe places for feedback.
+Explain measures behind decisions regarding feedback.
 
-It's OK to say no to giving feedback or receiving feedback.
+Talk explicitly with the team about the feedback culture you want to create.
+
+Make it open and transparent what's happening, so everyone understands how the feedback system works and its purpose.
+
+Make it easy and safe to give and receive feedback, so everyone feels willing and able to participate.
+
+Create feedback norms for the team.
+
+Implement feedback culture as normal.
+
+Systematize mechanisms for giving feedback.
+
+Have a variety of feedback channels that work well for a variety of personalities.
+
+Foster both positive feedback and negative feedback.
 
 
 ## For technology projects
-
 
 Time and place of meetings, such as daily scrum, standup, showcase, etc.
 
@@ -718,7 +683,7 @@ Set up early for demo and prepare.
 
 Never ignore anything! (Such as bugs “solving themselves”).
 
-We never say “no”. We say “sure, just chuck it on the product backlog. It’ll get prioritised later.”
+We never say “no”. We say “sure, add it on the product backlog, and it will get prioritised later.”
 
 Make sure everyone gets heard.
 
@@ -730,7 +695,7 @@ Make sure daily goals are clear (we know the steps we need to take to achieve th
 
 We make decisions together.
 
-We email documentation to everyone in the squad.
+We publish documentation to everyone in the squad.
 
 We need to show what we have done to the business people impacted, not just our product owner (when appropriate).
 
@@ -748,6 +713,37 @@ We use a "wordbook" document that explains terminology, a.k.a. a glossary, dicti
 We use a "pitch" document that we present to stakeholders about the project, progress, goals, etc.
 
 We use a "canvas" document that is our Business Model Canvas.
+
+
+## For hand signs, sign language, and video conferencing
+
+Sign language can be helpful for people who are hard of hearing, and also helpful for video conferencing, for large meetings, and for loud environments.
+
+Vote yes: thumb up.
+
+Vote no: thumb down.
+
+Vote maybe: thumb sideways.
+
+I understand: make the "OK" sign.
+
+I don't understand: raise your open hand to your chest, palm facing front, and move it side to side.
+
+Clarification ASAP: make the letter "C" sign. This means everyone pause as soon as possible, so the facilitator can do clarification.
+
+Ask to speak in turn: raise your open hand. This means everyone will let the person speak when it's their turn.
+
+Please be louder: raise your open hand to your ear, palm facing front, so the moderator and/or speaker notices. This can indicate "please turn on your microphone".
+
+Please be quieter: make the "shhh" sign with your pointer finger at your lips. This can indicate "please turn off your microphone".
+
+Please stop/freeze/wait: hold up your closed fist, fingers facing front.
+
+I'm typing in chat: show your hand and move your fingers as if you're typing on a keyboard.
+
+Time check: point at your wrist. This means please be aware that there's a time limit coming up.
+
+Time out: make the time out sign. This means conversation stops, and the facilitator takes over.
 
 
 ## For visual indicators
