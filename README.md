@@ -24,6 +24,7 @@ Ways of Working especially for:
 * [Meetings, briefings, standups, …](doc/meetings/index.md)
 * [Schedules, calendars, events, …](doc/schedules/index.md)
 * [Signing, video calls, loud rooms, …](doc/signing/index.md)
+* [Bonding, TODO, TODO, …](doc/bonding/index.md)
 * [Projects, plans, products, …](doc/projects/index.md)
 * [Date time formats](doc/date-time-formats/index.md)
 * [Status indicators](doc/status-indicators/index.md)
@@ -55,37 +56,37 @@ Ways of Working can include many aspects. For example, ways of working can inclu
 
 ### Ground rules
 
-Ground rules are statements of expected behavior for specific times, places, and situations, for example in a meeting, or presentation, or working session. 
-
-Example: In our meetings, everyone has an opportunity to speak.
+Ground rules are statements of how people need to behave, for specific times,
+places, and situations.  Example: In our meetings, everyone has the opportunity
+to speak.
 
 
 ### Aspirations
 
-Aspirations are statements intended to guide interactions and decision making within the group, and also across other groups within the organization. 
-
-Example: Every challenge is an opportunity to learn.
+Aspirations are statements intended to guide interactions and decision making
+within the group, and also across other groups within the organization. Example:
+Every challenge is an opportunity to learn.
 
 
 ### Team values
 
-Team values are statements of what people hold as important. Often, teams make a list of nouns to state their values. 
-
-Examples: We value courage, collaboration, respect.
+Team values are statements of what people hold as important. Often, teams make a
+list of their values by using behavior-related nouns. Example: We value courage,
+collaboration, respect.
 
 
 ### Team norms
 
-Team norms are informal implicit standards of behavior that emerge over time from the interactions of the group.
-
-Example: By observing the team, we see that teammates are punctual.
+Team norms are informal implicit standards of behavior that emerge over time
+from the interactions of the group. Example: By observing the team, we see that
+teammates are punctual.
 
 
 ### Working agreements
 
-Working agreements are protocols that the group develops and agrees to follow. The protocols aim to forge commitment and a shared approach that will help the team meet their goal.
-
-Example: Code is complete when all tests pass.
+Working agreements are protocols that the group develops and agrees to follow.
+The protocols aim to forge commitment and a shared approach that will help the
+team meet their goal. Example: Code is complete when all tests pass.
 
 
 ## Ways of Working especially for specific areas
@@ -153,6 +154,23 @@ Clarification: make the letter "C" hand sign. Everyone pauses and the leader fig
 
 [More…](doc/signing/index.md)
 
+
+### For bonding, all-hands, kick-offs, etc.
+
+Team bonding is good and valuable because it improves communication.
+
+Try multiple kinds of bonding events, such as all-hands, kick-offs, offsites, outings, fun events, etc.
+
+[More…](doc/bonding/index.md)
+
+
+### For orientation, onboarding, offboarding, etc.
+
+We use a "people" document. It lists our names, contact information, roles, responsibilities, etc.
+
+We use a "pitch" document. It summarizes the project and its progress, much like a startup pitch deck.
+
+[More…](doc/orientation/index.md)
 
 
 ##############
@@ -227,15 +245,6 @@ Designate an office area for louder/bigger work, and an office area for quieter/
 If you email, then use the "To" field if you need action, and the "Cc" field if you don't need action.
 
 
-### Team bonding
-
-Team bonding is good and valuable.
-
-Team bonding that is focused on alcohol is not good, because some people can't participate, or don't want to participate.
-
-Team bonding events may be better if the focus is on fun, not work. Some teams use a "swear jar" idea in order to lighten the mood: if someone talks about work, then they must put a dollar in the "swear jar".
-
-
 ### Team success ideas at Google
 
 Dependability: we get things done on time and meet expectations.
@@ -249,18 +258,3 @@ Impact: our work is purposeful and positively impacts the greater good.
 Psychological safety: everyone is safe to take risks, voice opinions, and ask questions.
 
 
-## For team documentation
-
-We use a "people" document that lists our names, contact information, and what we're each doing.
-
-We use a "pitch" document that we present to stakeholders about the project and its progress.
-
-We use a "wordbook" document that explains terminology, a.k.a. a glossary, dictionary, abbreviation guide.
-
-We use an "onboard" document that explains how to join our team, what we do, and how we work together.
-
-We use an "offboard" document that explains how to unjoin our team, what we do, and how we wrap up together.
-
-We use a "responsibilities" document that explains who is responsible for what, such as a Responsibility Assignment Matrix (RAM) or a RACIO matrix (Responsible, Accountable, Consultable, Informable, Omittable).
-
-We use a "canvas" document that is our Business Model Canvas.
