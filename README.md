@@ -13,7 +13,7 @@ Ways of Working (WoW) is a phrase that summarizes how people collaborate, typica
 
 Overviews:
 
-* [Working Agreements by Jane Haskell](doc/working-agreements-by-jane-haskell)
+* [Working Agreements by Jane Haskell](doc/working-agreements-by-jane-haskell/index.md)
 
 Supporting files:
 
@@ -40,7 +40,7 @@ Ways of Working are guidelines that improve teamwork and communication. Ways of 
 Ways of Working can include many kinds of description. For example, ways of
 working can include ground rules, aspirations, team values, team norms, working
 agreements, and more. We describe these below. These definitions are based on
-work by [Esther Derby](doc/team-norms-by-esther-derby).
+work by [Esther Derby](doc/team-norms-by-esther-derby/index.md).
 
 * <b>Ground rules</b> are statements of how people need to behave, for specific
   times, places, and situations.  Example: At our meetings, everyone has the
