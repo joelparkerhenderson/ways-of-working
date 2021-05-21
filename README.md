@@ -13,6 +13,7 @@ Ways of Working (WoW) is a phrase that summarizes how people collaborate, typica
 
 Overviews:
 
+* [Team Norms, Working Agreements, and Simple Rules by Esther Derby](doc/team-norms-by-esther-derby/index.md)
 * [Working Agreements by Jane Haskell](doc/working-agreements-by-jane-haskell/index.md)
 
 Supporting files:
