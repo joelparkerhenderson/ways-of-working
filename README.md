@@ -58,9 +58,9 @@ work by [Esther Derby](doc/team-norms-by-esther-derby).
   time from the interactions of the group. Example: By observing the team, we
   see that teammates are punctual.
 
-* <b>Working agreements</b> are protocols that the group develops and agrees to
-  follow. The protocols aim to forge commitment and a shared approach that will
-  help the team meet their goal. Example: Code is complete when all tests pass.
+* <b>Working agreements</b> are protocols that the group develops together,
+  commits to follow together, and agreed to uphold together. Example: Code is
+  complete when all tests pass.
 
 
 ## Ideas
