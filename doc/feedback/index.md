@@ -1,5 +1,17 @@
 # Ways of Working for feedback, advice, coaching, etc.
 
+Ask for feedback often.
+
+Ensure you’re giving lots of positive feedback.
+
+It's great to offer some positive feedback, then stop there.
+
+Start small.
+
+Show the impact.
+
+Do not punish.
+
 
 ## Feedback "SMART" criteria
 
@@ -13,20 +25,6 @@ Relevant feedback is better than irrelevant/extraneous feedback.
 
 Timely feedback is better than untimely/inopportune feedback.
 
-
-## Feedback quickstart
-
-Ask for feedback often.
-
-Ensure you’re giving lots of positive feedback.
-
-It's great to offer some positive feedback, then stop there.
-
-Start small.
-
-Show the impact.
-
-Do not punish.
 
 
 ## Feedback "aim" statements

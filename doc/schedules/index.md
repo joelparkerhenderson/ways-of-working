@@ -1,6 +1,13 @@
 # Ways of Working for schedules, calendars, events, etc.
 
 
+## Most important
+
+Use the strengths of "[maker's schedule, manager's schedule](http://paulgraham.com/makersschedule.html)".
+
+Ensure all stakeholders know the expectations for availability, attendance, and RSVPs.
+
+
 ## For workweeks
 
 Do a day or more that is meeting free. For example a team may like to choose Friday, because it works well with travel and holidays.

@@ -1,9 +1,16 @@
 # Ways of working for meetings, briefings, standups, etc.
 
 
+## Most important
+
+Prepare the participants. For example "The purpose of this meeting is X because Y".
+
+Plan the outcome. For example "At the end of this meeting we want X because Y".
+
+
 ## To focus a meeting
 
-To focus a meeting and its goals, choose one purpose: informing, solutioning, innovating, or team building.
+To focus a meeting and its goals, choose one purpose: informing, solutioning, innovating, or bonding.
 
 Examples of informing: status updates, content sharing, keynotes, lectures, etc.
 
@@ -11,7 +18,7 @@ Examples of solutioning: solving a problems, making decisions, strategizing, pri
 
 Examples of innovating: brainstorming, generating ideas, evaluating options, etc.
 
-Examples o team building: all-hands, kick-offs, outings, offsites, gaining commitment for a change effort, etc.
+Examples of bonding: all-hands, kick-offs, outings, offsites, gaining commitment for a change effort, etc.
 
 
 ## To plan a meeting
@@ -46,9 +53,11 @@ Is everything working, such as projectors, monitors, phone systems?
 
 Start on time.
 
-State the agenda and the objective, such as "Here's why we are here."
+State the agenda. For example "Here's why we are here."
 
-State the outcome. For example "At the end of this meeting, we expect to have X. To get there we will (explain process of what we are about to do).”
+State the outcome. For example "At the end of this meeting, we expect to have X."
+
+State the process. For example "To get there we will X (explain process of what we are about to do).”
 
 If necessary, remind the group of the ground rules. For example "Here are our ground rules. Are we still agreed on them? Is there anything we would like to add, remove, or change for this meeting?"
 
