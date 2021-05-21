@@ -1,4 +1,4 @@
-# Ways of Working for good relationships
+# Ways of Working for goodness, wellness, positivity, etc.
 
 Be kind.
 
