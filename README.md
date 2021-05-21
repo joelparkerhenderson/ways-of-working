@@ -15,20 +15,6 @@ Overviews:
 
 * [Working Agreements by Jane Haskell](doc/working-agreements-by-jane-haskell)
 
-Ways of Working especially for:
-
-* [Goodness, wellness, positivity, …](doc/goodness/index.md)
-* [Collaborators, friends, partners, …](doc/collaborators/index.md)
-* [Discussions, forums, chats, …](doc/discussions/index.md)
-* [Feedback, advice, coaching, …](doc/feedback/index.md)
-* [Meetings, briefings, standups, …](doc/meetings/index.md)
-* [Schedules, calendars, events, …](doc/schedules/index.md)
-* [Signing, video calls, loud rooms, …](doc/signing/index.md)
-* [Bonding, TODO, TODO, …](doc/bonding/index.md)
-* [Projects, plans, products, …](doc/projects/index.md)
-* [Date time formats](doc/date-time-formats/index.md)
-* [Status indicators](doc/status-indicators/index.md)
-
 Supporting files:
 
 * [Adult Principles by John Perry Barlow](doc/adult-principles-by-john-perry-barlow/index.md)
@@ -51,45 +37,33 @@ Supporting files:
 
 Ways of Working are guidelines that improve teamwork and communication. Ways of Working can define a team's set of expectations for participating, collaborating, and interrelating.
 
-Ways of Working can include many aspects. For example, ways of working can include ground rules, aspirations, team values, team norms, working agreements, and more. We describe these below. These definitions are based on work by [Esther Derby](doc/team-norms-by-esther-derby).
+Ways of Working can include many kinds of description. For example, ways of
+working can include ground rules, aspirations, team values, team norms, working
+agreements, and more. We describe these below. These definitions are based on
+work by [Esther Derby](doc/team-norms-by-esther-derby).
+
+* <b>Ground rules</b> are statements of how people need to behave, for specific
+  times, places, and situations.  Example: At our meetings, everyone has the
+  opportunity to speak.
+
+* <b>Aspirations</b> are statements intended to guide interactions and decision
+  making within the group, and also across other groups within the organization.
+  Example: Every challenge is an opportunity to learn.
+
+* <b>Team values</b> are statements of what people hold as important. Often,
+  teams make a list of their values by using behavior-related nouns. Example: We
+  value courage, collaboration, respect.
+
+* <b>Team norms</b> are informal implicit standards of behavior that emerge over
+  time from the interactions of the group. Example: By observing the team, we
+  see that teammates are punctual.
+
+* <b>Working agreements</b> are protocols that the group develops and agrees to
+  follow. The protocols aim to forge commitment and a shared approach that will
+  help the team meet their goal. Example: Code is complete when all tests pass.
 
 
-### Ground rules
-
-Ground rules are statements of how people need to behave, for specific times,
-places, and situations.  Example: In our meetings, everyone has the opportunity
-to speak.
-
-
-### Aspirations
-
-Aspirations are statements intended to guide interactions and decision making
-within the group, and also across other groups within the organization. Example:
-Every challenge is an opportunity to learn.
-
-
-### Team values
-
-Team values are statements of what people hold as important. Often, teams make a
-list of their values by using behavior-related nouns. Example: We value courage,
-collaboration, respect.
-
-
-### Team norms
-
-Team norms are informal implicit standards of behavior that emerge over time
-from the interactions of the group. Example: By observing the team, we see that
-teammates are punctual.
-
-
-### Working agreements
-
-Working agreements are protocols that the group develops and agrees to follow.
-The protocols aim to forge commitment and a shared approach that will help the
-team meet their goal. Example: Code is complete when all tests pass.
-
-
-## Ways of Working especially for specific areas
+## Ideas
 
 
 ### For goodness, wellness, positivity, etc.
@@ -173,79 +147,22 @@ We use a "pitch" document. It summarizes the project and its progress, much like
 [More…](doc/orientation/index.md)
 
 
-##############
+### For mutual interactions
+
+Have mutual respect.
+
+Have mutual purpose.
+
+Have mutual consideration.
+
+Have mutual communication.
+
+Have mutual commitment.
 
 
-## For mutual interactions
+### For team success
 
-Mutual respect.
-
-Mutual purpose.
-
-Mutual consideration.
-
-Mutual communication.
-
-Mutual commitment.
-
-
-## For teams
-
-All ideas are valid.
-
-All voices are heard.
-
-Ask questions if you are confused.
-
-Presume good-faith intentions.
-
-Test assumptions and inferences.
-
-Try not to distract your teammates.
-
-Use every failure as an opportunity to learn.
-
-Debate the issue, not the person.
-
-Critique the ideas, not the people.
-
-Challenge one another, and do so respectfully.
-
-Silence does not mean agreement nor disagreement.
-
-If you are offended by anything said during discussion, acknowledge it immediately.
-
-Aggression or personal attacks are not ok and will be halted immediately.
-
-Aim to understand each others' strengths and also weaknesses.
-
-
-### Team communications
-
-Team communications are radiated when events happen, so other teammates can be in the loop.
-
-Team communications have preferred channels, such as chat, or email, or video, or forum.
-
-Team communications have equitable ways for remote people to participate.
-
-Teammates commit to read communications sent directly to them within 1 business day.
-
-Team whiteboards are eraseable any time; do not write "Do not erase".
-
-If someone is wearning headphones, do not disturb unless there is an emergency.
-
-Each teammate gets their own credentials, such as a username, password, and security badge.
-
-Each teammate has a crossover person that is able to handle the teammate's work in their absence.
-
-If you have a social network page that's relevant to the team, such as LinkedIn page, then make sure it's current.
-
-Designate an office area for louder/bigger work, and an office area for quieter/smaller work.
-
-If you email, then use the "To" field if you need action, and the "Cc" field if you don't need action.
-
-
-### Team success ideas at Google
+<!-- N.b. these come from Google -->
 
 Dependability: we get things done on time and meet expectations.
 
@@ -258,3 +175,67 @@ Impact: our work is purposeful and positively impacts the greater good.
 Psychological safety: everyone is safe to take risks, voice opinions, and ask questions.
 
 
+### For focus
+
+Try not to distract your teammates.
+
+If someone is wearing headphones, then do not disturb them unless there is an emergency.
+
+Designate an office area for louder/bigger work, and an office area for quieter/smaller work.
+
+
+### For communications
+
+Communications are radiated when events happen, so teammates can be in the loop.
+
+Communications have preferred channels, such as chat, or email, or video, or forum.
+
+Communications provide equitable participation for everyone involved.
+
+
+### For email
+
+If you're sending a message that is urgent, then write "URGENT" in the subject line.
+
+If you're sending a message that is informative and doesn't need action, then use "CC" field, not the "To" field.
+
+If you're sending a message that needs action, then be clear and direct about what's needed.
+
+
+### For credentials
+
+Each teammate gets their own credentials, such as a username, password, and security badge.
+
+Credentials are confidential.
+
+Credentials are tested at least annually.
+
+
+### For shared spaces
+
+When you're using a shared space, be considerate of others using the space.
+
+When you finish using a shared space, ensure its in good condition for the next people.
+
+Whiteboards are eraseable any time; do not write "Do not erase".
+
+
+### For personal safety nets
+
+Each teammate has a crossover person that is able to handle the teammate's work in their absence.
+
+Each teammate knows what to do if their other teamates need to be unexpectedly absent.
+
+Each teammate tests their own backups to ensure they're always usable.
+
+<!-- 
+
+TODO
+
+Teammates commit to read communications sent directly to them within 1 business day.
+
+If you have a social network page that's relevant to the team, such as LinkedIn page, then make sure it's current.
+
+Use every failure as an opportunity to learn.
+
+-->
