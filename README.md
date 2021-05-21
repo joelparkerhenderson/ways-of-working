@@ -79,9 +79,18 @@ Be prepared. Be present. Be productive.
 
 View the issue as “we” not “me”.
 
-Identify what's happening from each person's perspective.
+Consider what's happening from each person's perspective.
 
 [More…](doc/collaborators/index.md)
+
+
+### For respect
+
+Presume good-faith intentions.
+
+Debate the issue, not the person.
+
+[More…](doc/respect/index.md)
 
 
 ### For discussions, forums, chats, etc.

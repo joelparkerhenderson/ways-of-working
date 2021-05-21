@@ -2,7 +2,7 @@
 
 View the issue as “we” not “me”.
 
-Identify what's happening from each person's perspective.
+Consider what's happening from each person's perspective.
 
 Focus on one topic, rather than multiple topics.
 
