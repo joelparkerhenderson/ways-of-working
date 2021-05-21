@@ -18,6 +18,8 @@ Be productive.
 
 Be encouraging.
 
+Be curious.
+
 Be candid.
 
 Be honest.
