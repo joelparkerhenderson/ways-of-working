@@ -38,13 +38,12 @@ Supporting files:
 
 Ways of Working are guidelines that improve teamwork and communication. Ways of Working can define a team's set of expectations for participating, collaborating, and interrelating.
 
-Ways of Working can include many kinds of description. For example, ways of
-working can include ground rules, aspirations, team values, team norms, working
-agreements, and more. We describe these below. These definitions are based on
-work by [Esther Derby](doc/team-norms-by-esther-derby/index.md).
+Ways of Working can include ground rules, aspirations, team values, team norms,
+working agreements, and more. For a deep dive on these see [Esther
+Derby](doc/team-norms-by-esther-derby/index.md).
 
 * <b>Ground rules</b> are statements of how people need to behave, for specific
-  times, places, and situations.  Example: At our meetings, everyone has the
+  times, places, and situations. Example: At our meetings, everyone has the
   opportunity to speak.
 
 * <b>Aspirations</b> are statements intended to guide interactions and decision
@@ -163,11 +162,7 @@ Have mutual respect.
 
 Have mutual purpose.
 
-Have mutual consideration.
-
-Have mutual communication.
-
-Have mutual commitment.
+[More…](doc/mutual/index.md)
 
 
 ### For team success
