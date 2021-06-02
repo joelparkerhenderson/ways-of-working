@@ -156,6 +156,24 @@ We use a "pitch" document. It summarizes the project and its progress, much like
 [More…](doc/orientation/index.md)
 
 
+### For credentials, passwords, badges, etc.
+
+Each teammate gets their own credentials, such as a username, a password, a security badge, etc.
+
+Each teammate knows how to get new credentials, manage them securely, and revoke them if necessary.
+
+[More…](doc/credentials/index.md)
+
+
+### For shared spaces, group areas, public rooms, etc.
+
+Post relevant information prominently, such as the shared space's phone numbers, wifi codes, room reservations, etc.
+
+Whiteboards are eraseable any time; please erase any whiteboard writing that says "Do not erase".
+
+[More…](doc/shared-spaces/index.md)
+
+
 ### For mutual interactions
 
 Have mutual respect.
@@ -205,24 +223,6 @@ If you're sending a message that is urgent, then write "URGENT" in the subject l
 If you're sending a message that is informative and doesn't need action, then use "CC" field, not the "To" field.
 
 If you're sending a message that needs action, then be clear and direct about what's needed.
-
-
-### For credentials
-
-Each teammate gets their own credentials, such as a username, password, and security badge.
-
-Credentials are confidential.
-
-Credentials are tested at least annually.
-
-
-### For shared spaces
-
-When you're using a shared space, be considerate of others using the space.
-
-When you finish using a shared space, ensure its in good condition for the next people.
-
-Whiteboards are eraseable any time; do not write "Do not erase".
 
 
 ### For personal safety nets

@@ -1,4 +1,4 @@
-# For shared spaces, group areas, coworking, etc.
+# For shared spaces, group areas, public rooms, etc.
 
 Post relevant information prominently, such as the shared space's phone numbers, wifi codes, room reservations, etc.
 

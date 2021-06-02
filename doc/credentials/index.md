@@ -4,9 +4,6 @@ Each teammate gets their own credentials, such as a username, a password, a secu
 
 Each teammate knows how to get new credentials, manage them securely, and revoke them if necessary.
 
-[More…](doc/credentials/index.md)
-
-
 Credentials are confidential.
 
 Credentials are creatable by doing X process.
