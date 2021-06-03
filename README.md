@@ -66,7 +66,7 @@ Derby](doc/team-norms-by-esther-derby/index.md).
 ## Ideas
 
 
-### For goodness, wellness, positivity
+### For goodness and wellness
 
 Be creative. Be constructive. Be collaborative.
 
@@ -75,7 +75,7 @@ Be prepared. Be present. Be productive.
 [More…](doc/goodness/index.md)
 
 
-### For focus
+### For focus and attention
 
 Focus is limited so budget it wisely. 
 
@@ -91,7 +91,7 @@ etc.
 [More…](doc/focus/index.md)
 
 
-### For collaborators, friends, partners
+### For collaborators and partners
 
 View the issue as “we” not “me”.
 
@@ -100,7 +100,7 @@ Consider what's happening from each person's perspective.
 [More…](doc/collaborators/index.md)
 
 
-### For respect
+### For respect and honor
 
 Presume good-faith intentions.
 
@@ -109,7 +109,7 @@ Debate the issue, not the person.
 [More…](doc/respect/index.md)
 
 
-### For discussions, forums, chats
+### For discussions and forums
 
 Encourage everyone to participate fully.
 
@@ -118,7 +118,7 @@ Listen actively and attentively.
 [More…](doc/discussions/index.md)
 
 
-### For feedback, advice, coaching
+### For feedback and advice
 
 Ask for feedback often.
 
@@ -127,7 +127,7 @@ Ensure you’re giving lots of positive feedback.
 [More…](doc/feedback/index.md)
 
 
-### For meetings, briefings, standups
+### For meetings and briefings
 
 Prepare the participants. For example "The purpose of this meeting is X because Y".
 
@@ -136,7 +136,7 @@ Plan the outcome. For example "At the end of this meeting we want X because Y".
 [More…](doc/meetings/index.md)
 
 
-### For schedules, calendars, events
+### For schedules and calendars
 
 Use the strengths of "maker's schedule, manager's schedule".
 
@@ -145,7 +145,7 @@ Ensure all stakeholders know the expectations for availability, attendance, and 
 [More…](doc/schedules/index.md)
 
 
-### For signing, video calls, loud rooms
+### For hand signs and visual communication
 
 Voting: thumb up means yes, down means no, sideways means maybe. Everyone votes and the leader tallies.
 
@@ -154,7 +154,7 @@ Clarification: make the letter "C" hand sign. Everyone pauses and the leader fig
 [More…](doc/signing/index.md)
 
 
-### For bonding, all-hands, kick-offs
+### For bonding and team events
 
 Team bonding is good and valuable because it improves communication.
 
@@ -163,7 +163,7 @@ Try multiple kinds of bonding events, such as all-hands, kick-offs, offsites, ou
 [More…](doc/bonding/index.md)
 
 
-### For orientation, onboarding, welcoming
+### For orientation and onboarding
 
 We use a "people" document. It lists our names, contact information, roles, responsibilities, etc.
 
@@ -172,7 +172,7 @@ We use a "pitch" document. It summarizes the project and its progress, much like
 [More…](doc/orientation/index.md)
 
 
-### For credentials, passwords, badges
+### For credentials and accounts
 
 Each teammate gets their own credentials, such as a username, a password, a security badge, etc.
 
@@ -181,9 +181,9 @@ Each teammate knows how to get new credentials, manage them securely, and revoke
 [More…](doc/credentials/index.md)
 
 
-### For shared spaces, group areas, public rooms
+### For shared spaces and group areas
 
-Post relevant information prominently, such as the shared space's phone numbers, wifi codes, room reservations, etc.
+Post relevant information prominently, such as phone numbers, wifi codes, room reservations, etc.
 
 Whiteboards are eraseable any time; please erase any whiteboard writing that says "Do not erase".
 
@@ -224,7 +224,7 @@ Communications have preferred channels, such as chat, or email, or video, or for
 Communications provide equitable participation for everyone involved.
 
 
-### For email messages, forum posts, group chats
+### For email messages and forum posts
 
 If you need the reader to do something, then write "ACTION NEEDED", "REPLY PLEASE", etc.
 
