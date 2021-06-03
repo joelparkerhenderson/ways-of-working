@@ -224,13 +224,13 @@ Communications have preferred channels, such as chat, or email, or video, or for
 Communications provide equitable participation for everyone involved.
 
 
-### For email
+### For email messages, forum posts, group chats, etc.
 
-If you're sending a message that is urgent, then write "URGENT" in the subject line.
+If you need the reader to do something, then write "ACTION NEEDED", "REPLY PLEASE", etc.
 
-If you're sending a message that is informative and doesn't need action, then use "CC" field, not the "To" field.
+If you need the reader to schedule, then write "DUE BY X", "DEADLINE IS X", etc.
 
-If you're sending a message that needs action, then be clear and direct about what's needed.
+[More…](doc/email/index.md)
 
 
 ### For personal safety nets
