@@ -1,4 +1,4 @@
-# Ways of Working for status indicators
+# Ways of working for status indicators
 
 
 ## Yes/No status

@@ -1,5 +1,4 @@
-
-# Ways of Working for date time formats
+# Ways of working for date-time formats
 
 We often work with teams across the world, and we often work with dates and times. When we want to do technical communication, we like ways of working that are effective worldwide and are also effective for computer users.
 

@@ -1,4 +1,4 @@
-# Ways of Working for projects, plans, products, etc.
+# Ways of working for projects, plans, products, etc.
 
 
 ## Goals

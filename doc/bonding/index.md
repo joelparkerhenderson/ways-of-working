@@ -1,4 +1,4 @@
-# Ways of Working for bonding, all-hands, kick-offs, etc.
+# Ways of working for bonding, all-hands, kick-offs
 
 Team bonding is good and valuable because it improves communication.
 

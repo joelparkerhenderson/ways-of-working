@@ -1,12 +1,10 @@
-# Ways of Working for orientation, onboarding, offboarding, etc.
+# Ways of working for orientation, onboarding, welcoming
 
 We use a "people" document. It lists our names, contact information, roles, responsibilities, etc.
 
 We use a "pitch" document. It summarizes the project and its progress, much like a startup pitch deck.
 
 We use an "onboard" document. It explains how to join our team, how to set up, and how to collaborate.
-
-We use an "offboard" document that explains how to unjoin our team, what we do, and how we wrap up together.
 
 We use a "wordbook" document that explains terminology, a.k.a. a glossary, dictionary, abbreviation guide.
 

@@ -1,4 +1,4 @@
-# For credentials, passwords, badges, etc.
+# Ways of working for credentials, passwords, badges, etc.
 
 Each teammate gets their own credentials, such as a username, a password, a security badge, etc.
 

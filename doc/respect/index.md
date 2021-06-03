@@ -1,4 +1,4 @@
-# Ways of Working for respect
+# Ways of working for respect
 
 All ideas are considered.
 

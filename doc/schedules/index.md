@@ -1,4 +1,4 @@
-# Ways of Working for schedules, calendars, events, etc.
+# Ways of working for schedules, calendars, events, etc.
 
 
 ## Most important

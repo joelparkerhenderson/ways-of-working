@@ -1,5 +1,4 @@
-
-# United States Marine Corps Leadership Principles
+# Leadership Principles by United States Marine Corps 
 
 http://www.au.af.mil/au/awc/awcgate/usmc/leadership.htm
 

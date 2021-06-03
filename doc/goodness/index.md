@@ -1,4 +1,4 @@
-# Ways of Working for goodness, wellness, positivity, etc.
+# Ways of working for goodness, wellness, positivity, etc.
 
 Be kind.
 

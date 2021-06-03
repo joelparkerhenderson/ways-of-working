@@ -1,15 +1,15 @@
-# For mutual interactions
+# Ways of working for mutual interactions
 
-Have mutual respect.
+Emphasize mutual respect.
 
-Have mutual purpose.
+Emphasize mutual purpose.
 
-Have mutual consideration.
+Emphasize mutual consideration.
 
-Have mutual communication.
+Emphasize mutual communication.
 
-Have mutual commitments.
+Emphasize mutual commitments.
 
-Have mutual understandings.
+Emphasize mutual understandings.
 
-Have mutual retrospectives.
+Emphasize mutual retrospectives.
