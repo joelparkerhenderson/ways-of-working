@@ -75,6 +75,22 @@ Be prepared. Be present. Be productive.
 [More…](doc/goodness/index.md)
 
 
+### For focus
+
+Focus is limited so budget it wisely. 
+
+Focus yourself and your team with practices such as 
+[TEAM FOCUS](https://github.com/joelparkerhenderson/team-focus),
+[OKR](https://github.com/joelparkerhenderson/objectives-and-key-results),
+[SBS](https://github.com/joelparkerhenderson/strategic-balanced-scorecard),
+[VSM](https://github.com/joelparkerhenderson/value-stream-mapping),
+[GIST](https://github.com/joelparkerhenderson/goals-ideas-steps-tasks),
+[SMART](https://github.com/joelparkerhenderson/smart-criteria),
+etc.
+
+[More…](doc/focus/index.md)
+
+
 ### For collaborators, friends, partners, etc.
 
 View the issue as “we” not “me”.
@@ -183,6 +199,7 @@ Have mutual purpose.
 [More…](doc/mutual/index.md)
 
 
+
 ### For team success
 
 <!-- N.b. these come from Google -->
@@ -196,15 +213,6 @@ Meaning: our work has personal significance to each member.
 Impact: our work is purposeful and positively impacts the greater good.
 
 Psychological safety: everyone is safe to take risks, voice opinions, and ask questions.
-
-
-### For focus
-
-Try not to distract your teammates.
-
-If someone is wearing headphones, then do not disturb them unless there is an emergency.
-
-Designate an office area for louder/bigger work, and an office area for quieter/smaller work.
 
 
 ### For communications
