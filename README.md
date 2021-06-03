@@ -118,6 +118,24 @@ Listen actively and attentively.
 [More…](doc/discussions/index.md)
 
 
+### For mutual interactions
+
+Emphasize mutual respect.
+
+Emphasize mutual purpose.
+
+[More…](doc/mutual/index.md)
+
+
+### For successful teams
+
+Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?
+    
+Dependability: Can we count on each other to do high quality work on time?
+
+[More…](doc/the-five-keys-to-a-successful-google-team/index.md)
+
+
 ### For feedback and advice
 
 Ask for feedback often.
@@ -190,29 +208,13 @@ Whiteboards are eraseable any time; please erase any whiteboard writing that say
 [More…](doc/shared-spaces/index.md)
 
 
-### For mutual interactions
+### For email messages and forum posts
 
-Emphasize mutual respect.
+If you need the reader to do something, then write "ACTION NEEDED", "REPLY PLEASE", etc.
 
-Emphasize mutual purpose.
+If you need the reader to schedule, then write "DUE BY X", "DEADLINE IS X", etc.
 
-[More…](doc/mutual/index.md)
-
-
-
-### For team success
-
-<!-- N.b. these come from Google -->
-
-Dependability: we get things done on time and meet expectations.
-
-Clarity: we have clear goals and well-defined roles.
-
-Meaning: our work has personal significance to each member.
-
-Impact: our work is purposeful and positively impacts the greater good.
-
-Psychological safety: everyone is safe to take risks, voice opinions, and ask questions.
+[More…](doc/email/index.md)
 
 
 ### For communications
@@ -222,16 +224,6 @@ Communications are radiated when events happen, so teammates can be in the loop.
 Communications have preferred channels, such as chat, or email, or video, or forum.
 
 Communications provide equitable participation for everyone involved.
-
-
-### For email messages and forum posts
-
-If you need the reader to do something, then write "ACTION NEEDED", "REPLY PLEASE", etc.
-
-If you need the reader to schedule, then write "DUE BY X", "DEADLINE IS X", etc.
-
-[More…](doc/email/index.md)
-
 
 ### For personal safety nets
 
