@@ -24,6 +24,7 @@ Supporting files:
 * [Ground rules for effective meetings by Get The Picture](ground-rules-for-effective-meetings-by-get-the-picture/index.md)
 * [High-velocity decision making by Amazon](doc/high-velocity-decision-making-by-amazon/index.md)
 * [How we structure our work and teams at Basecamp](doc/how-we-structure-our-work-and-teams-at-basecamp/index.md)
+* [Leadership Principles by United States Marine Corps](doc/leadership-principles-by-united-states-marine-corps/index.md)
 * [Project management practices by Hacker News participants](doc/project-management-practices-by-hackernews/index.md)
 * [Rules of the Road by Jerry Perenchio](doc/rules-of-the-road-by-jerry-perenchio/index.md)
 * [Scaled Agile Framework (SAFe)](doc/scaled-agile-framework-safe/index.md)
@@ -31,7 +32,7 @@ Supporting files:
 * [Software working advice by Cyranix](doc/software-working-advice-by-cyranix/index.md)
 * [Team working agreements example by giffconstable](doc/team-working-agreement-example-by-giffconstable/index.md)
 * [The Core Protocols by McCarthy](doc/the-core-protocols-by-mccarthy/index.md)
-* [United States Marine Corps Leadership Principles](doc/leadership-principles-by-united-states-marine-corps/index.md)
+* [The Five Keys to a Successful Google Team](doc/the-five-keys-to-a-successful-google-team/index.md)
 
 
 ## What are Ways of Working?
@@ -225,13 +226,15 @@ Communications have preferred channels, such as chat, or email, or video, or for
 
 Communications provide equitable participation for everyone involved.
 
+
 ### For personal safety nets
 
-Each teammate has a crossover person that is able to handle the teammate's work in their absence.
+Each teammate has a crossover person who is able to handle the teammate's work in their absence.
 
-Each teammate knows what to do if their other teamates need to be unexpectedly absent.
+Each teammate knows what to do if another teamate is absent.
 
-Each teammate tests their own backups to ensure they're always usable.
+Each teammate verifies their own backups to ensure they're always usable.
+
 
 <!-- 
 
