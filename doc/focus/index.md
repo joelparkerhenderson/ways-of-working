@@ -17,6 +17,8 @@ Decide on team indicators that mean "do not disturb" then respect them.
 
 Focus can be improved via mindfulness meditation and breathing exercises.
 
+Focus can be improved via good exercise, good sleep, and good nutrition.
+
 Focus can be improved via occasional breaks.
 
 Try the Pomodoro technique. Set a timer so you do 25 minutes of focused work, then set a timer so you do 5 minutes of break. After four rounds, set a timer so you do a longer break of 30 minutes.
