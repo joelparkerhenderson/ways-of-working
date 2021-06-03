@@ -19,7 +19,9 @@ Focus can be improved via mindfulness meditation and breathing exercises.
 
 Focus can be improved via occasional breaks.
 
-Try the Pomodoro technique: Set a timer so you do 25 minutes of focused work, then set a timer so you do 5 minutes of break. After four rounds, set a timer so you do a longer break of 30 minutes.
+Try the Pomodoro technique. Set a timer so you do 25 minutes of focused work, then set a timer so you do 5 minutes of break. After four rounds, set a timer so you do a longer break of 30 minutes.
+
+Try the Dash techniques. A time-based dash example is "I will work on this for 1 hour" or "I will work on this until 11:00". A unit-based dash example is "I will write 5 pages of my document" or "I will complete 20% of my weekly quota".
 
 See also:
 
