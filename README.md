@@ -37,7 +37,9 @@ Supporting files:
 
 ## What are Ways of Working?
 
-Ways of Working are guidelines that improve teamwork and communication. Ways of Working can define a team's set of expectations for participating, collaborating, and interrelating.
+Ways of Working are guidelines that improve teamwork and communication. Ways of
+Working can define a team's set of expectations for participating,
+collaborating, and interrelating.
 
 Ways of Working can include ground rules, aspirations, team values, team norms,
 working agreements, and more. For a deep dive on these see [Esther
@@ -137,6 +139,15 @@ Dependability: Can we count on each other to do high quality work on time?
 [More…](doc/the-five-keys-to-a-successful-google-team/index.md)
 
 
+### For communications
+
+Communications are radiated when events happen, so teammates can be in the loop.
+
+Communications provide equitable participation for everyone involved.
+
+[More…](doc/communiations/index.md)
+
+
 ### For feedback and advice
 
 Ask for feedback often.
@@ -216,15 +227,6 @@ If you need the reader to do something, then write "ACTION NEEDED", "REPLY PLEAS
 If you need the reader to schedule, then write "DUE BY X", "DEADLINE IS X", etc.
 
 [More…](doc/email/index.md)
-
-
-### For communications
-
-Communications are radiated when events happen, so teammates can be in the loop.
-
-Communications have preferred channels, such as chat, or email, or video, or forum.
-
-Communications provide equitable participation for everyone involved.
 
 
 ### For personal safety nets
