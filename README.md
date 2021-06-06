@@ -9,6 +9,8 @@
 
 # Ways of working
 
+<img src="README.png" alt="Ways of working" style="width: 100%;"/>
+
 Ways of Working (WoW) is a phrase that summarizes how people collaborate, typically focusing on teamwork success. Ways of Working may be also known as working agreements, team arrangements, shared expectations, group understandings, and ground rules. 
 
 Overviews:
