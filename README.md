@@ -229,23 +229,10 @@ If you need the reader to schedule, then write "DUE BY X", "DEADLINE IS X", etc.
 [More…](doc/email/index.md)
 
 
-### For personal safety nets
+### For safety and reliability
 
-Each teammate has a crossover person who is able to handle the teammate's work in their absence.
+Each teammate knows what to do if another teamate is absent, including who handles what, how, when, and why.
 
-Each teammate knows what to do if another teamate is absent.
+When there's an issue, then we have a way to triage it, handle it, learn from it, and improve because of it.
 
-Each teammate verifies their own backups to ensure they're always usable.
-
-
-<!-- 
-
-TODO
-
-Teammates commit to read communications sent directly to them within 1 business day.
-
-If you have a social network page that's relevant to the team, such as LinkedIn page, then make sure it's current.
-
-Use every failure as an opportunity to learn.
-
--->
+[More…](doc/safety/index.md)
