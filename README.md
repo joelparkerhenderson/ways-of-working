@@ -168,7 +168,7 @@ Plan the outcome. For example "At the end of this meeting we want X because Y".
 
 ### For schedules and calendars
 
-Use the strengths of "maker's schedule, manager's schedule".
+Use the strengths of "[maker's schedule, manager's schedule](doc/makers-schedule-managers-schedule-by-paul-graham/index.md)".
 
 Ensure all stakeholders know the expectations for availability, attendance, and RSVPs.
 
