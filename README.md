@@ -22,8 +22,8 @@ Supporting files:
 
 * [Adult Principles by John Perry Barlow](doc/adult-principles-by-john-perry-barlow/index.md)
 * [Ground rules at Tesla by Elon Musk](doc/ground-rules-at-tesla-by-elon-musk/index.md)
-* [Ground Rules by Tree Bressen](doc/ground-bules-by-tree-bressen/index.md)
-* [Ground rules for effective meetings by Get The Picture](ground-rules-for-effective-meetings-by-get-the-picture/index.md)
+* [Ground Rules by Tree Bressen](doc/ground-rules-by-tree-bressen/index.md)
+* [Ground rules for effective meetings by Get The Picture](doc/ground-rules-for-effective-meetings-by-get-the-picture/index.md)
 * [High-velocity decision making by Amazon](doc/high-velocity-decision-making-by-amazon/index.md)
 * [How we structure our work and teams at Basecamp](doc/how-we-structure-our-work-and-teams-at-basecamp/index.md)
 * [Leadership Principles by United States Marine Corps](doc/leadership-principles-by-united-states-marine-corps/index.md)
@@ -147,8 +147,7 @@ Communications are radiated when events happen, so teammates can be in the loop.
 
 Communications provide equitable participation for everyone involved.
 
-[More…](doc/communiations/index.md)
-
+[More…](doc/communications/index.md)
 
 ### For feedback and advice
 
