@@ -1,8 +1,8 @@
 <!--
   * browser: ways-of-working
   * tracker: aa13a44d40c915fa8963a3a17b1e9e68
-  * version: 15.0.0
-  * updated: 2021-05-20T19:34:13Z
+  * version: 16.0.0
+  * updated: 2022-03-29T14:27:18Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
@@ -148,6 +148,16 @@ Communications are radiated when events happen, so teammates can be in the loop.
 Communications provide equitable participation for everyone involved.
 
 [More…](doc/communications/index.md)
+
+
+### For chat and messaging
+
+Minimize first messages that are vague, such as "Hi" or "Have a minute?". Instead, state your idea, question, etc.
+
+Favor shortcuts such as symbols, hashtags, emojis, etc. Example: "+1" means "I agree", "#todo" means "For our TODO list", and a green-checkmark emoji means "Done".
+
+[More…](doc/chat/index.md)
+
 
 ### For feedback and advice
 
