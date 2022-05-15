@@ -10,7 +10,7 @@ We want communications to be linkable, searchable, commentable, and correctable.
 
 Our communications are [mutual interactions](../mutual/index.md), and use mutual respect and mutual purpose.
 
-Our communications aim to help "[maker's schedule, manager's schedule](../makers-schedule-managers-schedule-by-paul-graham.md]".
+Our communications aim to help "[maker's schedule, manager's schedule](../makers-schedule-managers-schedule-by-paul-graham.md)".
 
 For communications in meetings, we use our [ways of working for meetings](../signing/index.md).
 
