@@ -43,8 +43,11 @@ agreements, team arrangements, shared expectations, and group understandings.
   commits to follow together, and agreed to uphold together. Example: Code is
   complete when all tests pass.
 
-
-
+* <b>Culture</b> is the customs, arts, groups, and achievements of a particular
+  nation, people, or other social group. We advise phasing out the word "culture"
+  for ways-of-working, in favor of "principles", "values", "practices", etc.
+  
+  
 Overviews:
 
 * [Team Norms, Working Agreements, and Simple Rules by Esther Derby](doc/team-norms-by-esther-derby/index.md)
