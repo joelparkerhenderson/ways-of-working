@@ -1,8 +1,8 @@
 <!--
   * browser: ways-of-working
   * tracker: aa13a44d40c915fa8963a3a17b1e9e68
-  * version: 16.0.0
-  * updated: 2022-03-29T14:27:18Z
+  * version: 16.1.0
+  * updated: 2022-07-27T23:28:09Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
@@ -11,7 +11,39 @@
 
 <img src="README.png" alt="Ways of working" style="width: 100%;"/>
 
-Ways of Working (WoW) is a phrase that summarizes how people collaborate, typically focusing on teamwork success. Ways of Working may be also known as working agreements, team arrangements, shared expectations, group understandings, and ground rules. 
+Ways of Working (WoW) is a phrase that describes how people collaborate. Ways of
+Working can define a team's set of expectations for participating,
+collaborating, and interrelating. Ways of Working is also known as working
+agreements, team arrangements, shared expectations, and group understandings.
+
+* <b>Principles</b> are fundamental truths that are the foundation for beliefs,
+  behaviors, and reasoning. Principles are intended to be permanent and
+  universal. Examples: "be kind", "bias for action", "encourage participation",
+  "seek improvement", "train as a team", "think big", and "tell the truth".
+  
+* <b>Values</b> are virtues that you want such as: kindness, innovation,
+  community, learning, teamwork, honesty. Values can be subjective and
+  comparitive such as "working software over comprehensive documentation" and
+  "responding to change over following a plan".
+
+* <b>Ground rules</b> are guidelines of how people need to behave, for specific
+  situations such as meetings, or activities, or tasks. Examples: "At our
+  meetings everyone gets the opportunity to speak", "Communicate directly
+  irrespective of hierarchy", "Use safety gear when working on equipment".
+
+* <b>Aspirations</b> are statements intended to guide interactions and decision
+  making within the group, and also across other groups within the organization.
+  Example: Every challenge is an opportunity to learn.
+
+* <b>Norms</b> are informal implicit standards of behavior that emerge over
+  time from the interactions of the group. Example: By observing the team, we
+  see that teammates are punctual.
+
+* <b>Working agreements</b> are protocols that the group develops together,
+  commits to follow together, and agreed to uphold together. Example: Code is
+  complete when all tests pass.
+
+
 
 Overviews:
 
@@ -35,37 +67,6 @@ Supporting files:
 * [Team working agreements example by giffconstable](doc/team-working-agreement-example-by-giffconstable/index.md)
 * [The Core Protocols by McCarthy](doc/the-core-protocols-by-mccarthy/index.md)
 * [The Five Keys to a Successful Google Team](doc/the-five-keys-to-a-successful-google-team/index.md)
-
-
-## What are Ways of Working?
-
-Ways of Working are guidelines that improve teamwork and communication. Ways of
-Working can define a team's set of expectations for participating,
-collaborating, and interrelating.
-
-Ways of Working can include ground rules, aspirations, team values, team norms,
-working agreements, and more. For a deep dive on these see [Esther
-Derby](doc/team-norms-by-esther-derby/index.md).
-
-* <b>Ground rules</b> are statements of how people need to behave, for specific
-  times, places, and situations. Example: At our meetings, everyone has the
-  opportunity to speak.
-
-* <b>Aspirations</b> are statements intended to guide interactions and decision
-  making within the group, and also across other groups within the organization.
-  Example: Every challenge is an opportunity to learn.
-
-* <b>Team values</b> are statements of what people hold as important. Often,
-  teams make a list of their values by using behavior-related nouns. Example: We
-  value courage, collaboration, respect.
-
-* <b>Team norms</b> are informal implicit standards of behavior that emerge over
-  time from the interactions of the group. Example: By observing the team, we
-  see that teammates are punctual.
-
-* <b>Working agreements</b> are protocols that the group develops together,
-  commits to follow together, and agreed to uphold together. Example: Code is
-  complete when all tests pass.
 
 
 ## Ideas
