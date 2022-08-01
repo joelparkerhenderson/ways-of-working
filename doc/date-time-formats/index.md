@@ -4,7 +4,7 @@ We often work with teams across the world, and we often work with dates and time
 
 For date formats, prefer ISO standard sortable formats over unstandard unsortable formats. Example: prefer the date format "YYYY-MM-DD" over the U.S. convention of "M/D 'YY".
 
-For time formats, prefer ISO standard 24-hour formats over over unstandard 12-hour formats. Example: prefer "14:00" over "2:00 p.m." or "2pm" or "two o'clock".
+For time formats, prefer ISO standard 24-hour formats over over non-standard 12-hour formats. Example: prefer "14:00" over "2:00 p.m." or "2pm" or "two o'clock".
 
 For timezone formats, prefer abbreviations over omitting them. Example: prefer "10:00 ET" (meaning Eastern Time Zone) over "10:00" (without a time zone).
 
