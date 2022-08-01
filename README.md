@@ -181,6 +181,15 @@ Plan the outcome. For example "At the end of this meeting we want X because Y".
 [More…](doc/meetings/index.md)
 
 
+### For asynchronous and remote
+
+Ensure that everyone can participate equitably, where they want, when they want.
+
+Structure work and communications for parallel work streams, so people can work on one task while awaiting a response on another task.
+
+[More…](doc/asynchronous/index.md)
+
+
 ### For schedules and calendars
 
 Use the strengths of "[maker's schedule, manager's schedule](doc/makers-schedule-managers-schedule-by-paul-graham/index.md)".
