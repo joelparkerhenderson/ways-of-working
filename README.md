@@ -17,14 +17,14 @@ collaborating, and interrelating. Ways of Working is also known as working
 agreements, team arrangements, shared expectations, and group understandings.
 
 * <b>Principles</b> are fundamental truths that are the foundation for beliefs,
-  behaviors, and reasoning. Principles are intended to be permanent and
-  universal. Examples: "be kind", "bias for action", "encourage participation",
+  behaviors, and reasoning. Principles are intended to be universal and permanent.
+  Examples: "be kind", "bias for action", "encourage participation",
   "seek improvement", "train as a team", "think big", and "tell the truth".
   
 * <b>Values</b> are virtues that you want such as: kindness, innovation,
-  community, learning, teamwork, honesty. Values can be subjective and
-  comparitive such as "working software over comprehensive documentation" and
-  "responding to change over following a plan".
+  community, learning, teamwork, honesty. Values can be subjective and 
+  impermanent, such as "happy customers this year, large profits next year".
+  Values can be comparative, such as "responding to change over following a plan".
 
 * <b>Ground rules</b> are guidelines of how people need to behave, for specific
   situations such as meetings, or activities, or tasks. Examples: "At our
