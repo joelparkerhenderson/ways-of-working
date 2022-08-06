@@ -4,6 +4,8 @@ Encourage everyone to participate fully.
 
 Listen actively and attentively.
 
+Build on one another’s comments, to work toward shared understanding.
+
 Respect confidentiality.
 
 Seek debate.
@@ -21,8 +23,6 @@ Ask for clarification if you are confused.
 Do not interrupt, unless you are the facilitator.
 
 Take responsibility for the quality of the discussion.
-
-Build on one another’s comments; work toward shared understanding.
 
 Stay on topic, don't go on tangents
 

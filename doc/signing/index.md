@@ -2,9 +2,11 @@
 
 Signing a.k.a. sign language can be helpful for people who are hard of hearing, as well as for video calls, loud rooms, etc. Some teams like use signing in all meetings because signing is fast, easy, clear, and keeps things on track.
 
-Voting: thumb up means yes, down means no, sideways means maybe. Everyone votes and the leader tallies.
+For votes: thumb up means yes; thumb down means no; thumb sideways means maybe. Everyone votes. The moderator tallies.
 
-Clarification: make the letter "C" hand sign. Everyone pauses and the leader figures out what's needed.
+For clarification: anyone at any time can ask for clarification, by making the one-hand sign "C". Everyone pauses. The speaker takes charge. The speaker and the asker discuss.
+
+For time out: anyone at any time can ask for a time out, by making the two-hand sign "T". Everyone stops. The moderator takes charge. The moderator and the asker discuss.
 
 Ask to speak in turn: raise your open hand. Everyone will let the person speak when it's their turn.
 
@@ -22,4 +24,3 @@ I'm typing in chat: show your hand and move your fingers as if you're typing on 
 
 Time check: point at your wrist. This means please be aware that there's a time limit coming up.
 
-Time out: make a "T" sign with one hand on top of the other. This means conversation stops and the facilitator starts.

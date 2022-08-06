@@ -1,14 +1,10 @@
 # Ways of working for respect
 
-All ideas are considered.
-
-All voices are heard.
-
 Presume good-faith intentions.
 
-Test assumptions and inferences.
-
 Debate the issue, not the person.
+
+Test assumptions and inferences.
 
 Critique the idea, not the proposer.
 
@@ -23,3 +19,7 @@ If you are confused by something, ask questions as soon as possible.
 If you are offended by something, acknowledge it as soon as possible.
 
 Aggression or personal attacks are not ok, and will be halted immediately.
+
+All ideas are considered.
+
+All voices are heard.

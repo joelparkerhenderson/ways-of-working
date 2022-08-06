@@ -3,9 +3,11 @@
 
 ## Most important
 
-Use the strengths of "[maker's schedule, manager's schedule](http://paulgraham.com/makersschedule.html)".
+Emphasize time for focus and deep work. Example: use the strengths of "[maker's schedule, manager's schedule](http://paulgraham.com/makersschedule.html)".
 
-Ensure all stakeholders know the expectations for availability, attendance, and RSVPs.
+Ensure all stakeholders know the expectations for availability, attendance, RSVP, and the like.
+
+Automate. Example: use a group schedule system that create a calendar event using a group's first available date and time.
 
 
 ## For workweeks
@@ -49,7 +51,7 @@ Aim toward morning times instead of afternoon times.
 
 Aim toward morning times for open-mind meetings, and afternoon times for heads-down focus.
 
-Aim toward 25 minutes instead of 30, and aim toward 50 minutes instead 60; this is the Harvard idea.
+Aim toward 25 minutes instead of 30, and aim toward 50 minutes instead 60; this provides for brief breaks between back-to-back events.
 
 
 ## For calendar notations

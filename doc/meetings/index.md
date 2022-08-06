@@ -3,9 +3,11 @@
 
 ## Most important
 
-Prepare the participants. For example "The purpose of this meeting is X because Y".
+Set the stage. Example: "The purpose of this meeting is X because Y".
 
-Plan the outcome. For example "At the end of this meeting we want X because Y".
+Announce the agenda. Example: "The plan of this meeting is X because Y".
+
+Optimize the outcome. Example "At the end of this meeting we want X because Y".
 
 
 ## To focus a meeting

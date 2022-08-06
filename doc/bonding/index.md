@@ -1,10 +1,10 @@
 # Ways of working for bonding, all-hands, kick-offs
 
-Team bonding is good and valuable because it improves communication.
+Team bonding is good and valuable because it improves communication, trust, and teamwork.
 
 Try multiple kinds of bonding events, such as all-hands, kick-offs, offsites, outings, fun events, etc.
 
-Different people respond to different kinds of bonding.
+Respect people's differences. Examples: people who are in AA may not be able to go to bars for beers; people who have children may not be able to do after-hours events; people who have commitments may not be able to do ad-hoc events.
 
 
 ## All-hands
@@ -31,6 +31,6 @@ An outing is group journey outside of the office, such as a visit to a customer 
 
 A fun event is a way to encourage teammates to get to know each other personally in a friendly setting, for example going out to lunch together, or to a movie together, or to a sports game.
 
-Fun bonding events may be better if work is set aside for the event. For example, some teams say "tonight there's no work talk". Some times use a "swear jar" idea in order to help lighten the mood: if someone talks about work, then they must put a dollar in the "swear jar".
+Fun bonding events may be better if work is set aside for the event. For example, some teams say "tonight we'll try to not talk about work". Some times use a "swear jar" idea in order to help lighten the mood: if someone does talk about work, then they put a dollar in the "swear jar".
 
 Bonding events that emphasize alcohol tend to be problematic, because some people may not be able to participate, or may not want to participate. For example, some people are sober and do not want to go to a bar with colleagues.

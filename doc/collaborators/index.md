@@ -4,6 +4,8 @@ View the issue as “we” not “me”.
 
 Consider what's happening from each person's perspective.
 
+Create more understanding, and less conflict.
+
 Focus on one topic, rather than multiple topics.
 
 Focus on one goal, rather than just airing your needs.
@@ -16,7 +18,7 @@ Ask for a time out, if you want one.
 
 Accept where you are. It’s OK if things aren’t perfect.
 
-Look for your part in the issue. In a partnership, each people has a part, a role in happiness or unhappiness.
+Look for your part in the issue. Each person has a part, a role in happiness or unhappiness.
 
 Make it safe to share. This includes giving a heads up about a big conversation, choosing a neutral time and place, and so on.
 

@@ -4,9 +4,9 @@ Communications are radiated when events happen, so teammates can be in the loop.
 
 Communications provide equitable participation for everyone involved.
 
-Communications have preferred channels, such as chat, or email, or video, or forum.
+Communications use relevant channels, such as chat, or email, or video, or wiki.
 
-Communications should be readable, searchable, commentable, correctable, and linkable.
+Communications records should be readable, searchable, commentable, correctable, and linkable.
 
 Communications are [mutual interactions](../mutual/index.md), and use mutual respect and mutual purpose.
 

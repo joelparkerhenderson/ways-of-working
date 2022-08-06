@@ -30,8 +30,14 @@ Be open-minded.
 
 Be open-hearted. 
 
-Be respectful. 
+Be humble.
+
+Be respectful.
 
 Be trustable. 
+
+Be truthful.
+
+Be honorable.
 
 Be thankful.

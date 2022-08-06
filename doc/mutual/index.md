@@ -4,11 +4,11 @@ Emphasize mutual respect.
 
 Emphasize mutual purpose.
 
-Emphasize mutual consideration.
-
 Emphasize mutual communication.
 
 Emphasize mutual commitments.
+
+Emphasize mutual consideration.
 
 Emphasize mutual understandings.
 
