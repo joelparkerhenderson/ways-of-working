@@ -1,0 +1,1 @@
+./doc/goodness/index.md

@@ -1,0 +1,1 @@
+./doc/makers-schedule-managers-schedule-by-paul-graham/index.md

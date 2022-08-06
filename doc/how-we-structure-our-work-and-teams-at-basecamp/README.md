@@ -1,0 +1,1 @@
+./doc/how-we-structure-our-work-and-teams-at-basecamp/index.md

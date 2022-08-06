@@ -1,0 +1,1 @@
+./doc/the-core-protocols-by-mccarthy/index.md

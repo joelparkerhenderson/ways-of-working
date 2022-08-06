@@ -1,0 +1,1 @@
+./doc/dave-packard-speech-to-hewlett-packard-managers/index.md

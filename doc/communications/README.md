@@ -1,0 +1,1 @@
+./doc/communications/index.md
