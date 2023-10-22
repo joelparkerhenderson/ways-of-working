@@ -92,6 +92,7 @@ Supporting files:
 * [Team working agreements example by giffconstable](doc/team-working-agreement-example-by-giffconstable/index.md)
 * [The Core Protocols by McCarthy](doc/the-core-protocols-by-mccarthy/index.md)
 * [The Five Keys to a Successful Google Team](doc/the-five-keys-to-a-successful-google-team/index.md)
+* [Engineering management checklist by Patrick Newman](engineering-management-checklist-by-patrick-newman)
 
 
 ## Ideas
