@@ -63,7 +63,7 @@ Example: Use every failure as an opportunity to learn.
 
 ## How to Put These to Use
 
-All of these represent social contracts between team members. Effective teams use one or more of them to create a desired pattern of interaction and results. The goal is tp enhance quality of both work life and results.
+All of these represent social contracts between team members. Effective teams use one or more of them to create a desired pattern of interaction and results. The goal is to enhance quality of both work life and results.
 
 Some teams find it useful to have both simple rules (which help make values actionable) and working agreements (which address specific practices).
 
