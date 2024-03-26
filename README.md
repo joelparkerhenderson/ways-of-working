@@ -35,6 +35,10 @@ collaborating, and interrelating.
   impermanent, such as "happy customers this year, large profits next year".
   Values can be comparative, such as "responding to change over following a plan".
 
+* <b>Whys</b> are explanations of why something matters. Whys help people
+  understand context. Examples: "Why is our principle X?", "Why do we value X?",
+  "Why do we do X?", "Why are we working on this together?".
+
 * <b>Ground rules</b> are guidelines of how people need to behave, for specific
   situations such as meetings, or activities, or tasks. Examples: "At our
   meetings everyone gets the opportunity to speak", "Communicate directly
