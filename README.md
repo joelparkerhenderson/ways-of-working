@@ -86,6 +86,7 @@ Supporting files:
 * [Ground Rules by Tree Bressen](doc/ground-rules-by-tree-bressen/index.md)
 * [Ground rules for effective meetings by Get The Picture](doc/ground-rules-for-effective-meetings-by-get-the-picture/index.md)
 * [High-velocity decision making by Amazon](doc/high-velocity-decision-making-by-amazon/index.md)
+* [How to send progress updates by Slava Akhmechet](how-to-send-progress-updates-by-slava-akhmechet)
 * [How we structure our work and teams at Basecamp](doc/how-we-structure-our-work-and-teams-at-basecamp/index.md)
 * [Leadership Principles by United States Marine Corps](doc/leadership-principles-by-united-states-marine-corps/index.md)
 * [Project management practices by Hacker News participants](doc/project-management-practices-by-hackernews/index.md)
