@@ -29,7 +29,7 @@ collaborating, and interrelating.
   behaviors, and reasoning. Principles are intended to be universal and permanent.
   Examples: "be kind", "bias for action", "encourage participation",
   "seek improvement", "train as a team", "think big", and "tell the truth".
-  
+
 * <b>Values</b> are virtues that you want such as: kindness, innovation,
   community, learning, teamwork, honesty. Values can be subjective and 
   impermanent, such as "happy customers this year, large profits next year".
@@ -39,10 +39,16 @@ collaborating, and interrelating.
   understand context. Examples: "Why is our principle X?", "Why do we value X?",
   "Why do we do X?", "Why are we working on this together?".
 
+* <b>Tenets</b> define desirable attributes that should be built into all plans,
+  directly related to the operational concept. Tenets should provide planners
+  with criteria to evaluate whether their plans are likely to succeed. Examples:
+  "Involve users early and often", "Leverage domain-driven design", "Drive
+  decisions via metrics".
+
 * <b>Ground rules</b> are guidelines of how people need to behave, for specific
   situations such as meetings, or activities, or tasks. Examples: "At our
-  meetings everyone gets the opportunity to speak", "Communicate directly
-  irrespective of hierarchy", "Use safety gear when working on equipment".
+  meetings everyone gets the opportunity to speak", "Proofread your work",
+  "Communicate directly irrespective of hierarchy", "Use safety gear here".
 
 * <b>Aspirations</b> are statements intended to guide interactions and decision
   making within the group, and also across other groups within the organization.
@@ -61,15 +67,15 @@ collaborating, and interrelating.
   for ways-of-working, in favor of "principles", "values", "practices", etc.
 
 
-## Success looks like...
+## Success looks like
 
-Your ways of working are explicit. Example: they are written in your team's documentation.
+Your ways of working are explicit. Example: your ways of working are written, and also easy to access and read any time, such as in your team's documentation.
 
-Your ways of working are understood. Example: each teammate is familiar with the ideas, and knows where to find the specifics, such as in documentation.
+Your ways of working are understood. Example: you confirm that each of your teammates is familiar with all the ideas, and also knows where to find out more about the ideas.
 
-Your ways of working are debatable. Example: how does a teammate suggest changes, or provide comments, etc.?
+Your ways of working are open to debate. Example: you confirm that each of your teammates knows how to suggest changes, and also can provide comments, feedback, and opportunities for new ways of working.
 
-Your ways of working are alertable. Example: if someone breaks the ways of working, then do all the teammates have the responsbility and capabilty handle the issue effectively?
+Your ways of working are alertable. Example: your teammates all know quickly if someone breaks the ways of working, and also all know who is responsible, accountable, and capable of handling the breakage.
 
 
 ## Resources
