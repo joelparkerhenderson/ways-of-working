@@ -39,7 +39,7 @@ collaborating, and interrelating.
   understand context. Examples: "Why is our principle X?", "Why do we value X?",
   "Why do we do X?", "Why are we working on this together?".
 
-* <b>Tenets</b> define desirable attributes that should be built into all plans,
+* <b>Tenets</b> are desirable attributes that should be built into all plans,
   directly related to the operational concept. Tenets should provide planners
   with criteria to evaluate whether their plans are likely to succeed. Examples:
   "Involve users early and often", "Leverage domain-driven design", "Drive
@@ -52,15 +52,15 @@ collaborating, and interrelating.
 
 * <b>Aspirations</b> are statements intended to guide interactions and decision
   making within the group, and also across other groups within the organization.
-  Example: Every challenge is an opportunity to learn.
+  Example: "Every challenge is an opportunity to learn".
 
 * <b>Norms</b> are informal implicit standards of behavior that emerge over
-  time from the interactions of the group. Example: By observing the team, we
-  see that teammates are punctual.
+  time from the interactions of the group. Example: "By observing the team, we
+  see that teammates are punctual".
 
 * <b>Working agreements</b> are protocols that the group develops together,
-  commits to follow together, and agreed to uphold together. Example: Code is
-  complete when all tests pass.
+  commits to follow together, and agreed to uphold together. Example: "Code is
+  complete when all tests pass".
 
 * <b>Culture</b> is the customs, arts, groups, and achievements of a particular
   nation, people, or other social group. We advise phasing out the word "culture"
@@ -103,9 +103,10 @@ Supporting files:
 * [Team working agreements example by giffconstable](doc/team-working-agreement-example-by-giffconstable/index.md)
 * [The Core Protocols by McCarthy](doc/the-core-protocols-by-mccarthy/index.md)
 * [The Five Keys to a Successful Google Team](doc/the-five-keys-to-a-successful-google-team/index.md)
+* [The unwritten laws of engineering at Stedi](doc/the-unwritten-laws-of-engineering-at-stedi/)
 * [Engineering management checklist by Patrick Newman](engineering-management-checklist-by-patrick-newman)
 
-
+  
 ## Ideas
 
 
