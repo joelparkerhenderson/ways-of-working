@@ -82,29 +82,30 @@ Your ways of working are alertable. Example: your teammates all know quickly if 
 
 Overviews:
 
-* [Team Norms, Working Agreements, and Simple Rules by Esther Derby](doc/team-norms-by-esther-derby/index.md)
-* [Working Agreements by Jane Haskell](doc/working-agreements-by-jane-haskell/index.md)
+* [Team Norms, Working Agreements, and Simple Rules by Esther Derby](doc/team-norms-by-esther-derby/)
+* [Working Agreements by Jane Haskell](doc/working-agreements-by-jane-haskell/)
 
 Supporting files:
 
-* [Adult Principles by John Perry Barlow](doc/adult-principles-by-john-perry-barlow/index.md)
-* [Ground rules at Tesla by Elon Musk](doc/ground-rules-at-tesla-by-elon-musk/index.md)
-* [Ground Rules by Tree Bressen](doc/ground-rules-by-tree-bressen/index.md)
-* [Ground rules for effective meetings by Get The Picture](doc/ground-rules-for-effective-meetings-by-get-the-picture/index.md)
-* [High-velocity decision making by Amazon](doc/high-velocity-decision-making-by-amazon/index.md)
+* [Adult Principles by John Perry Barlow](doc/adult-principles-by-john-perry-barlow/)
+* [Ground rules at Tesla by Elon Musk](doc/ground-rules-at-tesla-by-elon-musk/)
+* [Ground Rules by Tree Bressen](doc/ground-rules-by-tree-bressen/)
+* [Ground rules for effective meetings by Get The Picture](doc/ground-rules-for-effective-meetings-by-get-the-picture/)
+* [High-velocity decision making by Amazon](doc/high-velocity-decision-making-by-amazon/)
 * [How to send progress updates by Slava Akhmechet](how-to-send-progress-updates-by-slava-akhmechet)
-* [How we structure our work and teams at Basecamp](doc/how-we-structure-our-work-and-teams-at-basecamp/index.md)
-* [Leadership Principles by United States Marine Corps](doc/leadership-principles-by-united-states-marine-corps/index.md)
-* [Project management practices by Hacker News participants](doc/project-management-practices-by-hackernews/index.md)
-* [Rules of the Road by Jerry Perenchio](doc/rules-of-the-road-by-jerry-perenchio/index.md)
-* [Scaled Agile Framework (SAFe)](doc/scaled-agile-framework-safe/index.md)
-* [Software Engineering at Google](doc/software-engineering-at-google/index.md)
-* [Software working advice by Cyranix](doc/software-working-advice-by-cyranix/index.md)
-* [Team working agreements example by giffconstable](doc/team-working-agreement-example-by-giffconstable/index.md)
-* [The Core Protocols by McCarthy](doc/the-core-protocols-by-mccarthy/index.md)
-* [The Five Keys to a Successful Google Team](doc/the-five-keys-to-a-successful-google-team/index.md)
+* [How we structure our work and teams at Basecamp](doc/how-we-structure-our-work-and-teams-at-basecamp/)
+* [Leadership Principles by United States Marine Corps](doc/leadership-principles-by-united-states-marine-corps/)
+* [Project management practices by Hacker News participants](doc/project-management-practices-by-hackernews/)
+* [Rules of the Road by Jerry Perenchio](doc/rules-of-the-road-by-jerry-perenchio/)
+* [Scaled Agile Framework (SAFe)](doc/scaled-agile-framework-safe/)
+* [Software Engineering at Google](doc/software-engineering-at-google/)
+* [Software working advice by Cyranix](doc/software-working-advice-by-cyranix/)
+* [Team working agreements example by giffconstable](doc/team-working-agreement-example-by-giffconstable/)
+* [The Core Protocols by McCarthy](doc/the-core-protocols-by-mccarthy/)
+* [The Five Keys to a Successful Google Team](doc/the-five-keys-to-a-successful-google-team/)
 * [The unwritten laws of engineering at Stedi](doc/the-unwritten-laws-of-engineering-at-stedi/)
-* [Engineering management checklist by Patrick Newman](engineering-management-checklist-by-patrick-newman)
+* [Engineering management checklist by Patrick Newman](doc/engineering-management-checklist-by-patrick-newman/)
+* [Strategies to improve workplace communication - By Calm Business](doc/strategies-to-improve-workplace-communication-by-calm-business/)
 
   
 ## Ideas
@@ -119,7 +120,7 @@ Be prepared. Be present. Be productive.
 Be respectful. Be trustable. Be truthful.
 
 
-[More…](doc/goodness/index.md)
+[More…](doc/goodness/)
 
 
 ### For focus and attention
@@ -137,7 +138,7 @@ Focus yourself and your team with practices such as
 [SMART](https://github.com/joelparkerhenderson/smart-criteria),
 etc.
 
-[More…](doc/focus/index.md)
+[More…](doc/focus/)
 
 
 ### For collaborators and partners
@@ -148,7 +149,7 @@ Consider what's happening from each person's perspective.
 
 Create more understanding, and less conflict.
 
-[More…](doc/collaborators/index.md)
+[More…](doc/collaborators/)
 
 
 ### For respect and honor
@@ -159,7 +160,7 @@ Debate the issue, not the person.
 
 Test assumptions and inferences.
 
-[More…](doc/respect/index.md)
+[More…](doc/respect/)
 
 
 ### For discussions and forums
@@ -170,7 +171,7 @@ Listen actively and attentively.
 
 Build on one another’s comments, to work toward shared understanding.
 
-[More…](doc/discussions/index.md)
+[More…](doc/discussions/)
 
 
 ### For mutual interactions
@@ -181,7 +182,7 @@ Emphasize mutual purpose.
 
 Emphasize mutual communication.
 
-[More…](doc/mutual/index.md)
+[More…](doc/mutual/)
 
 
 ### For successful teams
@@ -192,7 +193,7 @@ Dependability: Can we count on each other to do high quality work on time?
 
 Impact of work: Do we fundamentally believe that the work we’re doing matters?
 
-[More…](doc/the-five-keys-to-a-successful-google-team/index.md)
+[More…](doc/the-five-keys-to-a-successful-google-team/)
 
 
 ### For communications
@@ -203,7 +204,7 @@ Communications provide equitable participation for everyone involved.
 
 Communications use relevant channels, such as chat, or email, or video, or wiki.
 
-[More…](doc/communications/index.md)
+[More…](doc/communications/)
 
 
 ### For chat and messaging
@@ -214,7 +215,7 @@ Favor shortcuts such as symbols, hashtags, emojis, etc. Example: "+1" means "I a
 
 Prefer using topic channels over direct messaging, because topic channels can help more people, in more ways, over more timelines.
 
-[More…](doc/chat/index.md)
+[More…](doc/chat/)
 
 
 ### For feedback and advice
@@ -226,7 +227,7 @@ Ensure you’re giving lots of positive feedback.
 Formal feedback works best when its SMART: Specific, Measurable, Actionable, Relevant, Timely.
 
 
-[More…](doc/feedback/index.md)
+[More…](doc/feedback/)
 
 
 ### For meetings and briefings
@@ -237,7 +238,7 @@ Announce the agenda. Example: "The plan of this meeting is X because Y".
 
 Optimize the outcome. Example "At the end of this meeting we want X because Y".
 
-[More…](doc/meetings/index.md)
+[More…](doc/meetings/)
 
 
 ### For asynchronous and remote
@@ -248,18 +249,18 @@ Structure work and communications for parallel work streams, so people can work 
 
 If a blocker turns asynchronous work into synchronous work, then work hard to unblock it.
 
-[More…](doc/asynchronous/index.md)
+[More…](doc/asynchronous/)
 
 
 ### For schedules and calendars
 
-Emphasize time for focus and deep work. Example: use the strengths of "[maker's schedule, manager's schedule](doc/makers-schedule-managers-schedule-by-paul-graham/index.md)".
+Emphasize time for focus and deep work. Example: use the strengths of "[maker's schedule, manager's schedule](doc/makers-schedule-managers-schedule-by-paul-graham/)".
 
 Ensure all stakeholders know the expectations for availability, attendance, RSVP, and the like.
 
 Automate. Example: use a group schedule system that create a calendar event using a group's first available date and time.
 
-[More…](doc/schedules/index.md)
+[More…](doc/schedules/)
 
 
 ### For hand signs and visual communication
@@ -270,7 +271,7 @@ For clarification: anyone at any time can ask for clarification, by making the o
 
 For time out: anyone at any time can ask for a time out, by making the two-hand sign "T". Everyone stops. The moderator takes charge. The moderator and the asker discuss.
 
-[More…](doc/signing/index.md)
+[More…](doc/signing/)
 
 
 ### For bonding and team events
@@ -281,7 +282,7 @@ Try multiple kinds of bonding events, such as all-hands, kick-offs, offsites, ou
 
 Respect people's differences. Examples: people who are in AA may not be able to go to bars for beers; people who have children may not be able to do after-hours events; people who have commitments may not be able to do ad-hoc events.
 
-[More…](doc/bonding/index.md)
+[More…](doc/bonding/)
 
 
 ### For orientation and onboarding
@@ -292,7 +293,7 @@ We use a "pitch" document. It summarizes the project and its progress, much like
 
 We use an "onboard" document. It explains how to join our team, how to set up, and how to collaborate.
 
-[More…](doc/orientation/index.md)
+[More…](doc/orientation/)
 
 
 ### For credentials and accounts
@@ -303,7 +304,7 @@ Each teammate knows how to manage their credentials securely, such as by using a
 
 Each teammate knows how to report their credentials as lost, or stolen, or otherwise at risk.
 
-[More…](doc/credentials/index.md)
+[More…](doc/credentials/)
 
 
 ### For shared spaces and group areas
@@ -314,7 +315,7 @@ If you use confidential information in the shared space, then you must ensure th
 
 When you finish using a shared space, ensure it's in correct condition for the next people.
 
-[More…](doc/shared-spaces/index.md)
+[More…](doc/shared-spaces/)
 
 
 ### For email messages and forum posts
@@ -325,7 +326,7 @@ If you need the reader to schedule, then write "DUE BY X", "DEADLINE IS X", etc.
 
 If you need the reader to be fast, then write "URGENT", "EMERGENCY", etc.
 
-[More…](doc/email/index.md)
+[More…](doc/email/)
 
 
 ### For safety and reliability
@@ -336,4 +337,4 @@ When there's an issue, then we have a way to triage it, handle it, learn from it
 
 When we have dangerous setups, we use lockout/tagout.
 
-[More…](doc/safety/index.md)
+[More…](doc/safety/)
