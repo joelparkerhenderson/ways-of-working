@@ -106,8 +106,10 @@ Supporting files:
 * [The unwritten laws of engineering at Stedi](doc/the-unwritten-laws-of-engineering-at-stedi/)
 * [Engineering management checklist by Patrick Newman](doc/engineering-management-checklist-by-patrick-newman/)
 * [Strategies to improve workplace communication - By Calm Business](doc/strategies-to-improve-workplace-communication-by-calm-business/)
+* [Onboarding and induction checklist - By employmenthero](doc/onboarding-and-induction-checklist-by-employme/)
+* [Our Values - What it Means to Work at ZOE](doc/our-values-what-it-means-to-work-at-zoe/)
 
-  
+
 ## Ideas
 
 
