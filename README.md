@@ -5,19 +5,16 @@
   * updated: 2022-07-27T23:28:09Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
+  * tags: #waysofworking #groundrules #prinicples #values #tenets #workingagreements #cto #cio #leadership #teamwork
 -->
 
 # Ways of working
 
 <img src="README.png" alt="Ways of working" style="width: 100%;"/>
 
-Ways of Working (WoW) is a phrase that describes how people collaborate. 
-Ways of Working is also known as working agreements, team arrangements, 
-shared expectations, ground rules and group understandings.
+Ways of Working (WoW) is a phrase that describes how people collaborate. Also known as working agreements, principles, values, tenets, norms, ground rules, group expectations, team aspirations, group understandings, company culture, and more.
 
-You and your teammates can use this document to help with Ways of Working.
-This document describes principles, values, ground rules, and more, then
-provides hundreds of examples of Ways of Working created by many teams.
+You and your teammates can use this document to help with Ways of Working. This document provides an introduction then many examples of Ways of Working created by many teams.
 
 
 ## What are Ways of Working?
