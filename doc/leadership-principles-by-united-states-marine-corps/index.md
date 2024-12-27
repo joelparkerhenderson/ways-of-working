@@ -1,13 +1,13 @@
-# Leadership Principles by United States Marine Corps 
+# Leadership Principles by United States Marine Corps
 
 http://www.au.af.mil/au/awc/awcgate/usmc/leadership.htm
 
 
 ## Know yourself and seek improvement	
 
-This principle of leadership should be developed by the use of leadership traits. Evaluate yourself by using the leadership traits and determine your strengths and weaknesses. Work to improve your weaknesses and utilize your strengths. 
+This principle of leadership should be developed by the use of leadership traits. Evaluate yourself by using the leadership traits and determine your strengths and weaknesses. Work to improve your weaknesses and utilize your strengths.
 
-With a knowledge of yourself, and your experience and knowledge of group behavior, you can determine the best way to deal with any given situation. With some Marines, and in certain situations, the firm, hard stand may be most effective; however, in other situations, the "big brother" approach may work better. 
+With a knowledge of yourself, and your experience and knowledge of group behavior, you can determine the best way to deal with any given situation. With some Marines, and in certain situations, the firm, hard stand may be most effective; however, in other situations, the "big brother" approach may work better.
 
 You can improve yourself in many ways. Self-improvement can be achieved by reading and observing. Ask your friends and seniors for an honest evaluation of your leadership ability. This will help you to identify your weaknesses and strengths.
 
@@ -26,7 +26,7 @@ You can improve yourself in many ways. Self-improvement can be achieved by readi
 
 ## Be technically and tactically proficient
 
-Before you can lead, you must be able to do the job. The first principle is to know your job. As a Marine, you must demonstrate your ability to accomplish the mission, and to do this you must be capable of answering questions and demonstrating competence in your MOS. 
+Before you can lead, you must be able to do the job. The first principle is to know your job. As a Marine, you must demonstrate your ability to accomplish the mission, and to do this you must be capable of answering questions and demonstrating competence in your MOS.
 
 Respect is the reward of the Marine who shows competence. Tactical and technical competence can be learned from books and from on the job training.
 
@@ -43,9 +43,9 @@ Respect is the reward of the Marine who shows competence. Tactical and technical
 
 ## Know your Marines and look out for their welfare
 
-Know your Marines and how they react to different situations. This knowledge can save lives. 
+Know your Marines and how they react to different situations. This knowledge can save lives.
 
-A Marine who is nervous and lacks self confidence should never be put in a situation where an important, instant decision must be made. 
+A Marine who is nervous and lacks self confidence should never be put in a situation where an important, instant decision must be made.
 
 Knowledge of your Marines' personalities will enable you, as the leader, to decide how to best handle each Marine and determine when close supervision is needed.
 
@@ -76,7 +76,7 @@ Knowledge of your Marines' personalities will enable you, as the leader, to deci
 
 ## Keep your Marines informed
 
-Marines by nature are inquisitive. To promote efficiency and morale, a leader should inform the Marines in his unit of all happenings and give reasons why things are to be done. This, of course, is done when time and security permit. Informing your Marines of the situation makes them feel that they are a part of the team and not just a cog in a wheel. Informed Marines perform better and, if knowledgeable of the situation, can carry on without your personal supervision. 
+Marines by nature are inquisitive. To promote efficiency and morale, a leader should inform the Marines in his unit of all happenings and give reasons why things are to be done. This, of course, is done when time and security permit. Informing your Marines of the situation makes them feel that they are a part of the team and not just a cog in a wheel. Informed Marines perform better and, if knowledgeable of the situation, can carry on without your personal supervision.
 
 The key to giving out information is to be sure that the Marines have enough information to do their job intelligently and to inspire their initiative, enthusiasm, loyalty, and convictions.
 
@@ -92,8 +92,8 @@ The key to giving out information is to be sure that the Marines have enough inf
 
 
 ## Set the example
- 
-As a Marine progresses through the ranks by promotion, all too often he/she takes on the attitude of "do as I say, not as I do." Nothing turns Marines off faster! 
+
+As a Marine progresses through the ranks by promotion, all too often he/she takes on the attitude of "do as I say, not as I do." Nothing turns Marines off faster!
 
 As a Marine leader your duty is to set the standards for your Marines by personal example. Your appearance, attitude, physical fitness, and personal example are all watched by the Marines in your unit. If your personal standards are high, then you can rightfully demand the same of your Marines. If your personal standards are not high you are setting a double standard for your Marines, and you will rapidly lose their respect and confidence. Remember your Marines reflect your image! Leadership is taught by example.
 
@@ -117,8 +117,8 @@ As a Marine leader your duty is to set the standards for your Marines by persona
 
 
 ## Ensure the task is understood, supervised, and accomplished
- 
-This principle is necessary in the exercise of command. Before you can expect your Marines to perform, they must know first what is expected of them. You must communicate your instructions in a clear, concise manner. Talk at a level that your Marines are sure to understand, but not at a level so low that would insult their intelligence. 
+
+This principle is necessary in the exercise of command. Before you can expect your Marines to perform, they must know first what is expected of them. You must communicate your instructions in a clear, concise manner. Talk at a level that your Marines are sure to understand, but not at a level so low that would insult their intelligence.
 
 Before your Marines start a task, allow them a chance to ask questions or seek advice. Supervision is essential. Without supervision you cannot know if the assigned task is being properly accomplished. Over supervision is viewed by subordinates as harassment and effectively stops their initiative. Allow subordinates to use their own techniques, and then periodically check their progress.
 
@@ -201,7 +201,7 @@ Once you make a decision and discover it is the wrong one, don't hesitate to rev
 
 ## Develop a sense of responsibility among your subordinates
 
-Another way to show your Marines that you are interested in their welfare is to give them the opportunity for professional development. Assigning tasks and delegating the authority to accomplish tasks promotes mutual confidence and respect between the leader and subordinates. It also encourages the subordinates to exercise initiative and to give wholehearted cooperation in the accomplishment of unit tasks. 
+Another way to show your Marines that you are interested in their welfare is to give them the opportunity for professional development. Assigning tasks and delegating the authority to accomplish tasks promotes mutual confidence and respect between the leader and subordinates. It also encourages the subordinates to exercise initiative and to give wholehearted cooperation in the accomplishment of unit tasks.
 
 When you properly delegate authority, you demonstrate faith in your Marines and increase their desire for greater responsibilities. If you fail to delegate authority, you indicate a lack of leadership, and your subordinates may take it to be a lack of trust in their abilities
 
@@ -230,7 +230,7 @@ When you properly delegate authority, you demonstrate faith in your Marines and 
 
 ## Employ your command in accordance with its capabilities
 
-Successful completion of a task depends upon how well you know your unit's capabilities. If the task assigned is one that your unit has not been trained to do, failure is very likely to result. Failures lower your unit's morale and self esteem. You wouldn't send a cook section to "PM" a vehicle nor would you send three Marines to do the job of ten. 
+Successful completion of a task depends upon how well you know your unit's capabilities. If the task assigned is one that your unit has not been trained to do, failure is very likely to result. Failures lower your unit's morale and self esteem. You wouldn't send a cook section to "PM" a vehicle nor would you send three Marines to do the job of ten.
 
 Seek out challenging tasks for your unit, but be sure that your unit is prepared for and has the ability to successfully complete the mission.
 
@@ -249,9 +249,9 @@ Seek out challenging tasks for your unit, but be sure that your unit is prepared
 
 ## Seek responsibility and take responsibility for your actions
 
-For professional development, you must actively seek out challenging assignments. You must use initiative and sound judgment when trying to accomplish jobs that are not required by your grade. Seeking responsibilities also means that you take responsibility for your actions. 
+For professional development, you must actively seek out challenging assignments. You must use initiative and sound judgment when trying to accomplish jobs that are not required by your grade. Seeking responsibilities also means that you take responsibility for your actions.
 
-You are responsible for all your unit does or fails to do. Regardless of the actions of your subordinates, the responsibility for decisions and their application falls on you. 
+You are responsible for all your unit does or fails to do. Regardless of the actions of your subordinates, the responsibility for decisions and their application falls on you.
 
 You must issue all orders in your name. Stick by your convictions and do what you think is right, but accept justified and constructive criticism. Never remove or demote a subordinate for a failure that is the result of your own mistake.
 

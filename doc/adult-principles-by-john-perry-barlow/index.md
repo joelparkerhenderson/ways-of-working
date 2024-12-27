@@ -24,4 +24,4 @@
 * Foster dignity.
 * Live memorably.
 * Love yourself.
-* Endure. 
+* Endure.

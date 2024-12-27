@@ -24,7 +24,7 @@ Teammates commit to response times for various channels (e.g. chat, email, phone
 
 Enable read receipts by default.
 
-Communication expectations should enable your team is working across time zones 
+Communication expectations should enable your team is working across time zones
 
 Ensure social networking is up to date, such as for any employee directory, organizational chart, company website, LinkedIn page, Twitter feed, etc.
 

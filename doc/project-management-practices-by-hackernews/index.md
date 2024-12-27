@@ -14,7 +14,7 @@ Comment summaries:
 
 * I like the WhatsApp approach. Hire smart people. If a bug is found, investigate and fix it right there and then. Have a 0 bugs backlog. Minimal software footprint: don't put software you don't need in you stackr. No QA team, no waterfall, no kanbans, no scrums. Lots of small, simple deploys.
 
-* I go for a Kanban-like approach augmented by a tool that is more than Trello. Clubhouse is my personal favorite. Also, a trend/mindset that should have taken over (but hasn't yet) is http://asyncmanifesto.org/ . Generally it is a must if any % of your dev team is remote-based. 
+* I go for a Kanban-like approach augmented by a tool that is more than Trello. Clubhouse is my personal favorite. Also, a trend/mindset that should have taken over (but hasn't yet) is http://asyncmanifesto.org/ . Generally it is a must if any % of your dev team is remote-based.
 
 * For an enterprise customer like a bank, or for a mixed hardware/software environment, you may see Kanban/Agile for little sub-teams, but the actual project will be running under Prince2. Prince2 is pretty flexible about letting you run individual tasks the way you want, just don't expect to be able to reshape requirements on the fly without having to justify how that affects the 'business case'.
 
@@ -24,7 +24,7 @@ Comment summaries:
 
 * Agile and Scrum (big A/S) have faded into agile and scrum (little a/s). The 'One True and Holy Process' has faded into a set of processes that organization iterates on. The process should be fit to the team/organization. The team/organization should not be fit to the process. Personally, I have had good luck with a mix of kanban, with multipart estimation and Monte-Carlo simulations for projecting completion dates. So far its worked well and managing change while being able to predict completion times.
 
-*  Check out OKRs for tying back longer-term planning into shorter-term deliverables: https://blog.realkinetic.com/okr-process-489891e6b6a8 
+*  Check out OKRs for tying back longer-term planning into shorter-term deliverables: https://blog.realkinetic.com/okr-process-489891e6b6a8
 
 * For large efforts, I've always subscribed to "define waterfall, build agile". If you don't really hammer away up-front on all the possible avenues stakeholders want to explore in an end product and get those fully listed out and vetted before even the first line of code is written, then the "agile" portion should be simply changing directions on which of those things are considered most critical to delivering a minimum viable product based on where you currently are in the overall effort.
 

@@ -16,7 +16,7 @@ Six years ago I celebrated my 68th birthday by gifting my children 68 bits of ad
 
 * Don’t save up the good stuff (fancy wine, or china) for that rare occasion that will never happen; instead use them whenever you can.
 
-* The best gardening advice: find what you can grow well and grow lots and lots of it. 
+* The best gardening advice: find what you can grow well and grow lots and lots of it.
 
 * Never hesitate to invest in yourself—to pay for a class, a course, a new skill. These modest expenditures pay outsized dividends.
 
@@ -26,7 +26,7 @@ Six years ago I celebrated my 68th birthday by gifting my children 68 bits of ad
 
 * To make a room luxurious, remove things, rather than add things.
 
-* Interview your parents while they are still alive. Keep asking questions while you record. You’ll learn amazing things. Or hire someone to make their story into an oral history, or documentary, or book. This will be a tremendous gift to them and to your family. 
+* Interview your parents while they are still alive. Keep asking questions while you record. You’ll learn amazing things. Or hire someone to make their story into an oral history, or documentary, or book. This will be a tremendous gift to them and to your family.
 
 * If you think someone is normal, you don’t know them very well. Normalcy is a fiction. Your job is to discover their weird genius.
 
@@ -42,7 +42,7 @@ Six years ago I celebrated my 68th birthday by gifting my children 68 bits of ad
 
 * Asking “what-if?” about your past is a waste of time; asking “what-if?” about your future is tremendously productive.
 
-* Try to make the kind of art and things that will inspire others to make art and things. 
+* Try to make the kind of art and things that will inspire others to make art and things.
 
 * Once a month take a different route home, enter your house by a different door, and sit in a different chair at dinner. No ruts.
 
@@ -92,7 +92,7 @@ Six years ago I celebrated my 68th birthday by gifting my children 68 bits of ad
 
 * Strong opinions, clearly stated, but loosely held is the recipe for an intellectual life. Always ask yourself: what would change my mind?
 
-* You can not truly become yourself, by yourself. Becoming one-of-a-kind is not a solo job. Paradoxically you need everyone else in the world to help make you unique. 
+* You can not truly become yourself, by yourself. Becoming one-of-a-kind is not a solo job. Paradoxically you need everyone else in the world to help make you unique.
 
 * If you need emergency help from a bystander, command them what to do. By giving them an assignment, you transform them from bewildered bystander to a responsible assistant.
 
@@ -100,7 +100,7 @@ Six years ago I celebrated my 68th birthday by gifting my children 68 bits of ad
 
 * Don’t work for a company you would not invest money in, because when you are working you are investing the most valuable thing you have: your time.
 
-* Fail fast. Fail often. Fail forward. Failing is not a disgrace if you keep failing better. 
+* Fail fast. Fail often. Fail forward. Failing is not a disgrace if you keep failing better.
 
 * Doing good is its own reward. When you do good, people will question your motive, and any good you accomplish will soon be forgotten. Do good anyway.
 
@@ -110,7 +110,7 @@ Six years ago I celebrated my 68th birthday by gifting my children 68 bits of ad
 
 * Do not cling to a mistake just because you spent a lot of time making it.
 
-* For small tasks the best way to get ready is to do it immediately. 
+* For small tasks the best way to get ready is to do it immediately.
 
 * If someone is calling you to alert you to fraud, nine out of ten times they are themselves the fraudster. Hang up. Call the source yourself if concerned.
 
@@ -148,7 +148,7 @@ Six years ago I celebrated my 68th birthday by gifting my children 68 bits of ad
 
 * Always be radically honest, but use your honesty as a gift not as a weapon. Your honesty should benefit others.
 
-* A good sign that you are doing the kind of work you should be doing is that you enjoy the tedious parts that other people find tortuous. 
+* A good sign that you are doing the kind of work you should be doing is that you enjoy the tedious parts that other people find tortuous.
 
 * Being envious is a toxin. Instead take joy in the success of others and treat their success as your gain. Celebrating the success of others costs you nothing, and increases the happiness of everyone, including you.
 
@@ -174,9 +174,9 @@ Six years ago I celebrated my 68th birthday by gifting my children 68 bits of ad
 
 * Weird but true: If you continually give, you will continually have.
 
-* To clean up your city, sweep your doorstep first. 
+* To clean up your city, sweep your doorstep first.
 
-* Decisions like to present themselves as irreversible, like a one-way door. But most deciding points are two-way. Don’t get bogged down by decisions. You can usually back up if needed. 
+* Decisions like to present themselves as irreversible, like a one-way door. But most deciding points are two-way. Don’t get bogged down by decisions. You can usually back up if needed.
 
 * Every mistake is an opportunity to improvise.
 
@@ -194,13 +194,13 @@ Six years ago I celebrated my 68th birthday by gifting my children 68 bits of ad
 
 * We tend to overrate the value of intelligence.You need to pair your IQ with other virtues. The most important things in life can not be attained through logic only.
 
-* If you are impressed with someone’s work, you should tell them, but even better, tell their boss. 
+* If you are impressed with someone’s work, you should tell them, but even better, tell their boss.
 
 * In matters of the heart, one moment of patience can save you years of regret.
 
 * Humility is mostly about being very honest about how much you owe to luck.
 
-* Slow progress is still a million times better than no progress. 
+* Slow progress is still a million times better than no progress.
 
 * Recipe for greatness: expect much of yourself and little of others.
 

@@ -4,15 +4,15 @@ Be kind.
 
 Be courteous.
 
-Be creative. 
+Be creative.
 
-Be constructive. 
+Be constructive.
 
 Be collaborative.
 
-Be prepared. 
+Be prepared.
 
-Be present. 
+Be present.
 
 Be productive.
 
@@ -24,17 +24,17 @@ Be candid.
 
 Be honest.
 
-Be punctual. 
+Be punctual.
 
-Be open-minded. 
+Be open-minded.
 
-Be open-hearted. 
+Be open-hearted.
 
 Be humble.
 
 Be respectful.
 
-Be trustable. 
+Be trustable.
 
 Be truthful.
 

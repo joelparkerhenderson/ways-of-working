@@ -6,7 +6,7 @@ Favor shortcuts such as symbols, hashtags, emojis, etc. Example: "+1" means "I a
 
 Prefer using topic channels over direct messaging, because topic channels can help more people, in more ways, over more timelines.
 
-Lift important information from chat and messaging into a better long-term place, such as a wiki, or documentation page, or  
+Lift important information from chat and messaging into a better long-term place, such as a wiki, or documentation page, or
 
 Be explicit about expectations. Example: if you expect chat and messaging to be interrupt-driven, or 24x7 urgent, or response-required, then write it.
 

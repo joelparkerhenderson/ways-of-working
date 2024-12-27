@@ -12,7 +12,7 @@ Summary:
 
 * The designer on the team leads the project; there is no project manager.
 
-* We don't track time, measure efficiency, or compare actuals vs. estimates. 
+* We don't track time, measure efficiency, or compare actuals vs. estimates.
 
 * Ideas come from all over, from all of us, and are offered up any time.
 

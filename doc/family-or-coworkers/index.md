@@ -14,4 +14,4 @@ A real family, embraces who you are, gives you harsh truths without politics, "p
 
 Treat your workspace as what it is: a workspace. It's there that you can meet colleagues that can become your friends, fulfill professional goals, and get the compensation you deserve for a job well done.
 
-When you use work as a foundation, such as a Family, your whole self resolves on that location, on those people. Your work, solely, does not define who you are! Never forget that. 
+When you use work as a foundation, such as a Family, your whole self resolves on that location, on those people. Your work, solely, does not define who you are! Never forget that.

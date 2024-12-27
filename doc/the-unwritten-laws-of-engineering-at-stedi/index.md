@@ -70,7 +70,7 @@ would be in place already!
 
 Instead, implement mechanisms for continuous improvement – generally:
 preventative controls and/or detective controls wherever possible, with a root
-cause analysis process for any exceptions. 
+cause analysis process for any exceptions.
 
 ## Component selection
 
@@ -131,10 +131,10 @@ you’d build it the new way and it will get harder over time, do it now.
 
 That said, large-scale lateral migrations (lifting-and-shifting that results in
 a functionally-equivalent customer experience) are extremely costly. We try to
-avoid these when possible. 
+avoid these when possible.
 
 
-## Communication 
+## Communication
 
 
 ### Discussing tradeoffs
@@ -212,7 +212,7 @@ without having done the work to back it up.
 On the flip side, if you see something pronounced as impossible without the
 supporting documentation, ask for the documentation. If you see this happening
 and fail to ask for the work to back it up, you have lowered our bar for
-technical rigor. 
+technical rigor.
 
 ###     Written communication
 

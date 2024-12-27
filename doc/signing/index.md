@@ -1,4 +1,4 @@
-# Ways of working for signing, video calls, loud rooms, etc. 
+# Ways of working for signing, video calls, loud rooms, etc.
 
 Signing a.k.a. sign language can be helpful for people who are hard of hearing, as well as for video calls, loud rooms, etc. Some teams like use signing in all meetings because signing is fast, easy, clear, and keeps things on track.
 

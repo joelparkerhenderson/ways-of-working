@@ -20,7 +20,7 @@ You and your teammates can use this document to help with Ways of Working. This 
 ## What are Ways of Working?
 
 Ways of Working describes a team's set of expectations for participating,
-collaborating, and interrelating. 
+collaborating, and interrelating.
 
 * <b>Principles</b> are fundamental truths that are the foundation for beliefs,
   behaviors, and reasoning. Principles are intended to be universal and permanent.
@@ -28,7 +28,7 @@ collaborating, and interrelating.
   "seek improvement", "train as a team", "think big", and "tell the truth".
 
 * <b>Values</b> are virtues that you want such as: kindness, innovation,
-  community, learning, teamwork, honesty. Values can be subjective and 
+  community, learning, teamwork, honesty. Values can be subjective and
   impermanent, such as "happy customers this year, large profits next year".
   Values can be comparative, such as "responding to change over following a plan".
 
@@ -85,6 +85,7 @@ Overviews:
 Supporting files:
 
 * [Adult Principles by John Perry Barlow](doc/adult-principles-by-john-perry-barlow/)
+* [Principles by Nabeel S. Qureshi](doc/principles-by-nabeel-s-qureshi/)
 * [Ground rules at Tesla by Elon Musk](doc/ground-rules-at-tesla-by-elon-musk/)
 * [Ground Rules by Tree Bressen](doc/ground-rules-by-tree-bressen/)
 * [Ground rules for effective meetings by Get The Picture](doc/ground-rules-for-effective-meetings-by-get-the-picture/)
@@ -105,6 +106,7 @@ Supporting files:
 * [Strategies to improve workplace communication - By Calm Business](doc/strategies-to-improve-workplace-communication-by-calm-business/)
 * [Onboarding and induction checklist - By employmenthero](doc/onboarding-and-induction-checklist-by-employme/)
 * [Our Values - What it Means to Work at ZOE](doc/our-values-what-it-means-to-work-at-zoe/)
+* [101 Additional Advices by Kevin Kelly](doc/101-additional-advices-by-kevin-kelly/)
 
 
 ## Ideas
@@ -124,11 +126,11 @@ Be respectful. Be trustable. Be truthful.
 
 ### For focus and attention
 
-Focus is limited so budget it wisely. 
+Focus is limited so budget it wisely.
 
 Focus is critical for deep work, so decide on team indicators that mean "do not disturb", then respect them.
 
-Focus yourself and your team with practices such as 
+Focus yourself and your team with practices such as
 [TEAM FOCUS](https://github.com/joelparkerhenderson/team-focus),
 [OKR](https://github.com/joelparkerhenderson/objectives-and-key-results),
 [SBS](https://github.com/joelparkerhenderson/strategic-balanced-scorecard),
@@ -187,7 +189,7 @@ Emphasize mutual communication.
 ### For successful teams
 
 Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?
-    
+
 Dependability: Can we count on each other to do high quality work on time?
 
 Impact of work: Do we fundamentally believe that the work we’re doing matters?

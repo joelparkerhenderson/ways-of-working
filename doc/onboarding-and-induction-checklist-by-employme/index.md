@@ -50,7 +50,7 @@ This onboarding checklist helps when you have new employees starting in your bus
 
 **Induction schedule**:
 
-- [ ] Create an induction schedule and add it to the new team member’s calendar. 
+- [ ] Create an induction schedule and add it to the new team member’s calendar.
 
 - [ ] Schedule 1:1 with every relevant member of their team
 

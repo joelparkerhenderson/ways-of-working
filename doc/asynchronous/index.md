@@ -10,7 +10,7 @@ Related:
 
 Ensure that everyone can participate equitably, when they want, where they want.
 
-Structure work and communications for parallel work streams, so people can work on one task while awaiting a response on another task. 
+Structure work and communications for parallel work streams, so people can work on one task while awaiting a response on another task.
 
 If a blocker turns asynchronous work into synchronous work, then work hard to unblock it.
 

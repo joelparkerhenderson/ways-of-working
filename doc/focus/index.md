@@ -4,7 +4,7 @@ Focus is limited so budget it wisely.
 
 Focus is critical for deep work, so decide on team indicators that mean "do not disturb", then respect them.
 
-Focus yourself and your team with practices such as 
+Focus yourself and your team with practices such as
 [TEAM FOCUS](https://github.com/joelparkerhenderson/team-focus),
 [OKR](https://github.com/joelparkerhenderson/objectives-and-key-results),
 [SBS](https://github.com/joelparkerhenderson/strategic-balanced-scorecard),

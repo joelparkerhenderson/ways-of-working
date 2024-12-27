@@ -24,7 +24,7 @@ An offsite meeting is a meeting that takes place outside of the office. The goal
 
 ## Outings
 
-An outing is group journey outside of the office, such as a visit to a customer site, or trade fair, or industry conference. The goal is typically education. 
+An outing is group journey outside of the office, such as a visit to a customer site, or trade fair, or industry conference. The goal is typically education.
 
 
 ## Fun events

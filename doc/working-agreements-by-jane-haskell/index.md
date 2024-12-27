@@ -5,13 +5,13 @@ https://www.uvm.edu/sites/default/files/working-agreements-defined.pdf
 When people meet in groups, there generally are agreements about how
 interactions between the group members will happen.  These agreements can be
 discussed, assumed or written down.  These agreements can be called working
-agreements, ground rules, working guidelines, etc.  
+agreements, ground rules, working guidelines, etc.
 
 Effective group leaders find that the work that needs to be accomplishedin the
 meeting or group can be done more effectively if everyone knows in what
 environment the work will occur.  It helps provide a safe space for group work.
 Often the leader or facilitator will have an existing –or proposed –list of
-working agreements.  Sometimes the group will write their own.  
+working agreements.  Sometimes the group will write their own.
 
 Working agreement are guidelines that define how groups want to work together,
 and what they want in the working environment and from each other to feel safe

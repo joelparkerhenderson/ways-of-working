@@ -3,7 +3,7 @@
 
 ## Goals
 
-Our goals are SMART: specific, measurable, actionable, relavent, and timely. 
+Our goals are SMART: specific, measurable, actionable, relavent, and timely.
 
 Teammates know the goals and also know the steps to take to achieve the goals.
 

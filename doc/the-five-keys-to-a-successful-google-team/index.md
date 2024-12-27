@@ -5,7 +5,7 @@ https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/ (excer
 What makes a Google team effective? We conducted 200+ interviews with Googlers (our employees) and looked at more than 250 attributes of 180+ active Google teams. We learned that there are five key dynamics that set successful teams apart from other teams at Google.
 
 * Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?
-    
+
 * Dependability: Can we count on each other to do high quality work on time?
 
 * Structure & clarity: Are goals, roles, and execution plans on our team clear?

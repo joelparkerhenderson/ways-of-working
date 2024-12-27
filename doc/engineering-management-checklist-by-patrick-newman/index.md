@@ -29,7 +29,7 @@ In my experience it's very difficult to achieve all of this simultaneously, but 
 
 11. Conflicts are resolved in a fair and respectful way.
 
-12. Diversity is represented and embraced; a broad spectrum of views are considered. 
+12. Diversity is represented and embraced; a broad spectrum of views are considered.
 
 
 ## Section 2: Managing peer relationships
@@ -50,7 +50,7 @@ In my experience it's very difficult to achieve all of this simultaneously, but 
 
 8. There is a clear, mutually-respectful escalation path for issues that cannot be resolved between peer managers/engineers.
 
-9. Managers are able to discuss issues privately in a psychologically safe manner. 
+9. Managers are able to discuss issues privately in a psychologically safe manner.
 
 
 ## Section 3: Managing senior management relationships
@@ -62,7 +62,7 @@ In my experience it's very difficult to achieve all of this simultaneously, but 
 3. You are able to advocate for specific prioritization decisions; priorities are set with transparency
 
 4. Clear agreement on goals and definition of success.
- 
+
 
 ## Section 4: Managing yourself
 

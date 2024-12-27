@@ -55,7 +55,7 @@ User Stories:
 Development:
 
 * Pair Programming: Flexible
-* Testing expectations: 
+* Testing expectations:
   * Test Driven Development
   * Unit Tests
   * Integration Tests
