@@ -1,1 +1,1 @@
-./doc/credentials/index.md
+index.md

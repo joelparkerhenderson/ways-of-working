@@ -1,1 +1,1 @@
-./doc/respect/index.md
+index.md

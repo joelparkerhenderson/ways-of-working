@@ -1,1 +1,1 @@
-./doc/focus/index.md
+index.md

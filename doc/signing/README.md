@@ -1,1 +1,1 @@
-./doc/signing/index.md
+index.md

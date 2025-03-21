@@ -1,1 +1,1 @@
-./doc/date-time-formats/index.md
+index.md

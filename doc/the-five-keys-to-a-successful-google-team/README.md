@@ -1,1 +1,1 @@
-./doc/the-five-keys-to-a-successful-google-team/index.md
+index.md

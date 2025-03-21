@@ -1,1 +1,1 @@
-./doc/team-working-agreement-example-by-giffconstable/index.md
+index.md

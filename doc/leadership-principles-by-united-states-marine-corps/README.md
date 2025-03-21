@@ -1,1 +1,1 @@
-./doc/leadership-principles-by-united-states-marine-corps/index.md
+index.md

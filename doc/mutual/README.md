@@ -1,1 +1,1 @@
-./doc/mutual/index.md
+index.md

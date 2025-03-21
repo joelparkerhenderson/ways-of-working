@@ -1,1 +1,1 @@
-./doc/chat/index.md
+index.md

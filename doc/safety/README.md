@@ -1,1 +1,1 @@
-./doc/safety/index.md
+index.md

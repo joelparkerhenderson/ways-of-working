@@ -1,1 +1,1 @@
-./doc/schedules/index.md
+index.md

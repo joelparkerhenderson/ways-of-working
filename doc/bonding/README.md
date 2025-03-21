@@ -1,1 +1,1 @@
-./doc/bonding/index.md
+index.md

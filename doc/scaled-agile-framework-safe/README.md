@@ -1,1 +1,1 @@
-./doc/scaled-agile-framework-safe/index.md
+index.md

@@ -1,1 +1,1 @@
-./doc/status-indicators/index.md
+index.md

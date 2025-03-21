@@ -1,1 +1,1 @@
-./doc/working-agreements-by-jane-haskell/index.md
+index.md

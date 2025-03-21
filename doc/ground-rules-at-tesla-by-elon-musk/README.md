@@ -1,1 +1,1 @@
-./doc/ground-rules-at-tesla-by-elon-musk/index.md
+index.md

@@ -1,1 +1,1 @@
-./doc/software-engineering-at-google/index.md
+index.md

@@ -1,1 +1,1 @@
-./doc/meetings/index.md
+index.md

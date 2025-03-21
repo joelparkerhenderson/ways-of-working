@@ -1,1 +1,1 @@
-./doc/project-management-practices-by-hackernews/index.md
+index.md

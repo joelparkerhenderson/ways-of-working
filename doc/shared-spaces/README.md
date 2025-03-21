@@ -1,1 +1,1 @@
-./doc/shared-spaces/index.md
+index.md

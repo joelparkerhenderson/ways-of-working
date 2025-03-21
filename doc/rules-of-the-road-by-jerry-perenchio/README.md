@@ -1,1 +1,1 @@
-./doc/rules-of-the-road-by-jerry-perenchio/index.md
+index.md

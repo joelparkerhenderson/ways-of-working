@@ -1,1 +1,1 @@
-./doc/email/index.md
+index.md

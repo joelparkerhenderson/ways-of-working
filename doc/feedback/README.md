@@ -1,1 +1,1 @@
-./doc/feedback/index.md
+index.md

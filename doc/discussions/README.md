@@ -1,1 +1,1 @@
-./doc/discussions/index.md
+index.md

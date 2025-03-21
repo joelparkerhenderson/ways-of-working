@@ -1,1 +1,1 @@
-./doc/orientation/index.md
+index.md

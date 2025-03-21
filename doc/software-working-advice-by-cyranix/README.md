@@ -1,1 +1,1 @@
-./doc/software-working-advice-by-cyranix/index.md
+index.md

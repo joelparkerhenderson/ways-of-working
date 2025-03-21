@@ -1,1 +1,1 @@
-./doc/team-norms-by-esther-derby/index.md
+index.md

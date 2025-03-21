@@ -1,1 +1,1 @@
-./doc/collaborators/index.md
+index.md
