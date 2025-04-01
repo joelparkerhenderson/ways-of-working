@@ -79,8 +79,8 @@ Your ways of working are alertable. Example: your teammates all know quickly if 
 
 Overviews:
 
-* [Team Norms, Working Agreements, and Simple Rules by Esther Derby](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/team-norms-by-esther-derby/)
-* [Working Agreements by Jane Haskell](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/working-agreements-by-jane-haskell/)
+* [Team Norms, Working Agreements, and Simple Rules by Esther Derby](doc/team-norms-by-esther-derby/)
+* [Working Agreements by Jane Haskell](doc/working-agreements-by-jane-haskell/)
 
 Supporting repositories:
 
@@ -89,29 +89,29 @@ Supporting repositories:
 
 Supporting files:
 
-* [Adult Principles by John Perry Barlow](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/adult-principles-by-john-perry-barlow/)
-* [Principles by Nabeel S. Qureshi](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/principles-by-nabeel-s-qureshi/)
-* [Ground rules at Tesla by Elon Musk](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/ground-rules-at-tesla-by-elon-musk/)
-* [Ground Rules by Tree Bressen](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/ground-rules-by-tree-bressen/)
-* [Ground rules for effective meetings by Get The Picture](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/ground-rules-for-effective-meetings-by-get-the-picture/)
-* [High-velocity decision making by Amazon](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/high-velocity-decision-making-by-amazon/)
+* [Adult Principles by John Perry Barlow](doc/adult-principles-by-john-perry-barlow/)
+* [Principles by Nabeel S. Qureshi](doc/principles-by-nabeel-s-qureshi/)
+* [Ground rules at Tesla by Elon Musk](doc/ground-rules-at-tesla-by-elon-musk/)
+* [Ground Rules by Tree Bressen](doc/ground-rules-by-tree-bressen/)
+* [Ground rules for effective meetings by Get The Picture](doc/ground-rules-for-effective-meetings-by-get-the-picture/)
+* [High-velocity decision making by Amazon](doc/high-velocity-decision-making-by-amazon/)
 * [How to send progress updates by Slava Akhmechet](how-to-send-progress-updates-by-slava-akhmechet)
-* [How we structure our work and teams at Basecamp](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/how-we-structure-our-work-and-teams-at-basecamp/)
-* [Project management practices by Hacker News participants](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/project-management-practices-by-hackernews/)
-* [Rules of the Road by Jerry Perenchio](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/rules-of-the-road-by-jerry-perenchio/)
-* [Scaled Agile Framework (SAFe)](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/scaled-agile-framework-safe/)
-* [Software Engineering at Google](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/software-engineering-at-google/)
-* [Software working advice by Cyranix](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/software-working-advice-by-cyranix/)
-* [Team working agreements example by giffconstable](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/team-working-agreement-example-by-giffconstable/)
+* [How we structure our work and teams at Basecamp](doc/how-we-structure-our-work-and-teams-at-basecamp/)
+* [Project management practices by Hacker News participants](doc/project-management-practices-by-hackernews/)
+* [Rules of the Road by Jerry Perenchio](doc/rules-of-the-road-by-jerry-perenchio/)
+* [Scaled Agile Framework (SAFe)](doc/scaled-agile-framework-safe/)
+* [Software Engineering at Google](doc/software-engineering-at-google/)
+* [Software working advice by Cyranix](doc/software-working-advice-by-cyranix/)
+* [Team working agreements example by giffconstable](doc/team-working-agreement-example-by-giffconstable/)
 * [The 7 Habits of Highly Effective People](doc/the-7-habits-of-highly-effective-people/)
-* [The Core Protocols by McCarthy](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/the-core-protocols-by-mccarthy/)
-* [The Five Keys to a Successful Google Team](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/the-five-keys-to-a-successful-google-team/)
-* [The unwritten laws of engineering at Stedi](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/the-unwritten-laws-of-engineering-at-stedi/)
-* [Engineering management checklist by Patrick Newman](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/engineering-management-checklist-by-patrick-newman/)
-* [Strategies to improve workplace communication - By Calm Business](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/strategies-to-improve-workplace-communication-by-calm-business/)
-* [Onboarding and induction checklist - By employmenthero](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/onboarding-and-induction-checklist-by-employme/)
-* [Our Values - What it Means to Work at ZOE](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/our-values-what-it-means-to-work-at-zoe/)
-* [101 Additional Advices by Kevin Kelly](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/101-additional-advices-by-kevin-kelly/)
+* [The Core Protocols by McCarthy](doc/the-core-protocols-by-mccarthy/)
+* [The Five Keys to a Successful Google Team](doc/the-five-keys-to-a-successful-google-team/)
+* [The unwritten laws of engineering at Stedi](doc/the-unwritten-laws-of-engineering-at-stedi/)
+* [Engineering management checklist by Patrick Newman](doc/engineering-management-checklist-by-patrick-newman/)
+* [Strategies to improve workplace communication - By Calm Business](doc/strategies-to-improve-workplace-communication-by-calm-business/)
+* [Onboarding and induction checklist - By employmenthero](doc/onboarding-and-induction-checklist-by-employme/)
+* [Our Values - What it Means to Work at ZOE](doc/our-values-what-it-means-to-work-at-zoe/)
+* [101 Additional Advices by Kevin Kelly](doc/101-additional-advices-by-kevin-kelly/)
 
 ## Ideas
 
@@ -125,7 +125,7 @@ Be prepared. Be present. Be productive.
 Be respectful. Be trustable. Be truthful.
 
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/goodness/)
+[More…](doc/goodness/)
 
 
 ### For focus
@@ -143,7 +143,7 @@ Focus yourself and your team with practices such as
 [SMART](https://github.com/joelparkerhenderson/smart-criteria),
 etc.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/focus/)
+[More…](doc/focus/)
 
 
 ### For respect
@@ -154,7 +154,7 @@ Debate the issue, not the person.
 
 Test assumptions and inferences.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/respect/)
+[More…](doc/respect/)
 
 
 ### For collaboration
@@ -165,7 +165,7 @@ Consider what's happening from each person's perspective.
 
 Create more understanding, and less conflict.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/collaborators/)
+[More…](doc/collaborators/)
 
 
 ### For discussions
@@ -176,7 +176,7 @@ Listen actively and attentively.
 
 Build on one another’s comments, to work toward shared understanding.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/discussions/)
+[More…](doc/discussions/)
 
 
 ### For mutual participation
@@ -187,7 +187,7 @@ Emphasize mutual purpose.
 
 Emphasize mutual communication.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/mutual/)
+[More…](doc/mutual/)
 
 
 ### For team success
@@ -198,7 +198,7 @@ Dependability: Can we count on each other to do high quality work on time?
 
 Impact of work: Do we fundamentally believe that the work we’re doing matters?
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/the-five-keys-to-a-successful-google-team/)
+[More…](doc/the-five-keys-to-a-successful-google-team/)
 
 
 ### For communications
@@ -209,7 +209,7 @@ Communications provide equitable participation for everyone involved.
 
 Communications use relevant channels, such as chat, or email, or video, or wiki.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/communications/)
+[More…](doc/communications/)
 
 
 ### For messaging
@@ -220,7 +220,7 @@ Favor shortcuts such as symbols, hashtags, emojis, etc. Example: "+1" means "I a
 
 Prefer using topic channels over direct messaging, because topic channels can help more people, in more ways, over more timelines.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/chat/)
+[More…](doc/chat/)
 
 
 ### For feedback
@@ -231,7 +231,7 @@ Ensure you’re giving lots of positive feedback.
 
 Formal feedback works best when its SMART: Specific, Measurable, Actionable, Relevant, Timely.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/feedback/)
+[More…](doc/feedback/)
 
 
 ### For meetings and briefings
@@ -242,7 +242,7 @@ Announce the agenda. Example: "The plan of this meeting is X because Y".
 
 Optimize the outcome. Example "At the end of this meeting we want X because Y".
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/meetings/)
+[More…](doc/meetings/)
 
 
 ### For asynchronous and remote
@@ -253,18 +253,18 @@ Structure work and communications for parallel work streams, so people can work 
 
 If a blocker turns asynchronous work into synchronous work, then work hard to unblock it.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/asynchronous/)
+[More…](doc/asynchronous/)
 
 
 ### For schedules and calendars
 
-Emphasize time for focus and deep work. Example: use the strengths of "[maker's schedule, manager's schedule](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/makers-schedule-managers-schedule-by-paul-graham/)".
+Emphasize time for focus and deep work. Example: use the strengths of "[maker's schedule, manager's schedule](doc/makers-schedule-managers-schedule-by-paul-graham/)".
 
 Ensure all stakeholders know the expectations for availability, attendance, RSVP, and the like.
 
 Automate. Example: use a group schedule system that create a calendar event using a group's first available date and time.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/schedules/)
+[More…](doc/schedules/)
 
 
 ### For hand signs and visual communication
@@ -275,7 +275,7 @@ For clarification: anyone at any time can ask for clarification, by making the o
 
 For time out: anyone at any time can ask for a time out, by making the two-hand sign "T". Everyone stops. The moderator takes charge. The moderator and the asker discuss.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/signing/)
+[More…](doc/signing/)
 
 
 ### For team bonding
@@ -286,7 +286,7 @@ Try multiple kinds of bonding events, such as all-hands, kick-offs, offsites, ou
 
 Respect people's differences. Examples: people who are focusing on their health may not be able to go to bars for beers; people who have child care responsibilities may not be able to do after-hours events; people who have planned commitments may not be able to do ad-hoc events.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/bonding/)
+[More…](doc/bonding/)
 
 
 ### For orientation
@@ -297,7 +297,7 @@ We use a "projects" document. It lists our projects, their purposes and progress
 
 We use an "onboard" document. It explains how to join our team, how to set up, and how to collaborate.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/orientation/)
+[More…](doc/orientation/)
 
 
 ### For credentials
@@ -308,7 +308,7 @@ Each teammate knows how to manage their credentials securely, such as by using a
 
 Each teammate knows how to report their credentials as lost, or stolen, or otherwise at risk.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/credentials/)
+[More…](doc/credentials/)
 
 
 ### For shared spaces
@@ -319,7 +319,7 @@ If you use confidential information in the shared space, then you must ensure th
 
 When you finish using a shared space, ensure it's in correct condition for the next people.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/shared-spaces/)
+[More…](doc/shared-spaces/)
 
 
 ### For emailing
@@ -330,7 +330,7 @@ If you need the reader to schedule, then write "DUE BY X", "DEADLINE IS X", etc.
 
 If you need the reader to be fast, then write "URGENT", "EMERGENCY", etc.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/email/)
+[More…](doc/email/)
 
 
 ### For safety
@@ -341,4 +341,4 @@ When there's an issue, then we have a way to triage it, handle it, learn from it
 
 When we have dangerous setups, we use lockout/tagout.
 
-[More…](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/safety/)
+[More…](doc/safety/)
