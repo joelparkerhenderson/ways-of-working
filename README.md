@@ -106,6 +106,7 @@ Supporting files:
 * [The 7 Habits of Highly Effective People](doc/the-7-habits-of-highly-effective-people/)
 * [The Core Protocols by McCarthy](doc/the-core-protocols-by-mccarthy/)
 * [The Five Keys to a Successful Google Team](doc/the-five-keys-to-a-successful-google-team/)
+* [The Pragmatic Open Source Contributor](doc/the-pragmatic-open-source-contributor/)
 * [The unwritten laws of engineering at Stedi](doc/the-unwritten-laws-of-engineering-at-stedi/)
 * [Engineering management checklist by Patrick Newman](doc/engineering-management-checklist-by-patrick-newman/)
 * [Strategies to improve workplace communication - By Calm Business](doc/strategies-to-improve-workplace-communication-by-calm-business/)
