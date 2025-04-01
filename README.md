@@ -82,6 +82,11 @@ Overviews:
 * [Team Norms, Working Agreements, and Simple Rules by Esther Derby](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/team-norms-by-esther-derby/)
 * [Working Agreements by Jane Haskell](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/working-agreements-by-jane-haskell/)
 
+Supporting repositories:
+
+* [Leadership](https://github.com/joelparkerhenderson/leadership/)
+* [Principles](https://github.com/joelparkerhenderson/principles/)
+
 Supporting files:
 
 * [Adult Principles by John Perry Barlow](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/adult-principles-by-john-perry-barlow/)
@@ -92,7 +97,6 @@ Supporting files:
 * [High-velocity decision making by Amazon](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/high-velocity-decision-making-by-amazon/)
 * [How to send progress updates by Slava Akhmechet](how-to-send-progress-updates-by-slava-akhmechet)
 * [How we structure our work and teams at Basecamp](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/how-we-structure-our-work-and-teams-at-basecamp/)
-* [Leadership Principles by United States Marine Corps](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/leadership-principles-by-united-states-marine-corps/)
 * [Project management practices by Hacker News participants](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/project-management-practices-by-hackernews/)
 * [Rules of the Road by Jerry Perenchio](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/rules-of-the-road-by-jerry-perenchio/)
 * [Scaled Agile Framework (SAFe)](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/scaled-agile-framework-safe/)
