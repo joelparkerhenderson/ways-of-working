@@ -103,6 +103,7 @@ Supporting files:
 * [Software Engineering at Google](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/software-engineering-at-google/)
 * [Software working advice by Cyranix](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/software-working-advice-by-cyranix/)
 * [Team working agreements example by giffconstable](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/team-working-agreement-example-by-giffconstable/)
+* [The 7 Habits of Highly Effective People](doc/the-7-habits-of-highly-effective-people/)
 * [The Core Protocols by McCarthy](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/the-core-protocols-by-mccarthy/)
 * [The Five Keys to a Successful Google Team](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/the-five-keys-to-a-successful-google-team/)
 * [The unwritten laws of engineering at Stedi](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/the-unwritten-laws-of-engineering-at-stedi/)
@@ -111,7 +112,6 @@ Supporting files:
 * [Onboarding and induction checklist - By employmenthero](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/onboarding-and-induction-checklist-by-employme/)
 * [Our Values - What it Means to Work at ZOE](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/our-values-what-it-means-to-work-at-zoe/)
 * [101 Additional Advices by Kevin Kelly](https://github.com/joelparkerhenderson/ways-of-working/tree/main/doc/101-additional-advices-by-kevin-kelly/)
-
 
 ## Ideas
 
