@@ -1,4 +1,4 @@
-# Principles by Nabeel S. Qureshi
+# Principles - by Nabeel S. Qureshi
 
 https://nabeelqu.co/principles
 

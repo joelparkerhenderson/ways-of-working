@@ -1,4 +1,4 @@
-# Adult Principles by John Perry Barlow
+# Adult Principles - by John Perry Barlow
 
 * Be patient. No matter what.
 * Don’t badmouth: Assign responsibility, not blame. Say nothing of another you wouldn't say to him.

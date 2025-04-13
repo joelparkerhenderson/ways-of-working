@@ -1,4 +1,4 @@
-# Team Norms, Working Agreements, and Simple Rules by Esther Derby
+# Team Norms, Working Agreements, and Simple Rules - by Esther Derby
 
 https://www.estherderby.com/norms-values-working-agreements-simple-rules/
 

@@ -1,4 +1,4 @@
-# Onboarding and induction checklist - By employmenthero
+# Onboarding and induction checklist - by employmenthero
 
 [Source](https://employmenthero.com/wp-content/uploads/2021/06/Onboarding-Checklist-Employment-Hero.pdf)
 

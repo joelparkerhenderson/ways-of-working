@@ -1,4 +1,4 @@
-# Project management practices by Hacker News participants
+# Project management practices - by Hacker News participants
 
 https://news.ycombinator.com/item?id=16377523
 

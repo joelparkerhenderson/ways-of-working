@@ -1,4 +1,4 @@
-# Working Agreements by Jane Haskell
+# Working Agreements - by Jane Haskell
 
 https://www.uvm.edu/sites/default/files/working-agreements-defined.pdf
 

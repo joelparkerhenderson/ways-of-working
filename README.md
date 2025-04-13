@@ -22,44 +22,44 @@ You and your teammates can use this document to help with Ways of Working. This 
 Ways of Working describes a team's set of expectations for participating,
 collaborating, and interrelating.
 
-* <b>Principles</b> are fundamental truths that are the foundation for beliefs,
+* **Principles** are fundamental truths that are the foundation for beliefs,
   behaviors, and reasoning. Principles are intended to be universal and permanent.
   Examples: "be kind", "bias for action", "encourage participation",
   "seek improvement", "train as a team", "think big", and "tell the truth".
 
-* <b>Values</b> are virtues that you want such as: kindness, innovation,
+* **Values** are virtues that you want such as: kindness, innovation,
   community, learning, teamwork, honesty. Values can be subjective and
   impermanent, such as "happy customers this year, large profits next year".
   Values can be comparative, such as "responding to change over following a plan".
 
-* <b>Whys</b> are explanations of why something matters. Whys help people
+* **Whys** are explanations of why something matters. Whys help people
   understand context. Examples: "Why is our principle X?", "Why do we value X?",
   "Why do we do X?", "Why are we working on this together?".
 
-* <b>Tenets</b> are desirable attributes that should be built into all plans,
+* **Tenets** are desirable attributes that should be built into all plans,
   directly related to the operational concept. Tenets should provide planners
   with criteria to evaluate whether their plans are likely to succeed. Examples:
   "Involve users early and often", "Leverage domain-driven design", "Drive
   decisions via metrics".
 
-* <b>Ground rules</b> are guidelines of how people need to behave, for specific
+* **Ground rules** are guidelines of how people need to behave, for specific
   situations such as meetings, or activities, or tasks. Examples: "At our
   meetings everyone gets the opportunity to speak", "Proofread your work",
   "Communicate directly irrespective of hierarchy", "Use safety gear here".
 
-* <b>Aspirations</b> are statements intended to guide interactions and decision
+* **Aspirations** are statements intended to guide interactions and decision
   making within the group, and also across other groups within the organization.
   Example: "Every challenge is an opportunity to learn".
 
-* <b>Norms</b> are informal implicit standards of behavior that emerge over
+* **Norms** are informal implicit standards of behavior that emerge over
   time from the interactions of the group. Example: "By observing the team, we
   see that teammates are punctual".
 
-* <b>Working agreements</b> are protocols that the group develops together,
+* **Working agreements** are protocols that the group develops together,
   commits to follow together, and agreed to uphold together. Example: "Code is
   complete when all tests pass".
 
-* <b>Culture</b> is the customs, arts, groups, and achievements of a particular
+* **Culture** is the customs, arts, groups, and achievements of a particular
   nation, people, or other social group. We advise phasing out the word "culture"
   for ways-of-working, in favor of "principles", "values", "practices", etc.
 
@@ -79,8 +79,8 @@ Your ways of working are alertable. Example: your teammates all know quickly if 
 
 Overviews:
 
-* [Team Norms, Working Agreements, and Simple Rules by Esther Derby](doc/team-norms-by-esther-derby/)
-* [Working Agreements by Jane Haskell](doc/working-agreements-by-jane-haskell/)
+* [Team Norms, Working Agreements, and Simple Rules - by Esther Derby](doc/team-norms-by-esther-derby/)
+* [Working Agreements - by Jane Haskell](doc/working-agreements-by-jane-haskell/)
 
 Supporting repositories:
 
@@ -89,31 +89,31 @@ Supporting repositories:
 
 Supporting files:
 
-* [Adult Principles by John Perry Barlow](doc/adult-principles-by-john-perry-barlow/)
-* [Principles by Nabeel S. Qureshi](doc/principles-by-nabeel-s-qureshi/)
-* [Ground rules at Tesla by Elon Musk](doc/ground-rules-at-tesla-by-elon-musk/)
-* [Ground Rules by Tree Bressen](doc/ground-rules-by-tree-bressen/)
-* [Ground rules for effective meetings by Get The Picture](doc/ground-rules-for-effective-meetings-by-get-the-picture/)
-* [High-velocity decision making by Amazon](doc/high-velocity-decision-making-by-amazon/)
-* [How to send progress updates by Slava Akhmechet](how-to-send-progress-updates-by-slava-akhmechet)
+* [Adult Principles - by John Perry Barlow](doc/adult-principles-by-john-perry-barlow/)
+* [Principles - by Nabeel S. Qureshi](doc/principles-by-nabeel-s-qureshi/)
+* [Ground rules at Tesla - by Elon Musk](doc/ground-rules-at-tesla-by-elon-musk/)
+* [Ground Rules - by Tree Bressen](doc/ground-rules-by-tree-bressen/)
+* [Ground rules for effective meetings - by Get The Picture](doc/ground-rules-for-effective-meetings-by-get-the-picture/)
+* [High-velocity decision making - by Amazon](doc/high-velocity-decision-making-by-amazon/)
+* [How to send progress updates - by Slava Akhmechet](how-to-send-progress-updates-by-slava-akhmechet)
 * [How we structure our work and teams at Basecamp](doc/how-we-structure-our-work-and-teams-at-basecamp/)
 * [People are package deals - by Steve Jobs](doc/people-are-package-deals-by-steve-jobs-and-terrible-software/)
-* [Project management practices by Hacker News participants](doc/project-management-practices-by-hackernews/)
-* [Rules of the Road by Jerry Perenchio](doc/rules-of-the-road-by-jerry-perenchio/)
+* [Project management practices - by Hacker News participants](doc/project-management-practices-by-hackernews/)
+* [Rules of the Road - by Jerry Perenchio](doc/rules-of-the-road-by-jerry-perenchio/)
 * [Scaled Agile Framework (SAFe)](doc/scaled-agile-framework-safe/)
 * [Software Engineering at Google](doc/software-engineering-at-google/)
-* [Software working advice by Cyranix](doc/software-working-advice-by-cyranix/)
+* [Software working advice - by Cyranix](doc/software-working-advice-by-cyranix/)
 * [Team working agreements example by giffconstable](doc/team-working-agreement-example-by-giffconstable/)
 * [The 7 Habits of Highly Effective People](doc/the-7-habits-of-highly-effective-people/)
-* [The Core Protocols by McCarthy](doc/the-core-protocols-by-mccarthy/)
+* [The Core Protocols - by McCarthy](doc/the-core-protocols-by-mccarthy/)
 * [The Five Keys to a Successful Google Team](doc/the-five-keys-to-a-successful-google-team/)
 * [The Pragmatic Open Source Contributor](doc/the-pragmatic-open-source-contributor/)
 * [The unwritten laws of engineering at Stedi](doc/the-unwritten-laws-of-engineering-at-stedi/)
-* [Engineering management checklist by Patrick Newman](doc/engineering-management-checklist-by-patrick-newman/)
-* [Strategies to improve workplace communication - By Calm Business](doc/strategies-to-improve-workplace-communication-by-calm-business/)
-* [Onboarding and induction checklist - By employmenthero](doc/onboarding-and-induction-checklist-by-employme/)
+* [Engineering management checklist - by Patrick Newman](doc/engineering-management-checklist-by-patrick-newman/)
+* [Strategies to improve workplace communication - by Calm Business](doc/strategies-to-improve-workplace-communication-by-calm-business/)
+* [Onboarding and induction checklist - by employmenthero](doc/onboarding-and-induction-checklist-by-employme/)
 * [Our Values - What it Means to Work at ZOE](doc/our-values-what-it-means-to-work-at-zoe/)
-* [101 Additional Advices by Kevin Kelly](doc/101-additional-advices-by-kevin-kelly/)
+* [101 Additional Advices - by Kevin Kelly](doc/101-additional-advices-by-kevin-kelly/)
 
 ## Ideas
 

@@ -1,4 +1,4 @@
-# Engineering management checklist by Patrick Newman
+# Engineering management checklist - by Patrick Newman
 
 http://pnewman.org/engineering_mgmt_checklist.txt
 

@@ -1,4 +1,4 @@
-# Rules of the Road by Jerry Perenchio
+# Rules of the Road - by Jerry Perenchio
 
 The “Rules of the Road” as told by Jerry Perenchio and as published in The Wall Street Journal:
 

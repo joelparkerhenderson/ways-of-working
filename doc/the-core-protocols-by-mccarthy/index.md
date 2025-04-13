@@ -1,4 +1,4 @@
-# The Core Protocols by McCarthy
+# The Core Protocols - by McCarthy
 
 http://www.mccarthyshow.com/online/
 

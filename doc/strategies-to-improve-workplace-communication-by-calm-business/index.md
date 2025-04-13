@@ -1,4 +1,4 @@
-# Strategies to improve workplace communication - By Calm Business
+# Strategies to improve workplace communication - by Calm Business
 
 Workplace communication lays the foundation for employee satisfaction and well-being. Poor communication can hinder employee happiness; effective communication can amplify it.
 

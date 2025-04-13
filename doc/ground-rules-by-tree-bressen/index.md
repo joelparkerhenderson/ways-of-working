@@ -1,4 +1,4 @@
-# Ground Rules by Tree Bressen
+# Ground Rules - by Tree Bressen
 
 https://treegroup.info/library/ground_rules
 

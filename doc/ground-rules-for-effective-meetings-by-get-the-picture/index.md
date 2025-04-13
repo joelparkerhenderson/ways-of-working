@@ -1,4 +1,4 @@
-# Ground rules for effective meetings by Get The Picture
+# Ground rules for effective meetings - by Get The Picture
 
 https://getthepicture.ca/2018/10/10/list-of-ground-rules-for-effective-meetings/
 

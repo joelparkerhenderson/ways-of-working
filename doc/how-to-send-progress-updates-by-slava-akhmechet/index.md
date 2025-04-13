@@ -1,4 +1,4 @@
-# How to send progress updates by Slava Akhmechet
+# How to send progress updates - by Slava Akhmechet
 
 https://www.spakhm.com/updates-howto
 

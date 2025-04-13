@@ -1,4 +1,4 @@
-# Software working advice by Cyranix
+# Software working advice - by Cyranix
 
 https://news.ycombinator.com/item?id=16377523
 

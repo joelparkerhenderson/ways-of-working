@@ -1,4 +1,4 @@
-# 101 Additional Advices by Kevin Kelly
+# 101 Additional Advices - by Kevin Kelly
 
 https://kk.org/thetechnium/101-additional-advices/
 

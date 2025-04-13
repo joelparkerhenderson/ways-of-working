@@ -1,4 +1,4 @@
-# High-velocity decision making by Amazon
+# High-velocity decision making - by Amazon
 
 For team decisions, here are some examples thanks to Amazon's "high-velocity decision making" tips.
 
