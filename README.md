@@ -97,6 +97,7 @@ Supporting files:
 * [High-velocity decision making by Amazon](doc/high-velocity-decision-making-by-amazon/)
 * [How to send progress updates by Slava Akhmechet](how-to-send-progress-updates-by-slava-akhmechet)
 * [How we structure our work and teams at Basecamp](doc/how-we-structure-our-work-and-teams-at-basecamp/)
+* [People are package deals - by Steve Jobs](doc/people-are-package-deals-by-steve-jobs-and-terrible-software/)
 * [Project management practices by Hacker News participants](doc/project-management-practices-by-hackernews/)
 * [Rules of the Road by Jerry Perenchio](doc/rules-of-the-road-by-jerry-perenchio/)
 * [Scaled Agile Framework (SAFe)](doc/scaled-agile-framework-safe/)
