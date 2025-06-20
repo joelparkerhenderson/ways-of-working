@@ -6,7 +6,7 @@ The “Rules of the Road” as told by Jerry Perenchio and as published in The W
 * No nepotism, no hiring of friends.
 * Never rehire anyone.
 * Hire people smarter and better than you. Delegate responsibilities to them. Doing so will make your job easier.
-* You’ve go to know your territory. Cold!
+* You’ve got to know your territory. Cold!
 * Do your homework. Be prepared.
 * Teamwork.
 * Take options, never give them.
